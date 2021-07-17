@@ -1,0 +1,36 @@
+AntiFeatures:
+  - NonFreeNet
+Categories:
+  - Graphics
+  - Reading
+License: MIT
+SourceCode: https://github.com/gsioteam/kinoko
+IssueTracker: https://github.com/gsioteam/kinoko/issues
+
+AutoName: Kinoko
+Summary: Awesome manga reader
+
+RepoType: git
+Repo: https://github.com/gsioteam/kinoko.git
+
+Builds:
+  - versionName: 2.0.2
+    versionCode: 44
+    commit: v2.0.2
+    output: build/app/outputs/flutter-apk/app-release.apk
+    srclibs:
+      - flutter@2.0.5
+    rm:
+      - ios
+      - plugins/glib/ios
+      - plugins/glib/example/ios
+    build:
+      - $$flutter$$/bin/flutter config --no-analytics
+      - $$flutter$$/bin/flutter build apk
+    ndk: r21e
+
+AutoUpdateMode: Version v%v
+UpdateCheckMode: Tags v\d+\.\d+(\.\d+)?
+UpdateCheckData: pubspec.yaml|version:\s.+\+(\d+)|.|version:\s(.+)\+
+CurrentVersion: 2.0.2
+CurrentVersionCode: 44

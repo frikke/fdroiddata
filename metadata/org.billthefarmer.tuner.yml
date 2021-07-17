@@ -228,7 +228,19 @@ Builds:
     gradle:
       - yes
 
+  - versionName: '1.39'
+    versionCode: 139
+    commit: ecf97e45bc050ccf93e0c11f7c2b2e07cfa941ff
+    gradle:
+      - yes
+
+  - versionName: '1.40'
+    versionCode: 140
+    commit: 91772ec01161c48e7aea2dd12d2b12f750250c1f
+    gradle:
+      - yes
+
 AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
-CurrentVersion: '1.38'
-CurrentVersionCode: 138
+CurrentVersion: '1.40'
+CurrentVersionCode: 140

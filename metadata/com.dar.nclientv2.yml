@@ -211,11 +211,39 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 2.8.0-stable-release
+    versionCode: 280
+    commit: 2.8.0
+    subdir: app
+    gradle:
+      - yes
+
+  - versionName: 2.8.1-stable-release
+    versionCode: 281
+    commit: 2.8.1
+    subdir: app
+    gradle:
+      - yes
+
+  - versionName: 2.8.2-stable-release
+    versionCode: 282
+    commit: 2.8.2
+    subdir: app
+    gradle:
+      - yes
+
+  - versionName: 2.8.3-stable-release
+    versionCode: 283
+    commit: 2.8.3
+    subdir: app
+    gradle:
+      - yes
+
 MaintainerNotes: UpdateCheckMode stays as HTTP as beta version are not reflected in
     git tags.
 
 AutoUpdateMode: Version +-stable-release %v
 UpdateCheckMode: HTTP
 UpdateCheckData: https://raw.githubusercontent.com/Dar9586/NClientV2/master/app/build.gradle|versionCode\s+(\d+)|.|versionName\s"([\d.]+)-stable"
-CurrentVersion: 2.7.6
-CurrentVersionCode: 276
+CurrentVersion: 2.8.3
+CurrentVersionCode: 283

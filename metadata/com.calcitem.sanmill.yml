@@ -708,7 +708,7 @@ Builds:
     commit: c8ac37c0c05ad9985572fee7206d8aa76501ada0
     output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
     srclibs:
-      - flutter@2.2.2
+      - flutter@2.2.3
     rm:
       - ci
       - src/perfect
@@ -720,8 +720,171 @@ Builds:
       - resources
       - tests
     prebuild:
-      - rm src/ui/flutter_app/android/app/build.gradle
-      - mv src/ui/flutter_app/android/app/build.gradle_fdroid src/ui/flutter_app/android/app/build.gradle
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.10
+    versionCode: 2011
+    commit: a62d343e04d60712f36f9e5dd07779f07c24ec47
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.11
+    versionCode: 2020
+    commit: 9c93abdc33d6b833c219c5acf6d1f69bd840328b
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.12
+    versionCode: 2025
+    commit: 77fbb0749fbc4412e00113c2eb283f62a9c1b29f
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.13
+    versionCode: 2031
+    commit: ed7a8648824165e4372b34a68e767afe96d187c6
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.14
+    versionCode: 2037
+    commit: f6bea033a0703b6a72f7d3c35e062b8f7b8e3cf1
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
+    build:
+      - export PATH=$$flutter$$/bin:$PATH
+      - ./flutter-init.sh
+      - cd src/ui/flutter_app
+      - flutter config --no-analytics
+      - flutter build apk -v --flavor fdroid
+
+  - versionName: 1.1.15
+    versionCode: 2043
+    commit: cda1265d8bb0f7efb6be1d975593790a54a357f8
+    output: src/ui/flutter_app/build/app/outputs/flutter-apk/app-fdroid-release.apk
+    srclibs:
+      - flutter@2.2.3
+    rm:
+      - ci
+      - src/perfect
+      - src/test
+      - src/ui/flutter_app/ios
+      - src/ui/flutter_app/windows
+      - src/ui/flutter_app/test
+      - src/ui/qt
+      - resources
+      - tests
+    prebuild:
+      - cd src/ui/flutter_app/android/app
+      - rm build.gradle
+      - mv build.gradle_fdroid build.gradle
     build:
       - export PATH=$$flutter$$/bin:$PATH
       - ./flutter-init.sh
@@ -737,5 +900,5 @@ MaintainerNotes: |-
 AutoUpdateMode: Version
 UpdateCheckMode: Tags ^v.*$
 UpdateCheckData: src/ui/flutter_app/pubspec.yaml|version:\s.+\+(\d+)|.|version:\s(.+)\+
-CurrentVersion: 1.1.9
-CurrentVersionCode: 1998
+CurrentVersion: 1.1.15
+CurrentVersionCode: 2043

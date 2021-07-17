@@ -9,8 +9,7 @@ SourceCode: https://github.com/BlueWallet/BlueWallet
 IssueTracker: https://github.com/BlueWallet/BlueWallet/issues
 Translation: https://www.transifex.com/bluewallet/bluewallet/
 
-AutoName: BlueWallet Bitcoin Wallet
-Summary: Thin Bitcoin Wallet Built with React Native and Electrum
+AutoName: BlueWallet
 Description: |-
     A Bitcoin wallet that allows you to store, send Bitcoin, receive Bitcoin and buy Bitcoin with focus on security and simplicity.
     On BlueWallet, a bitcoin wallet you own you private keys. A Bitcoin wallet made by Bitcoin users for the community.
@@ -134,6 +133,6 @@ Builds:
     ndk: r21
 
 AutoUpdateMode: None
-UpdateCheckMode: Tags
+UpdateCheckMode: None
 CurrentVersion: 6.1.6
 CurrentVersionCode: 60106

@@ -139,7 +139,49 @@ Builds:
     gradle:
       - fdroid
 
+  - versionName: v0.10.3
+    versionCode: 1003
+    commit: da106fc0dd4cf40e4f648dc8d159e0153f13e78e
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
+  - versionName: v0.10.4
+    versionCode: 1004
+    commit: cbc5fe1c8a34386575b51d2313768ce3a76abfe8
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
+  - versionName: v0.10.5
+    versionCode: 1005
+    commit: 15f38eae82f68bb4d96b81ca2b72f962f491b045
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
+  - versionName: v0.10.6
+    versionCode: 1006
+    commit: 0461c551ee17583385759589222812963e155b58
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
+  - versionName: v0.10.7
+    versionCode: 1007
+    commit: b71c7a4bbac6ba02f43677d5b4bc6739d3273e84
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
+  - versionName: v0.10.8
+    versionCode: 1008
+    commit: b1104601edeb448dcdb76e51e3662b5643baf100
+    subdir: Kuroba/app
+    gradle:
+      - fdroid
+
 AutoUpdateMode: Version %v-release
 UpdateCheckMode: Tags v\d+?\.\d{1,2}\.\d{1,2}-release$
-CurrentVersion: v0.9.6
-CurrentVersionCode: 906
+CurrentVersion: v0.10.8
+CurrentVersionCode: 1008

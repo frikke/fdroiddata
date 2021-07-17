@@ -442,6 +442,9 @@ app.organicmaps_21052106.apk app.organicmaps 2021-05-25
 app.organicmaps_21060705.apk app.organicmaps 2021-06-11
 app.organicmaps_21061207.apk app.organicmaps 2021-06-18
 app.organicmaps_21062006.apk app.organicmaps 2021-06-24
+app.organicmaps_21062309.apk app.organicmaps 2021-07-02
+app.organicmaps_21070416.apk app.organicmaps 2021-07-10
+app.organicmaps_21070806.apk app.organicmaps 2021-07-12
 app.pott.kaffeepott.androidclient_10104.apk app.pott.kaffeepott.androidclient 2020-08-10
 app.reading.stoic.stoicreading_4.apk app.reading.stoic.stoicreading 2018-06-16
 app.reading.stoic.stoicreading_5.apk app.reading.stoic.stoicreading 2018-06-17
@@ -481,6 +484,7 @@ app.reading.stoic.stoicreading_66.apk app.reading.stoic.stoicreading 2020-03-26
 app.reading.stoic.stoicreading_67.apk app.reading.stoic.stoicreading 2020-03-30
 app.reading.stoic.stoicreading_68.apk app.reading.stoic.stoicreading 2021-02-03
 app.reading.stoic.stoicreading_69.apk app.reading.stoic.stoicreading 2021-03-14
+app.seeneva.reader_1.apk app.seeneva.reader 2021-07-02
 app.varlorg.unote_1.apk app.varlorg.unote 2016-02-28
 app.varlorg.unote_2.apk app.varlorg.unote 2016-03-12
 app.varlorg.unote_3.apk app.varlorg.unote 2016-03-18
@@ -558,6 +562,7 @@ apps.droidnotify_67.apk apps.droidnotify 2013-04-08
 apps.jizzu.simpletodo_5.apk apps.jizzu.simpletodo 2018-08-12
 aq.com.sharetobrowser_1.apk aq.com.sharetobrowser 2016-11-01
 aq.metallists.loudbang_41.apk aq.metallists.loudbang 2021-03-14
+aq.metallists.loudbang_42.apk aq.metallists.loudbang 2021-07-10
 ar.com.tristeslostrestigres.diasporanativewebapp_2.apk ar.com.tristeslostrestigres.diasporanativewebapp 2015-06-18
 ar.com.tristeslostrestigres.diasporanativewebapp_3.apk ar.com.tristeslostrestigres.diasporanativewebapp 2015-06-21
 ar.com.tristeslostrestigres.diasporanativewebapp_4.apk ar.com.tristeslostrestigres.diasporanativewebapp 2015-06-22
@@ -1251,6 +1256,7 @@ br.com.dgimenes.nasapic_12.apk br.com.dgimenes.nasapic 2016-09-15
 br.com.frs.foodrestrictions_2.apk br.com.frs.foodrestrictions 2017-02-24
 br.com.gualandi.dailypill_9.apk br.com.gualandi.dailypill 2020-08-21
 br.com.gualandi.dailypill_13.apk br.com.gualandi.dailypill 2020-09-07
+br.com.gualandi.dailypill_14.apk br.com.gualandi.dailypill 2021-07-07
 br.odb.knights_5.apk br.odb.knights 2016-10-11
 br.usp.ime.retrobreaker_2.apk br.usp.ime.retrobreaker 2014-05-27
 br.usp.ime.retrobreaker_3.apk br.usp.ime.retrobreaker 2014-06-02
@@ -1345,6 +1351,7 @@ ca.mudar.fairphone.peaceofmind_22.apk ca.mudar.fairphone.peaceofmind 2019-10-09
 ca.pr0ps.xposed.entrustunblocker_1.apk ca.pr0ps.xposed.entrustunblocker 2016-01-06
 ca.pr0ps.xposed.entrustunblocker_2.apk ca.pr0ps.xposed.entrustunblocker 2016-01-06
 ca.pr0ps.xposed.entrustunblocker_3.apk ca.pr0ps.xposed.entrustunblocker 2017-05-10
+ca.ramzan.delist_2.apk ca.ramzan.delist 2021-07-15
 ca.ramzan.virtuosity_1.apk ca.ramzan.virtuosity 2021-04-29
 ca.rmen.android.frenchcalendar_130.apk ca.rmen.android.frenchcalendar 2014-11-19
 ca.rmen.android.frenchcalendar_140.apk ca.rmen.android.frenchcalendar 2014-11-24
@@ -1546,6 +1553,8 @@ cat.mvmike.minimalcalendarwidget_23.apk cat.mvmike.minimalcalendarwidget 2020-12
 cat.mvmike.minimalcalendarwidget_24.apk cat.mvmike.minimalcalendarwidget 2021-03-14
 cat.mvmike.minimalcalendarwidget_25.apk cat.mvmike.minimalcalendarwidget 2021-05-15
 cat.mvmike.minimalcalendarwidget_26.apk cat.mvmike.minimalcalendarwidget 2021-06-11
+cat.mvmike.minimalcalendarwidget_27.apk cat.mvmike.minimalcalendarwidget 2021-07-05
+cat.mvmike.minimalcalendarwidget_28.apk cat.mvmike.minimalcalendarwidget 2021-07-12
 cat.pantsu.nyaapantsu_1.apk cat.pantsu.nyaapantsu 2017-07-09
 cat.pantsu.nyaapantsu_3.apk cat.pantsu.nyaapantsu 2021-06-16
 cc.calliope.mini_7.apk cc.calliope.mini 2019-06-14
@@ -1581,6 +1590,10 @@ ch.abertschi.adfree_33.apk ch.abertschi.adfree 2019-11-14
 ch.abertschi.adfree_34.apk ch.abertschi.adfree 2020-02-29
 ch.abertschi.adfree_35.apk ch.abertschi.adfree 2020-03-08
 ch.abertschi.adfree_36.apk ch.abertschi.adfree 2020-03-17
+ch.admin.bag.covidcertificate.verifier_1200.apk ch.admin.bag.covidcertificate.verifier 2021-07-02
+ch.admin.bag.covidcertificate.verifier_2000.apk ch.admin.bag.covidcertificate.verifier 2021-07-05
+ch.admin.bag.covidcertificate.wallet_1200.apk ch.admin.bag.covidcertificate.wallet 2021-07-02
+ch.admin.bag.covidcertificate.wallet_2000.apk ch.admin.bag.covidcertificate.wallet 2021-07-05
 ch.bailu.aat_5.apk ch.bailu.aat 2015-12-01
 ch.bailu.aat_6.apk ch.bailu.aat 2016-01-12
 ch.bailu.aat_7.apk ch.bailu.aat 2016-01-21
@@ -1609,6 +1622,7 @@ ch.bailu.aat_30.apk ch.bailu.aat 2019-11-05
 ch.bailu.aat_31.apk ch.bailu.aat 2020-02-29
 ch.bailu.aat_32.apk ch.bailu.aat 2020-07-29
 ch.bailu.aat_33.apk ch.bailu.aat 2021-04-14
+ch.bailu.aat_34.apk ch.bailu.aat 2021-07-15
 ch.blinkenlights.android.apnswitch_132351998.apk ch.blinkenlights.android.apnswitch 2012-10-03
 ch.blinkenlights.android.vanilla_912.apk ch.blinkenlights.android.vanilla 2012-10-03
 ch.blinkenlights.android.vanilla_913.apk ch.blinkenlights.android.vanilla 2012-10-08
@@ -1781,6 +1795,7 @@ ch.protonvpn.android_102064405.apk ch.protonvpn.android 2021-03-14
 ch.protonvpn.android_102069100.apk ch.protonvpn.android 2021-04-09
 ch.protonvpn.android_102075601.apk ch.protonvpn.android 2021-06-18
 ch.protonvpn.android_102075602.apk ch.protonvpn.android 2021-06-24
+ch.protonvpn.android_102077000.apk ch.protonvpn.android 2021-07-10
 ch.rmy.android.http_shortcuts_1101340001.apk ch.rmy.android.http_shortcuts 2020-09-07
 ch.rmy.android.http_shortcuts_1101350001.apk ch.rmy.android.http_shortcuts 2020-09-07
 ch.rmy.android.http_shortcuts_1101360000.apk ch.rmy.android.http_shortcuts 2020-09-18
@@ -1940,6 +1955,7 @@ co.timsmart.vouchervault_13.apk co.timsmart.vouchervault 2021-03-24
 co.timsmart.vouchervault_14.apk co.timsmart.vouchervault 2021-03-29
 co.timsmart.vouchervault_15.apk co.timsmart.vouchervault 2021-05-02
 co.timsmart.vouchervault_16.apk co.timsmart.vouchervault 2021-05-23
+co.timsmart.vouchervault_17.apk co.timsmart.vouchervault 2021-07-02
 co.wakarimasen.chanexplorer_63.apk co.wakarimasen.chanexplorer 2014-02-12
 com.Bisha.TI89EmuDonation_1133.apk com.Bisha.TI89EmuDonation 2014-07-20
 com.DartChecker_2.apk com.DartChecker 2019-02-05
@@ -1961,6 +1977,7 @@ com.DartChecker_17.apk com.DartChecker 2021-03-08
 com.DartChecker_18.apk com.DartChecker 2021-03-17
 com.DartChecker_19.apk com.DartChecker 2021-04-23
 com.DartChecker_20.apk com.DartChecker 2021-06-16
+com.DartChecker_21.apk com.DartChecker 2021-07-02
 com.EthanHeming.NeuralNetworkSimulator_6.apk com.EthanHeming.NeuralNetworkSimulator 2018-09-20
 com.FireFart.Permissions2_3.apk com.FireFart.Permissions2 2012-08-23
 com.FireFart.Permissions_2.apk com.FireFart.Permissions 2011-03-02
@@ -2151,6 +2168,7 @@ com.adonai.manman_171.apk com.adonai.manman 2017-05-10
 com.adonai.manman_173.apk com.adonai.manman 2020-10-20
 com.adonai.manman_174.apk com.adonai.manman 2021-06-20
 com.adonai.manman_175.apk com.adonai.manman 2021-06-24
+com.adonai.manman_176.apk com.adonai.manman 2021-07-05
 com.adrienpoupa.attestationcoronavirus_3.apk com.adrienpoupa.attestationcoronavirus 2020-04-01
 com.adrienpoupa.attestationcoronavirus_4.apk com.adrienpoupa.attestationcoronavirus 2020-04-06
 com.adrienpoupa.attestationcoronavirus_6.apk com.adrienpoupa.attestationcoronavirus 2020-04-13
@@ -2201,6 +2219,7 @@ com.agateau.tinywheels.android_17.apk com.agateau.tinywheels.android 2020-08-31
 com.agateau.tinywheels.android_18.apk com.agateau.tinywheels.android 2020-12-29
 com.agateau.tinywheels.android_19.apk com.agateau.tinywheels.android 2021-03-01
 com.agateau.tinywheels.android_20.apk com.agateau.tinywheels.android 2021-04-29
+com.agateau.tinywheels.android_21.apk com.agateau.tinywheels.android 2021-07-07
 com.agiro.scanner.android_2.apk com.agiro.scanner.android 2011-01-27
 com.agnibho.android.solarcompass_1.apk com.agnibho.android.solarcompass 2016-01-30
 com.ahorcado_4.apk com.ahorcado 2019-06-06
@@ -2440,6 +2459,7 @@ com.android.keepass_199.apk com.android.keepass 2021-06-11
 com.android.keepass_200.apk com.android.keepass 2021-06-13
 com.android.keepass_201.apk com.android.keepass 2021-06-13
 com.android.keepass_202.apk com.android.keepass 2021-06-24
+com.android.keepass_203.apk com.android.keepass 2021-07-02
 com.android.launcher3_1.apk com.android.launcher3 2013-12-09
 com.android.music_1.apk com.android.music 2013-06-24
 com.android.music_2.apk com.android.music 2016-08-18
@@ -2527,6 +2547,7 @@ com.antony.muzei.pixiv_300.apk com.antony.muzei.pixiv 2021-04-05
 com.antony.muzei.pixiv_301.apk com.antony.muzei.pixiv 2021-05-11
 com.antony.muzei.pixiv_302.apk com.antony.muzei.pixiv 2021-05-15
 com.antony.muzei.pixiv_307.apk com.antony.muzei.pixiv 2021-05-25
+com.antony.muzei.pixiv_309.apk com.antony.muzei.pixiv 2021-07-12
 com.anysoftkeyboard.languagepack.SSH_4.apk com.anysoftkeyboard.languagepack.SSH 2013-03-15
 com.anysoftkeyboard.languagepack.afrikaans_100.apk com.anysoftkeyboard.languagepack.afrikaans 2018-06-25
 com.anysoftkeyboard.languagepack.afrikaans_2908.apk com.anysoftkeyboard.languagepack.afrikaans 2021-06-24
@@ -2657,6 +2678,7 @@ com.appmindlab.nano_1206.apk com.appmindlab.nano 2021-05-11
 com.appmindlab.nano_1207.apk com.appmindlab.nano 2021-05-15
 com.appmindlab.nano_1211.apk com.appmindlab.nano 2021-06-18
 com.appmindlab.nano_1212.apk com.appmindlab.nano 2021-06-24
+com.appmindlab.nano_1213.apk com.appmindlab.nano 2021-07-10
 com.apps.adrcotfas.goodtime_79.apk com.apps.adrcotfas.goodtime 2019-03-01
 com.apps.adrcotfas.goodtime_82.apk com.apps.adrcotfas.goodtime 2019-03-03
 com.apps.adrcotfas.goodtime_84.apk com.apps.adrcotfas.goodtime 2019-04-01
@@ -2767,6 +2789,7 @@ com.asdoi.gymwen_121.apk com.asdoi.gymwen 2020-06-02
 com.asdoi.gymwen_122.apk com.asdoi.gymwen 2020-10-20
 com.asdoi.gymwen_123.apk com.asdoi.gymwen 2021-02-17
 com.asdoi.gymwen_124.apk com.asdoi.gymwen 2021-03-06
+com.asdoi.gymwen_130.apk com.asdoi.gymwen 2021-07-15
 com.asdoi.mebis_130.apk com.asdoi.mebis 2021-01-31
 com.asdoi.mebis_150.apk com.asdoi.mebis 2021-01-31
 com.asdoi.quicktiles_12.apk com.asdoi.quicktiles 2020-11-12
@@ -2842,6 +2865,8 @@ com.aurora.store_33.apk com.aurora.store 2021-03-24
 com.aurora.store_34.apk com.aurora.store 2021-04-09
 com.aurora.store_35.apk com.aurora.store 2021-04-09
 com.aurora.store_36.apk com.aurora.store 2021-05-17
+com.aurora.store_37.apk com.aurora.store 2021-07-05
+com.aurora.store_38.apk com.aurora.store 2021-07-07
 com.averi.worldscribe_17.apk com.averi.worldscribe 2018-10-10
 com.averi.worldscribe_18.apk com.averi.worldscribe 2019-01-15
 com.averi.worldscribe_19.apk com.averi.worldscribe 2019-08-22
@@ -3052,6 +3077,7 @@ com.better.alarm_2802.apk com.better.alarm 2015-02-27
 com.better.alarm_2901.apk com.better.alarm 2015-03-30
 com.better.alarm_30505.apk com.better.alarm 2020-03-12
 com.better.alarm_30701.apk com.better.alarm 2021-04-16
+com.better.alarm_30808.apk com.better.alarm 2021-07-10
 com.biglybt.android.client_9.apk com.biglybt.android.client 2017-10-13
 com.biglybt.android.client_15.apk com.biglybt.android.client 2017-11-24
 com.biglybt.android.client_17.apk com.biglybt.android.client 2017-12-15
@@ -3240,6 +3266,7 @@ com.brentpanther.bitcoinwidget_260.apk com.brentpanther.bitcoinwidget 2021-04-16
 com.brentpanther.bitcoinwidget_261.apk com.brentpanther.bitcoinwidget 2021-05-20
 com.brentpanther.bitcoinwidget_262.apk com.brentpanther.bitcoinwidget 2021-06-01
 com.brentpanther.bitcoinwidget_263.apk com.brentpanther.bitcoinwidget 2021-06-11
+com.brentpanther.bitcoinwidget_264.apk com.brentpanther.bitcoinwidget 2021-07-10
 com.brentpanther.ethereumwidget_10.apk com.brentpanther.ethereumwidget 2017-08-15
 com.brentpanther.ethereumwidget_11.apk com.brentpanther.ethereumwidget 2017-08-28
 com.brentpanther.ethereumwidget_20.apk com.brentpanther.ethereumwidget 2017-10-03
@@ -3406,6 +3433,14 @@ com.calcitem.sanmill_1936.apk com.calcitem.sanmill 2021-06-20
 com.calcitem.sanmill_1953.apk com.calcitem.sanmill 2021-06-24
 com.calcitem.sanmill_1956.apk com.calcitem.sanmill 2021-06-24
 com.calcitem.sanmill_1959.apk com.calcitem.sanmill 2021-06-30
+com.calcitem.sanmill_1962.apk com.calcitem.sanmill 2021-07-02
+com.calcitem.sanmill_1994.apk com.calcitem.sanmill 2021-07-02
+com.calcitem.sanmill_1998.apk com.calcitem.sanmill 2021-07-07
+com.calcitem.sanmill_2011.apk com.calcitem.sanmill 2021-07-07
+com.calcitem.sanmill_2020.apk com.calcitem.sanmill 2021-07-07
+com.calcitem.sanmill_2025.apk com.calcitem.sanmill 2021-07-10
+com.calcitem.sanmill_2031.apk com.calcitem.sanmill 2021-07-12
+com.calcitem.sanmill_2037.apk com.calcitem.sanmill 2021-07-15
 com.call.recorder_24.apk com.call.recorder 2014-08-18
 com.callrecorder.android_25.apk com.callrecorder.android 2015-04-05
 com.casimirlab.simpleDeadlines_9.apk com.casimirlab.simpleDeadlines 2013-03-22
@@ -3449,6 +3484,7 @@ com.chanapps.four.activity_89.apk com.chanapps.four.activity 2015-06-27
 com.chanapps.four.activity_90.apk com.chanapps.four.activity 2015-10-30
 com.chancehorizon.just24hoursplus_12.apk com.chancehorizon.just24hoursplus 2020-07-16
 com.chen.deskclock_4.apk com.chen.deskclock 2021-04-09
+com.chesire.nekome_21070719.apk com.chesire.nekome 2021-07-15
 com.chessclock.android_8.apk com.chessclock.android 2012-01-08
 com.chessclock.android_10.apk com.chessclock.android 2019-04-16
 com.chessclock.android_11.apk com.chessclock.android 2019-05-01
@@ -3552,6 +3588,7 @@ com.concept1tech.instalate_2.apk com.concept1tech.instalate 2021-02-17
 com.concept1tech.instalate_3.apk com.concept1tech.instalate 2021-03-01
 com.concept1tech.instalate_4.apk com.concept1tech.instalate 2021-03-24
 com.concept1tech.instalate_5.apk com.concept1tech.instalate 2021-06-07
+com.concept1tech.instalate_6.apk com.concept1tech.instalate 2021-07-05
 com.controlloid_8.apk com.controlloid 2019-04-17
 com.controlloid_9.apk com.controlloid 2019-05-19
 com.controlloid_10.apk com.controlloid 2019-05-21
@@ -3674,6 +3711,7 @@ com.craigd.lmsmaterial.app_102.apk com.craigd.lmsmaterial.app 2020-08-21
 com.craigd.lmsmaterial.app_103.apk com.craigd.lmsmaterial.app 2020-09-07
 com.craigd.lmsmaterial.app_104.apk com.craigd.lmsmaterial.app 2020-09-24
 com.craigd.lmsmaterial.app_105.apk com.craigd.lmsmaterial.app 2021-05-15
+com.craigd.lmsmaterial.app_200.apk com.craigd.lmsmaterial.app 2021-07-15
 com.crazyhitty.chdev.ks.munch_13.apk com.crazyhitty.chdev.ks.munch 2016-03-08
 com.crazyhitty.chdev.ks.munch_14.apk com.crazyhitty.chdev.ks.munch 2016-04-27
 com.crazylegend.vigilante_4.apk com.crazylegend.vigilante 2020-12-19
@@ -3711,6 +3749,7 @@ com.ctemplar.app.fdroid_19.apk com.ctemplar.app.fdroid 2021-03-14
 com.ctemplar.app.fdroid_20.apk com.ctemplar.app.fdroid 2021-04-23
 com.ctemplar.app.fdroid_21.apk com.ctemplar.app.fdroid 2021-05-03
 com.ctemplar.app.fdroid_22.apk com.ctemplar.app.fdroid 2021-06-18
+com.ctemplar.app.fdroid_23.apk com.ctemplar.app.fdroid 2021-07-12
 com.cyanogenmod.filemanager.ics_1014.apk com.cyanogenmod.filemanager.ics 2013-06-20
 com.cyanogenmod.filemanager.ics_1015.apk com.cyanogenmod.filemanager.ics 2013-07-19
 com.cybrosys.palmcalc_4.apk com.cybrosys.palmcalc 2013-12-11
@@ -3782,6 +3821,9 @@ com.dar.nclientv2_269.apk com.dar.nclientv2 2021-01-31
 com.dar.nclientv2_271.apk com.dar.nclientv2 2021-02-03
 com.dar.nclientv2_272.apk com.dar.nclientv2 2021-05-29
 com.dar.nclientv2_276.apk com.dar.nclientv2 2021-04-05
+com.dar.nclientv2_280.apk com.dar.nclientv2 2021-07-12
+com.dar.nclientv2_281.apk com.dar.nclientv2 2021-07-15
+com.dar.nclientv2_282.apk com.dar.nclientv2 2021-07-15
 com.darknessmap_1.apk com.darknessmap 2013-12-09
 com.darshancomputing.BatteryIndicatorPro_11162.apk com.darshancomputing.BatteryIndicatorPro 2014-01-07
 com.darshancomputing.BatteryIndicatorPro_11166.apk com.darshancomputing.BatteryIndicatorPro 2014-07-11
@@ -3844,6 +3886,7 @@ com.diblui.fullcolemak_1.apk com.diblui.fullcolemak 2020-12-07
 com.digitalfishfun.openshift_1.apk com.digitalfishfun.openshift 2017-06-23
 com.digitallizard.nicecompass_6.apk com.digitallizard.nicecompass 2012-01-28
 com.dimension.tessercube_200.apk com.dimension.tessercube 2020-01-23
+com.dimowner.audiorecorder_914.apk com.dimowner.audiorecorder 2021-07-15
 com.dimtion.shaarlier_13.apk com.dimtion.shaarlier 2015-05-16
 com.dimtion.shaarlier_14.apk com.dimtion.shaarlier 2015-05-17
 com.dimtion.shaarlier_16.apk com.dimtion.shaarlier 2015-06-02
@@ -3960,6 +4003,7 @@ com.donnnno.arcticons_56.apk com.donnnno.arcticons 2021-05-29
 com.donnnno.arcticons_57.apk com.donnnno.arcticons 2021-06-05
 com.donnnno.arcticons_58.apk com.donnnno.arcticons 2021-06-14
 com.donnnno.arcticons_59.apk com.donnnno.arcticons 2021-06-30
+com.donnnno.arcticons_60.apk com.donnnno.arcticons 2021-07-05
 com.doomy.overflow_1.apk com.doomy.overflow 2015-03-18
 com.doomy.overflow_3.apk com.doomy.overflow 2015-04-12
 com.doomy.overflow_4.apk com.doomy.overflow 2015-04-16
@@ -4202,6 +4246,7 @@ com.duckduckgo.mobile.android_58503.apk com.duckduckgo.mobile.android 2021-05-11
 com.duckduckgo.mobile.android_58602.apk com.duckduckgo.mobile.android 2021-05-25
 com.duckduckgo.mobile.android_58700.apk com.duckduckgo.mobile.android 2021-06-14
 com.duckduckgo.mobile.android_58800.apk com.duckduckgo.mobile.android 2021-06-30
+com.duckduckgo.mobile.android_58901.apk com.duckduckgo.mobile.android 2021-07-10
 com.dwak.lastcall_8.apk com.dwak.lastcall 2014-01-07
 com.dwak.lastcall_9.apk com.dwak.lastcall 2014-06-02
 com.dwalkes.android.toggleheadset2_11.apk com.dwalkes.android.toggleheadset2 2012-09-09
@@ -4293,6 +4338,7 @@ com.einmalfel.podlisten_1030200.apk com.einmalfel.podlisten 2015-11-20
 com.einmalfel.podlisten_1030400.apk com.einmalfel.podlisten 2015-11-25
 com.einmalfel.podlisten_1030500.apk com.einmalfel.podlisten 2015-12-21
 com.einmalfel.podlisten_1030600.apk com.einmalfel.podlisten 2016-02-24
+com.elektropepi.bootboi_11.apk com.elektropepi.bootboi 2021-07-10
 com.elementarytoday.theia_1.apk com.elementarytoday.theia 2015-07-18
 com.elementarytoday.theia_2.apk com.elementarytoday.theia 2015-07-20
 com.elementarytoday.theia_3.apk com.elementarytoday.theia 2015-07-21
@@ -4372,6 +4418,7 @@ com.enjoyingfoss.feeel_11.apk com.enjoyingfoss.feeel 2021-01-31
 com.enjoyingfoss.feeel_12.apk com.enjoyingfoss.feeel 2021-03-14
 com.enjoyingfoss.feeel_13.apk com.enjoyingfoss.feeel 2021-04-05
 com.enjoyingfoss.feeel_4014.apk com.enjoyingfoss.feeel 2021-06-13
+com.enjoyingfoss.feeel_4015.apk com.enjoyingfoss.feeel 2021-07-02
 com.enjoyingfoss.om_1.apk com.enjoyingfoss.om 2018-05-16
 com.enrico.earthquake.batterysimplysolid_1.apk com.enrico.earthquake.batterysimplysolid 2016-11-11
 com.enrico.earthquake.batterysimplysolid_2.apk com.enrico.earthquake.batterysimplysolid 2016-11-14
@@ -4426,6 +4473,7 @@ com.eolwral.osmonitor_90.apk com.eolwral.osmonitor 2016-09-08
 com.episode6.android.appalarm.lite_30.apk com.episode6.android.appalarm.pro 2012-01-11
 com.episode6.android.appalarm.pro_30.apk com.episode6.android.appalarm.pro 2012-08-23
 com.episode6.android.appalarm.pro_31.apk com.episode6.android.appalarm.pro 2012-09-12
+com.ero.kinoko_44.apk com.ero.kinoko 2021-07-15
 com.etesync.notes_6.apk com.etesync.notes 2020-10-17
 com.etesync.notes_10301.apk com.etesync.notes 2020-10-15
 com.etesync.notes_10400.apk com.etesync.notes 2020-10-18
@@ -4599,6 +4647,9 @@ com.example.booklistingapk_2.apk com.example.booklistingapk 2020-12-13
 com.example.deeplviewer_9.apk com.example.deeplviewer 2021-06-05
 com.example.deeplviewer_10.apk com.example.deeplviewer 2021-06-07
 com.example.deeplviewer_11.apk com.example.deeplviewer 2021-06-13
+com.example.deeplviewer_12.apk com.example.deeplviewer 2021-07-05
+com.example.deeplviewer_13.apk com.example.deeplviewer 2021-07-07
+com.example.deeplviewer_14.apk com.example.deeplviewer 2021-07-10
 com.example.dozenalclock_2.apk com.example.dozenalclock 2019-10-29
 com.example.dozencalc_1.apk com.example.dozencalc 2020-05-02
 com.example.forgottenumbrella.cardboardmuseum_7.apk com.example.forgottenumbrella.cardboardmuseum 2019-01-13
@@ -4628,6 +4679,8 @@ com.example.root.analyticaltranslator_6.apk com.example.root.analyticaltranslato
 com.example.siete_media_1.apk com.example.siete_media 2021-01-12
 com.example.siete_media_2.apk com.example.siete_media 2021-01-12
 com.example.siete_media_3.apk com.example.siete_media 2021-01-21
+com.example.spokennumbers_1.apk com.example.spokennumbers 2021-07-05
+com.example.spokennumbers_2.apk com.example.spokennumbers 2021-07-10
 com.example.sshtry_1.apk com.example.sshtry 2014-03-28
 com.example.tobiastrumm.freifunkautoconnect_4.apk com.example.tobiastrumm.freifunkautoconnect 2015-08-16
 com.example.tobiastrumm.freifunkautoconnect_5.apk com.example.tobiastrumm.freifunkautoconnect 2015-09-01
@@ -4672,6 +4725,7 @@ com.exifthumbnailadder.app_136.apk com.exifthumbnailadder.app 2021-05-17
 com.exifthumbnailadder.app_146.apk com.exifthumbnailadder.app 2021-06-07
 com.exifthumbnailadder.app_158.apk com.exifthumbnailadder.app 2021-06-11
 com.exifthumbnailadder.app_171.apk com.exifthumbnailadder.app 2021-06-13
+com.exifthumbnailadder.app_181.apk com.exifthumbnailadder.app 2021-07-15
 com.f0x.eddymalou_1.apk com.f0x.eddymalou 2014-04-07
 com.f0x.eddymalou_2.apk com.f0x.eddymalou 2014-04-09
 com.f2prateek.dfg_101.apk com.f2prateek.dfg 2013-04-22
@@ -4706,6 +4760,7 @@ com.faltenreich.diaguard_50.apk com.faltenreich.diaguard 2021-05-20
 com.faltenreich.diaguard_51.apk com.faltenreich.diaguard 2021-05-23
 com.faltenreich.diaguard_52.apk com.faltenreich.diaguard 2021-05-25
 com.faltenreich.diaguard_53.apk com.faltenreich.diaguard 2021-06-01
+com.faltenreich.diaguard_54.apk com.faltenreich.diaguard 2021-07-07
 com.farmerbb.notepad_100.apk com.farmerbb.notepad 2018-05-21
 com.farmerbb.notepad_101.apk com.farmerbb.notepad 2018-07-02
 com.farmerbb.notepad_102.apk com.farmerbb.notepad 2018-07-02
@@ -4908,6 +4963,9 @@ com.flxrs.dankchat_189.apk com.flxrs.dankchat 2021-06-01
 com.flxrs.dankchat_192.apk com.flxrs.dankchat 2021-06-11
 com.flxrs.dankchat_193.apk com.flxrs.dankchat 2021-06-20
 com.flxrs.dankchat_195.apk com.flxrs.dankchat 2021-06-30
+com.flxrs.dankchat_197.apk com.flxrs.dankchat 2021-07-02
+com.flxrs.dankchat_198.apk com.flxrs.dankchat 2021-07-10
+com.flxrs.dankchat_199.apk com.flxrs.dankchat 2021-07-15
 com.foobnix.pro.pdf.reader_1098.apk com.foobnix.pro.pdf.reader 2019-05-15
 com.foobnix.pro.pdf.reader_1930.apk com.foobnix.pro.pdf.reader 2019-08-11
 com.foobnix.pro.pdf.reader_3136.apk com.foobnix.pro.pdf.reader 2019-09-19
@@ -4925,6 +4983,7 @@ com.foobnix.pro.pdf.reader_3875.apk com.foobnix.pro.pdf.reader 2020-07-06
 com.foobnix.pro.pdf.reader_3885.apk com.foobnix.pro.pdf.reader 2020-07-12
 com.foobnix.pro.pdf.reader_4000.apk com.foobnix.pro.pdf.reader 2020-08-21
 com.foobnix.pro.pdf.reader_4075.apk com.foobnix.pro.pdf.reader 2021-06-24
+com.foobnix.pro.pdf.reader_4085.apk com.foobnix.pro.pdf.reader 2021-07-02
 com.formfun_1.apk com.formfun 2019-05-21
 com.forrestguice.suntimescalendars_1.apk com.forrestguice.suntimescalendars 2018-12-14
 com.forrestguice.suntimescalendars_2.apk com.forrestguice.suntimescalendars 2018-12-14
@@ -5012,6 +5071,7 @@ com.forrestguice.suntimeswidget_72.apk com.forrestguice.suntimeswidget 2021-03-0
 com.forrestguice.suntimeswidget_73.apk com.forrestguice.suntimeswidget 2021-03-06
 com.forrestguice.suntimeswidget_74.apk com.forrestguice.suntimeswidget 2021-05-11
 com.forrestguice.suntimeswidget_75.apk com.forrestguice.suntimeswidget 2021-06-13
+com.forrestguice.suntimeswidget_76.apk com.forrestguice.suntimeswidget 2021-07-02
 com.foxdebug.acode_143.apk com.foxdebug.acode 2021-04-09
 com.foxykeep.lifecounter_2.apk com.foxykeep.lifecounter 2015-08-14
 com.fproject.cryptolitycs_1.apk com.fproject.cryptolitycs 2018-10-08
@@ -5201,6 +5261,9 @@ com.fsck.k9_27031.apk com.fsck.k9 2021-02-26
 com.fsck.k9_27032.apk com.fsck.k9 2021-03-08
 com.fsck.k9_27033.apk com.fsck.k9 2021-03-26
 com.fsck.k9_27034.apk com.fsck.k9 2021-05-05
+com.fsck.k9_27037.apk com.fsck.k9 2021-07-02
+com.fsck.k9_27038.apk com.fsck.k9 2021-07-12
+com.fsck.k9_27039.apk com.fsck.k9 2021-07-15
 com.fullscreen_1.apk com.fullscreen 2015-09-30
 com.fullscreen_2.apk com.fullscreen 2015-11-05
 com.funambol.androidsync_8.apk com.funambol.androidsync 2011-01-10
@@ -5209,6 +5272,7 @@ com.funambol.androidsync_10.apk com.funambol.androidsync 2011-01-27
 com.funambol.androidsync_14.apk com.funambol.androidsync 2011-06-28
 com.funambol.androidsync_15.apk com.funambol.androidsync 2011-07-29
 com.funambol.androidsync_16.apk com.funambol.androidsync 2011-08-25
+com.funkymuse.aurora_1.apk com.funkymuse.aurora 2021-07-10
 com.futonredemption.mylocation_60.apk com.futonredemption.mylocation 2012-09-07
 com.futurice.android.reservator_17.apk com.futurice.android.reservator 2016-10-02
 com.futurice.android.reservator_21.apk com.futurice.android.reservator 2021-06-16
@@ -5313,6 +5377,7 @@ com.gelakinetic.mtgfam_76.apk com.gelakinetic.mtgfam 2021-01-31
 com.gelakinetic.mtgfam_77.apk com.gelakinetic.mtgfam 2021-03-14
 com.gelakinetic.mtgfam_78.apk com.gelakinetic.mtgfam 2021-04-05
 com.gelakinetic.mtgfam_81.apk com.gelakinetic.mtgfam 2021-06-16
+com.gelakinetic.mtgfam_82.apk com.gelakinetic.mtgfam 2021-07-02
 com.genonbeta.TrebleShot_44.apk com.genonbeta.TrebleShot 2017-05-27
 com.genonbeta.TrebleShot_45.apk com.genonbeta.TrebleShot 2017-05-31
 com.genonbeta.TrebleShot_46.apk com.genonbeta.TrebleShot 2017-10-11
@@ -5376,6 +5441,8 @@ com.gh4a_62.apk com.gh4a 2020-06-10
 com.gh4a_64.apk com.gh4a 2020-07-29
 com.gh4a_65.apk com.gh4a 2020-08-31
 com.gh4a_66.apk com.gh4a 2020-09-24
+com.gh4a_68.apk com.gh4a 2021-07-07
+com.gh4a_69.apk com.gh4a 2021-07-12
 com.ghisguth.sun_1.apk com.ghisguth.sun 2015-08-31
 com.ghisguth.sun_2.apk com.ghisguth.sun 2016-07-20
 com.ghostsq.commander.samba_51.apk com.ghostsq.commander.samba 2013-10-23
@@ -5546,6 +5613,7 @@ com.gianlu.aria2app_216.apk com.gianlu.aria2app 2020-12-13
 com.gianlu.aria2app_217.apk com.gianlu.aria2app 2020-12-24
 com.gianlu.aria2app_218.apk com.gianlu.aria2app 2021-03-08
 com.gianlu.aria2app_219.apk com.gianlu.aria2app 2021-06-24
+com.gianlu.aria2app_220.apk com.gianlu.aria2app 2021-07-02
 com.gianlu.dnshero_6.apk com.gianlu.dnshero 2018-08-10
 com.gianlu.dnshero_10.apk com.gianlu.dnshero 2018-09-11
 com.gianlu.dnshero_11.apk com.gianlu.dnshero 2018-09-17
@@ -5640,6 +5708,7 @@ com.github.ashutoshgngwr.noice_37.apk com.github.ashutoshgngwr.noice 2021-02-17
 com.github.ashutoshgngwr.noice_38.apk com.github.ashutoshgngwr.noice 2021-04-18
 com.github.ashutoshgngwr.noice_39.apk com.github.ashutoshgngwr.noice 2021-04-26
 com.github.ashutoshgngwr.noice_40.apk com.github.ashutoshgngwr.noice 2021-05-11
+com.github.ashutoshgngwr.noice_41.apk com.github.ashutoshgngwr.noice 2021-07-15
 com.github.ashutoshgngwr.tenbitclockwidget_161.apk com.github.ashutoshgngwr.tenbitclockwidget 2020-10-02
 com.github.ashutoshgngwr.tenbitclockwidget_162.apk com.github.ashutoshgngwr.tenbitclockwidget 2020-11-12
 com.github.ashutoshgngwr.tenbitclockwidget_163.apk com.github.ashutoshgngwr.tenbitclockwidget 2020-10-25
@@ -5647,6 +5716,7 @@ com.github.ashutoshgngwr.tenbitclockwidget_170.apk com.github.ashutoshgngwr.tenb
 com.github.ashutoshgngwr.tenbitclockwidget_180.apk com.github.ashutoshgngwr.tenbitclockwidget 2020-12-18
 com.github.ashutoshgngwr.tenbitclockwidget_190.apk com.github.ashutoshgngwr.tenbitclockwidget 2021-06-01
 com.github.ashutoshgngwr.tenbitclockwidget_200.apk com.github.ashutoshgngwr.tenbitclockwidget 2021-06-30
+com.github.ashutoshgngwr.tenbitclockwidget_201.apk com.github.ashutoshgngwr.tenbitclockwidget 2021-07-02
 com.github.axet.audiorecorder_128.apk com.github.axet.audiorecorder 2017-05-14
 com.github.axet.audiorecorder_130.apk com.github.axet.audiorecorder 2017-05-15
 com.github.axet.audiorecorder_131.apk com.github.axet.audiorecorder 2017-05-20
@@ -5985,6 +6055,8 @@ com.github.axet.filemanager_166.apk com.github.axet.filemanager 2021-01-01
 com.github.axet.filemanager_168.apk com.github.axet.filemanager 2021-04-29
 com.github.axet.filemanager_171.apk com.github.axet.filemanager 2021-05-02
 com.github.axet.filemanager_172.apk com.github.axet.filemanager 2021-05-02
+com.github.axet.filemanager_173.apk com.github.axet.filemanager 2021-07-02
+com.github.axet.filemanager_175.apk com.github.axet.filemanager 2021-07-02
 com.github.axet.hourlyreminder_239.apk com.github.axet.hourlyreminder 2017-04-17
 com.github.axet.hourlyreminder_241.apk com.github.axet.hourlyreminder 2017-04-17
 com.github.axet.hourlyreminder_246.apk com.github.axet.hourlyreminder 2017-04-23
@@ -6333,6 +6405,7 @@ com.github.catfriend1.syncthingandroid_1150100.apk com.github.catfriend1.syncthi
 com.github.catfriend1.syncthingandroid_1160001.apk com.github.catfriend1.syncthingandroid 2021-05-11
 com.github.catfriend1.syncthingandroid_1160005.apk com.github.catfriend1.syncthingandroid 2021-05-20
 com.github.catfriend1.syncthingandroid_1160006.apk com.github.catfriend1.syncthingandroid 2021-06-01
+com.github.catfriend1.syncthingandroid_1180000.apk com.github.catfriend1.syncthingandroid 2021-07-12
 com.github.cetoolbox_1.apk com.github.cetoolbox 2013-12-09
 com.github.cetoolbox_5.apk com.github.cetoolbox 2020-01-29
 com.github.cetoolbox_10.apk com.github.cetoolbox 2020-10-10
@@ -6388,6 +6461,7 @@ com.github.cvzi.screenshottile_43.apk com.github.cvzi.screenshottile 2021-04-18
 com.github.cvzi.screenshottile_44.apk com.github.cvzi.screenshottile 2021-05-02
 com.github.cvzi.screenshottile_45.apk com.github.cvzi.screenshottile 2021-06-01
 com.github.cvzi.screenshottile_46.apk com.github.cvzi.screenshottile 2021-06-01
+com.github.cvzi.screenshottile_47.apk com.github.cvzi.screenshottile 2021-07-05
 com.github.cythara_1.apk com.github.cythara 2017-08-23
 com.github.cythara_2.apk com.github.cythara 2017-08-26
 com.github.cythara_3.apk com.github.cythara 2017-08-28
@@ -6484,6 +6558,7 @@ com.github.gianlucanitti.expreval_1.apk com.github.gianlucanitti.expreval 2016-1
 com.github.gianlucanitti.expreval_2.apk com.github.gianlucanitti.expreval 2017-01-14
 com.github.gianlucanitti.expreval_3.apk com.github.gianlucanitti.expreval 2017-01-17
 com.github.gotify.up_8.apk com.github.gotify.up 2021-06-07
+com.github.gotify.up_9.apk com.github.gotify.up 2021-07-12
 com.github.gotify_4.apk com.github.gotify 2018-11-06
 com.github.gotify_5.apk com.github.gotify 2018-11-16
 com.github.gotify_6.apk com.github.gotify 2018-11-17
@@ -6530,6 +6605,7 @@ com.github.jameshnsears.quoteunquote_64.apk com.github.jameshnsears.quoteunquote
 com.github.jameshnsears.quoteunquote_69.apk com.github.jameshnsears.quoteunquote 2021-06-05
 com.github.jameshnsears.quoteunquote_73.apk com.github.jameshnsears.quoteunquote 2021-06-13
 com.github.jameshnsears.quoteunquote_74.apk com.github.jameshnsears.quoteunquote 2021-06-18
+com.github.jameshnsears.quoteunquote_75.apk com.github.jameshnsears.quoteunquote 2021-07-10
 com.github.jtjj222.sudburytransit_1.apk com.github.jtjj222.sudburytransit 2015-07-06
 com.github.k1rakishou.chan.fdroid_407.apk com.github.k1rakishou.chan.fdroid 2021-01-25
 com.github.k1rakishou.chan.fdroid_507.apk com.github.k1rakishou.chan.fdroid 2021-03-08
@@ -6549,6 +6625,11 @@ com.github.k1rakishou.chan.fdroid_903.apk com.github.k1rakishou.chan.fdroid 2021
 com.github.k1rakishou.chan.fdroid_904.apk com.github.k1rakishou.chan.fdroid 2021-06-14
 com.github.k1rakishou.chan.fdroid_905.apk com.github.k1rakishou.chan.fdroid 2021-06-16
 com.github.k1rakishou.chan.fdroid_906.apk com.github.k1rakishou.chan.fdroid 2021-06-18
+com.github.k1rakishou.chan.fdroid_1003.apk com.github.k1rakishou.chan.fdroid 2021-07-10
+com.github.k1rakishou.chan.fdroid_1004.apk com.github.k1rakishou.chan.fdroid 2021-07-12
+com.github.k1rakishou.chan.fdroid_1005.apk com.github.k1rakishou.chan.fdroid 2021-07-12
+com.github.k1rakishou.chan.fdroid_1006.apk com.github.k1rakishou.chan.fdroid 2021-07-12
+com.github.k1rakishou.chan.fdroid_1007.apk com.github.k1rakishou.chan.fdroid 2021-07-15
 com.github.kiliakin.yalpstore_46.apk com.github.kiliakin.yalpstore 2019-07-13
 com.github.kiliakin.yalpstore_47.apk com.github.kiliakin.yalpstore 2019-12-10
 com.github.ktsr42.rsyncserver_1.apk com.github.ktsr42.rsyncserver 2020-11-16
@@ -6613,6 +6694,8 @@ com.github.muellerma.coffee_12.apk com.github.muellerma.coffee 2021-05-23
 com.github.muellerma.prepaidbalance_3.apk com.github.muellerma.prepaidbalance 2021-06-13
 com.github.muellerma.prepaidbalance_5.apk com.github.muellerma.prepaidbalance 2021-06-13
 com.github.muellerma.prepaidbalance_6.apk com.github.muellerma.prepaidbalance 2021-06-20
+com.github.muellerma.prepaidbalance_7.apk com.github.muellerma.prepaidbalance 2021-07-10
+com.github.muellerma.prepaidbalance_8.apk com.github.muellerma.prepaidbalance 2021-07-15
 com.github.muellerma.tabletoptools_1.apk com.github.muellerma.tabletoptools 2021-01-03
 com.github.muellerma.tabletoptools_2.apk com.github.muellerma.tabletoptools 2021-05-11
 com.github.muellerma.tabletoptools_3.apk com.github.muellerma.tabletoptools 2021-05-23
@@ -6864,6 +6947,7 @@ com.github.shadowsocks.plugin.v2ray_1030100.apk com.github.shadowsocks.plugin.v2
 com.github.shadowsocks.plugin.v2ray_1030200.apk com.github.shadowsocks.plugin.v2ray 2020-06-04
 com.github.shadowsocks.plugin.v2ray_1030300.apk com.github.shadowsocks.plugin.v2ray 2020-07-23
 com.github.siggel.coordinatejoker_27.apk com.github.siggel.coordinatejoker 2021-02-15
+com.github.siggel.coordinatejoker_28.apk com.github.siggel.coordinatejoker 2021-07-12
 com.github.sryze.wirebug_4.apk com.github.sryze.wirebug 2016-02-08
 com.github.sryze.wirebug_5.apk com.github.sryze.wirebug 2016-02-12
 com.github.sryze.wirebug_7.apk com.github.sryze.wirebug 2016-02-14
@@ -7537,6 +7621,7 @@ com.iatfei.streakalarm_21.apk com.iatfei.streakalarm 2019-10-29
 com.iatfei.streakalarm_22.apk com.iatfei.streakalarm 2019-11-02
 com.iatfei.streakalarm_23.apk com.iatfei.streakalarm 2020-07-01
 com.iatfei.streakalarm_25.apk com.iatfei.streakalarm 2020-10-28
+com.iatfei.streakalarm_27.apk com.iatfei.streakalarm 2021-07-15
 com.iazasoft.footguy_2.apk com.iazasoft.footguy 2012-08-29
 com.iazasoft.footguy_3.apk com.iazasoft.footguy 2012-09-18
 com.iazasoft.footguy_6.apk com.iazasoft.footguy 2016-12-01
@@ -7691,6 +7776,8 @@ com.indieweb.indigenous_62.apk com.indieweb.indigenous 2020-05-09
 com.indieweb.indigenous_63.apk com.indieweb.indigenous 2020-08-10
 com.indieweb.indigenous_64.apk com.indieweb.indigenous 2020-08-21
 com.infomaniak.drive_40001101.apk com.infomaniak.drive 2021-06-18
+com.infomaniak.drive_40001201.apk com.infomaniak.drive 2021-07-02
+com.infomaniak.drive_40001301.apk com.infomaniak.drive 2021-07-05
 com.infomaniak.sync_23.apk com.infomaniak.sync 2019-12-03
 com.infomaniak.sync_24.apk com.infomaniak.sync 2020-02-01
 com.infomaniak.sync_25.apk com.infomaniak.sync 2020-03-30
@@ -7714,6 +7801,7 @@ com.invoiceninja.app_44.apk com.invoiceninja.app 2021-04-07
 com.invoiceninja.app_46.apk com.invoiceninja.app 2021-04-20
 com.invoiceninja.app_47.apk com.invoiceninja.app 2021-04-26
 com.invoiceninja.app_49.apk com.invoiceninja.app 2021-05-29
+com.invoiceninja.app_52.apk com.invoiceninja.app 2021-07-05
 com.irahul.worldclock_2.apk com.irahul.worldclock 2012-08-29
 com.isanexusdev.androidcpg_2.apk com.isanexusdev.androidcpg 2014-11-25
 com.isanexusdev.androidcpg_3.apk com.isanexusdev.androidcpg 2014-11-28
@@ -7910,6 +7998,7 @@ com.jarsilio.android.autoautorotate_20.apk com.jarsilio.android.autoautorotate 2
 com.jarsilio.android.autoautorotate_21.apk com.jarsilio.android.autoautorotate 2021-03-11
 com.jarsilio.android.autoautorotate_22.apk com.jarsilio.android.autoautorotate 2021-03-14
 com.jarsilio.android.autoautorotate_23.apk com.jarsilio.android.autoautorotate 2021-05-05
+com.jarsilio.android.autoautorotate_24.apk com.jarsilio.android.autoautorotate 2021-07-05
 com.jarsilio.android.drowser_6.apk com.jarsilio.android.drowser 2018-11-10
 com.jarsilio.android.drowser_8.apk com.jarsilio.android.drowser 2018-11-17
 com.jarsilio.android.drowser_9.apk com.jarsilio.android.drowser 2018-11-20
@@ -7982,6 +8071,7 @@ com.jarsilio.android.scrambledeggsif_61.apk com.jarsilio.android.scrambledeggsif
 com.jarsilio.android.scrambledeggsif_62.apk com.jarsilio.android.scrambledeggsif 2021-02-17
 com.jarsilio.android.scrambledeggsif_63.apk com.jarsilio.android.scrambledeggsif 2021-05-03
 com.jarsilio.android.scrambledeggsif_66.apk com.jarsilio.android.scrambledeggsif 2021-05-20
+com.jarsilio.android.scrambledeggsif_67.apk com.jarsilio.android.scrambledeggsif 2021-07-05
 com.jarsilio.android.waveup.tasker_3.apk com.jarsilio.android.waveup.tasker 2020-01-29
 com.jarsilio.android.waveup.tasker_4.apk com.jarsilio.android.waveup.tasker 2020-02-01
 com.jarsilio.android.waveup.tasker_5.apk com.jarsilio.android.waveup.tasker 2020-08-31
@@ -8224,6 +8314,7 @@ com.jonjomckay.fritter_20210610.apk com.jonjomckay.fritter 2021-06-13
 com.jonjomckay.fritter_20210611.apk com.jonjomckay.fritter 2021-06-14
 com.jonjomckay.fritter_20210615.apk com.jonjomckay.fritter 2021-06-18
 com.jonjomckay.fritter_20210620.apk com.jonjomckay.fritter 2021-06-24
+com.jonjomckay.fritter_20210625.apk com.jonjomckay.fritter 2021-07-02
 com.jorgecastillo.kanadrill_9.apk com.jorgecastillo.kanadrill 2014-11-02
 com.jorgecastillo.kanadrill_10.apk com.jorgecastillo.kanadrill 2014-11-22
 com.jorgecastillo.kanadrill_11.apk com.jorgecastillo.kanadrill 2015-05-04
@@ -8310,6 +8401,10 @@ com.kabouzeid.gramophone_178.apk com.kabouzeid.gramophone 2020-07-06
 com.kabouzeid.gramophone_179.apk com.kabouzeid.gramophone 2020-10-03
 com.kaeruct.glxy_1.apk com.kaeruct.glxy 2013-10-31
 com.kaeruct.glxy_21.apk com.kaeruct.glxy 2021-06-30
+com.kaeruct.glxy_23.apk com.kaeruct.glxy 2021-07-05
+com.kaeruct.gotosleep_1.apk com.kaeruct.gotosleep 2021-07-02
+com.kaeruct.gotosleep_2.apk com.kaeruct.gotosleep 2021-07-10
+com.kaeruct.gotosleep_3.apk com.kaeruct.gotosleep 2021-07-12
 com.kai1973i_4.apk com.kai1973i 2012-08-29
 com.kaliturin.blacklist_18.apk com.kaliturin.blacklist 2018-06-02
 com.kanedias.archforums_120000.apk com.kanedias.archforums 2020-11-28
@@ -8374,6 +8469,7 @@ com.kanedias.vanilla.lyrics_12.apk com.kanedias.vanilla.lyrics 2018-10-20
 com.kanedias.vanilla.lyrics_13.apk com.kanedias.vanilla.lyrics 2019-10-31
 com.kanedias.vanilla.metadata_4.apk com.kanedias.vanilla.metadata 2018-12-30
 com.kanedias.vanilla.metadata_5.apk com.kanedias.vanilla.metadata 2019-01-03
+com.kanedias.vanilla.metadata_9.apk com.kanedias.vanilla.metadata 2021-07-02
 com.kaneoriley.cyanogenport.launcher3_1.apk com.kaneoriley.cyanogenport.launcher3 2015-08-28
 com.kazufukurou.nanji_35.apk com.kazufukurou.nanji 2020-10-19
 com.kazufukurou.nanji_36.apk com.kazufukurou.nanji 2020-11-12
@@ -8654,6 +8750,8 @@ com.kylecorry.trail_sense_46.apk com.kylecorry.trail_sense 2021-05-17
 com.kylecorry.trail_sense_47.apk com.kylecorry.trail_sense 2021-05-20
 com.kylecorry.trail_sense_48.apk com.kylecorry.trail_sense 2021-06-14
 com.kylecorry.trail_sense_49.apk com.kylecorry.trail_sense 2021-06-24
+com.kylecorry.trail_sense_50.apk com.kylecorry.trail_sense 2021-07-02
+com.kylecorry.trail_sense_51.apk com.kylecorry.trail_sense 2021-07-07
 com.lako.moclock_4.apk com.lako.moclock 2020-05-02
 com.lako.walletcount_2.apk com.lako.walletcount 2021-02-03
 com.launcher.silverfish_1.apk com.launcher.silverfish 2016-08-03
@@ -8806,6 +8904,7 @@ com.limelight_263.apk com.limelight 2021-05-11
 com.limelight_264.apk com.limelight 2021-05-20
 com.limelight_266.apk com.limelight 2021-06-07
 com.limelight_267.apk com.limelight 2021-06-18
+com.limelight_268.apk com.limelight 2021-07-02
 com.lindevhard.android.raspfinder_3.apk com.lindevhard.android.raspfinder 2020-05-13
 com.linkomnia.android.Changjie_3.apk com.linkomnia.android.Changjie 2013-12-15
 com.linkomnia.android.Changjie_7.apk com.linkomnia.android.Changjie 2014-01-15
@@ -8984,6 +9083,7 @@ com.manichord.mgit_220.apk com.manichord.mgit 2020-08-11
 com.manimarank.spell4wiki_8.apk com.manimarank.spell4wiki 2020-12-29
 com.manimarank.websitemonitor_1.apk com.manimarank.websitemonitor 2020-10-13
 com.manimarank.websitemonitor_2.apk com.manimarank.websitemonitor 2020-12-27
+com.manimarank.websitemonitor_3.apk com.manimarank.websitemonitor 2021-07-07
 com.manor.currentwidget_31.apk com.manor.currentwidget 2013-06-15
 com.manor.currentwidget_36.apk com.manor.currentwidget 2013-06-15
 com.manor.currentwidget_38.apk com.manor.currentwidget 2013-07-16
@@ -9284,6 +9384,7 @@ com.mirfatif.permissionmanagerx_105.apk com.mirfatif.permissionmanagerx 2021-03-
 com.mirfatif.permissionmanagerx_106.apk com.mirfatif.permissionmanagerx 2021-04-26
 com.mishiranu.dashchan_1041.apk com.mishiranu.dashchan 2020-12-13
 com.mishiranu.dashchan_1042.apk com.mishiranu.dashchan 2021-01-03
+com.mishiranu.dashchan_1043.apk com.mishiranu.dashchan 2021-07-07
 com.mitzuli_10000.apk com.mitzuli 2015-03-04
 com.mitzuli_10002.apk com.mitzuli 2015-04-04
 com.mitzuli_10003.apk com.mitzuli 2015-04-29
@@ -10225,6 +10326,12 @@ com.nextcloud.android.beta_20210612.apk com.nextcloud.android.beta 2021-06-14
 com.nextcloud.android.beta_20210616.apk com.nextcloud.android.beta 2021-06-18
 com.nextcloud.android.beta_20210618.apk com.nextcloud.android.beta 2021-06-24
 com.nextcloud.android.beta_20210624.apk com.nextcloud.android.beta 2021-06-30
+com.nextcloud.android.beta_20210629.apk com.nextcloud.android.beta 2021-07-02
+com.nextcloud.android.beta_20210701.apk com.nextcloud.android.beta 2021-07-05
+com.nextcloud.android.beta_20210704.apk com.nextcloud.android.beta 2021-07-07
+com.nextcloud.android.beta_20210706.apk com.nextcloud.android.beta 2021-07-10
+com.nextcloud.android.beta_20210707.apk com.nextcloud.android.beta 2021-07-10
+com.nextcloud.android.beta_20210709.apk com.nextcloud.android.beta 2021-07-12
 com.nextcloud.client_10000000.apk com.nextcloud.client 2016-06-17
 com.nextcloud.client_10000100.apk com.nextcloud.client 2016-06-21
 com.nextcloud.client_10010099.apk com.nextcloud.client 2016-07-07
@@ -10330,6 +10437,7 @@ com.nextcloud.client_30150190.apk com.nextcloud.client 2021-03-14
 com.nextcloud.client_30160090.apk com.nextcloud.client 2021-05-11
 com.nextcloud.client_30160151.apk com.nextcloud.client 2021-06-01
 com.nextcloud.client_30160190.apk com.nextcloud.client 2021-06-05
+com.nextcloud.client_30170051.apk com.nextcloud.client 2021-07-15
 com.nextcloud.talk2_30.apk com.nextcloud.talk2 2018-03-19
 com.nextcloud.talk2_31.apk com.nextcloud.talk2 2018-03-19
 com.nextcloud.talk2_33.apk com.nextcloud.talk2 2018-04-21
@@ -10430,6 +10538,8 @@ com.nilhcem.hostseditor_4.apk com.nilhcem.hostseditor 2014-07-17
 com.nilhcem.hostseditor_5.apk com.nilhcem.hostseditor 2015-01-02
 com.niparasc.papanikolis_1.apk com.niparasc.papanikolis 2014-01-07
 com.nishantboro.splititeasy_1.apk com.nishantboro.splititeasy 2019-12-20
+com.nitish.privacyindicator_7.apk com.nitish.privacyindicator 2021-07-05
+com.nitish.privacyindicator_8.apk com.nitish.privacyindicator 2021-07-15
 com.nkanaev.comics_1.apk com.nkanaev.comics 2015-08-08
 com.nkanaev.comics_2.apk com.nkanaev.comics 2015-08-13
 com.nkanaev.comics_3.apk com.nkanaev.comics 2015-08-20
@@ -10461,6 +10571,7 @@ com.noahjutz.splitfit.fdroid_27.apk com.noahjutz.splitfit.fdroid 2021-05-20
 com.noahjutz.splitfit.fdroid_28.apk com.noahjutz.splitfit.fdroid 2021-06-18
 com.noahjutz.splitfit.fdroid_29.apk com.noahjutz.splitfit.fdroid 2021-06-18
 com.noahjutz.splitfit.fdroid_30.apk com.noahjutz.splitfit.fdroid 2021-06-30
+com.noahjutz.splitfit.fdroid_31.apk com.noahjutz.splitfit.fdroid 2021-07-07
 com.nolanlawson.apptracker_10.apk com.nolanlawson.apptracker 2012-08-29
 com.nolanlawson.chordreader_8.apk com.nolanlawson.chordreader 2012-09-07
 com.nolanlawson.jnameconverter_1.apk com.nolanlawson.jnameconverter 2013-01-10
@@ -10790,6 +10901,7 @@ com.nutomic.syncthingandroid_4264.apk com.nutomic.syncthingandroid 2021-03-19
 com.nutomic.syncthingandroid_4270.apk com.nutomic.syncthingandroid 2021-04-16
 com.nutomic.syncthingandroid_4273.apk com.nutomic.syncthingandroid 2021-05-11
 com.nutomic.syncthingandroid_4276.apk com.nutomic.syncthingandroid 2021-06-07
+com.nutomic.syncthingandroid_4279.apk com.nutomic.syncthingandroid 2021-07-12
 com.nutomic.zertman_2.apk com.nutomic.zertman 2014-08-09
 com.nutomic.zertman_3.apk com.nutomic.zertman 2014-10-23
 com.oF2pks.adbungfu_9.apk com.oF2pks.adbungfu 2020-02-29
@@ -10958,6 +11070,7 @@ com.orgzly_148.apk com.orgzly 2019-11-04
 com.orgzly_150.apk com.orgzly 2019-11-14
 com.orgzly_152.apk com.orgzly 2020-04-30
 com.orgzly_155.apk com.orgzly 2020-07-23
+com.orgzly_158.apk com.orgzly 2021-07-02
 com.oriondev.moneywallet_55.apk com.oriondev.moneywallet 2018-12-15
 com.oriondev.moneywallet_62.apk com.oriondev.moneywallet 2018-12-27
 com.oriondev.moneywallet_63.apk com.oriondev.moneywallet 2018-12-27
@@ -11149,6 +11262,7 @@ com.pcinpact_256.apk com.pcinpact 2021-01-12
 com.pcinpact_257.apk com.pcinpact 2021-01-12
 com.pcinpact_258.apk com.pcinpact 2021-01-23
 com.pcinpact_261.apk com.pcinpact 2021-06-18
+com.pcinpact_262.apk com.pcinpact 2021-07-02
 com.peppercarrot.runninggame_1.apk com.peppercarrot.runninggame 2017-05-28
 com.perflyst.twire_502.apk com.perflyst.twire 2019-04-01
 com.perflyst.twire_506.apk com.perflyst.twire 2019-10-09
@@ -11217,6 +11331,7 @@ com.pierreduchemin.smsforward_11.apk com.pierreduchemin.smsforward 2020-08-31
 com.pierreduchemin.smsforward_12.apk com.pierreduchemin.smsforward 2020-11-12
 com.pierreduchemin.smsforward_13.apk com.pierreduchemin.smsforward 2021-01-05
 com.pierreduchemin.smsforward_14.apk com.pierreduchemin.smsforward 2021-03-14
+com.pierreduchemin.smsforward_15.apk com.pierreduchemin.smsforward 2021-07-07
 com.pikselbit.wrongpinshutdown_1.apk com.pikselbit.wrongpinshutdown 2015-01-24
 com.pikselbit.wrongpinshutdown_2.apk com.pikselbit.wrongpinshutdown 2015-09-04
 com.pilockerstable_3.apk com.pilockerstable 2014-10-20
@@ -11289,6 +11404,7 @@ com.planes.android_12.apk com.planes.android 2020-07-24
 com.planes.android_13.apk com.planes.android 2020-10-19
 com.planes.android_14.apk com.planes.android 2020-10-28
 com.planes.android_16.apk com.planes.android 2020-12-05
+com.planes.android_17.apk com.planes.android 2021-07-02
 com.platypus.SAnd_1.apk com.platypus.SAnd 2014-12-27
 com.platypus.SAnd_2.apk com.platypus.SAnd 2014-12-31
 com.platypus.SAnd_3.apk com.platypus.SAnd 2016-08-06
@@ -11328,6 +11444,8 @@ com.podverse.fdroid_6.apk com.podverse.fdroid 2021-04-05
 com.podverse.fdroid_7.apk com.podverse.fdroid 2021-05-02
 com.podverse.fdroid_8.apk com.podverse.fdroid 2021-05-29
 com.podverse.fdroid_9.apk com.podverse.fdroid 2021-06-01
+com.podverse.fdroid_10.apk com.podverse.fdroid 2021-07-02
+com.podverse.fdroid_11.apk com.podverse.fdroid 2021-07-10
 com.poinsart.votar_4.apk com.poinsart.votar 2014-07-10
 com.poinsart.votar_6.apk com.poinsart.votar 2016-04-17
 com.poinsart.votar_7.apk com.poinsart.votar 2016-04-19
@@ -11379,6 +11497,7 @@ com.poupa.vinylmusicplayer_173.apk com.poupa.vinylmusicplayer 2021-02-26
 com.poupa.vinylmusicplayer_174.apk com.poupa.vinylmusicplayer 2021-02-26
 com.poupa.vinylmusicplayer_175.apk com.poupa.vinylmusicplayer 2021-03-17
 com.poupa.vinylmusicplayer_176.apk com.poupa.vinylmusicplayer 2021-04-29
+com.poupa.vinylmusicplayer_177.apk com.poupa.vinylmusicplayer 2021-07-02
 com.powerje.nyan_3.apk com.powerje.nyan 2013-01-02
 com.powerje.nyan_4.apk com.powerje.nyan 2013-01-02
 com.powerje.nyan_7.apk com.powerje.nyan 2013-04-23
@@ -11449,6 +11568,9 @@ com.purplefoto.pfdock_3.apk com.purplefoto.pfdock 2013-01-10
 com.pvpc.precio_luz_1.apk com.pvpc.precio_luz 2020-07-16
 com.pvpc.precio_luz_2.apk com.pvpc.precio_luz 2020-07-23
 com.pvpc.precio_luz_6.apk com.pvpc.precio_luz 2021-06-13
+com.pvpc.precio_luz_7.apk com.pvpc.precio_luz 2021-07-05
+com.pvpc.precio_luz_8.apk com.pvpc.precio_luz 2021-07-10
+com.pvpc.precio_luz_9.apk com.pvpc.precio_luz 2021-07-12
 com.qsp.player_201.apk com.qsp.player 2013-10-08
 com.quaap.audiometer_1.apk com.quaap.audiometer 2016-11-21
 com.quaap.audiometer_3.apk com.quaap.audiometer 2016-11-30
@@ -11707,6 +11829,7 @@ com.roguetemple.hyperroid_661.apk com.roguetemple.hyperroid 2015-09-02
 com.roguetemple.hyperroid_10042.apk com.roguetemple.hyperroid 2018-07-08
 com.roguetemple.hyperroid_10505.apk com.roguetemple.hyperroid 2019-03-17
 com.roguetemple.hyperroid_12020.apk com.roguetemple.hyperroid 2021-06-24
+com.roguetemple.hyperroid_12030.apk com.roguetemple.hyperroid 2021-07-07
 com.rohit2810.spotit_1.apk com.rohit2810.spotit 2020-12-19
 com.rohit2810.spotit_2.apk com.rohit2810.spotit 2020-12-24
 com.rohitsuratekar.NCBSinfo_73.apk com.rohitsuratekar.NCBSinfo 2020-05-17
@@ -11872,6 +11995,7 @@ com.sduduzog.slimlauncher_50.apk com.sduduzog.slimlauncher 2020-09-18
 com.sduduzog.slimlauncher_51.apk com.sduduzog.slimlauncher 2020-10-02
 com.sduduzog.slimlauncher_52.apk com.sduduzog.slimlauncher 2020-10-03
 com.sduduzog.slimlauncher_53.apk com.sduduzog.slimlauncher 2021-06-11
+com.sduduzog.slimlauncher_54.apk com.sduduzog.slimlauncher 2021-07-02
 com.seafile.seadroid2_12.apk com.seafile.seadroid2 2013-12-11
 com.seafile.seadroid2_14.apk com.seafile.seadroid2 2014-01-24
 com.seafile.seadroid2_15.apk com.seafile.seadroid2 2014-01-27
@@ -12014,6 +12138,8 @@ com.serwylo.beatgame_8.apk com.serwylo.beatgame 2021-03-26
 com.serwylo.beatgame_9.apk com.serwylo.beatgame 2021-04-23
 com.serwylo.beatgame_10.apk com.serwylo.beatgame 2021-05-25
 com.serwylo.beatgame_11.apk com.serwylo.beatgame 2021-06-07
+com.serwylo.beatgame_12.apk com.serwylo.beatgame 2021-07-02
+com.serwylo.beatgame_14.apk com.serwylo.beatgame 2021-07-12
 com.serwylo.lexica_901.apk com.serwylo.lexica 2016-01-11
 com.serwylo.lexica_902.apk com.serwylo.lexica 2016-01-18
 com.serwylo.lexica_903.apk com.serwylo.lexica 2016-01-26
@@ -12046,6 +12172,8 @@ com.serwylo.lexica_20009.apk com.serwylo.lexica 2021-05-25
 com.serwylo.lexica_20010.apk com.serwylo.lexica 2021-05-29
 com.serwylo.lexica_20011.apk com.serwylo.lexica 2021-06-11
 com.serwylo.lexica_20012.apk com.serwylo.lexica 2021-06-24
+com.serwylo.lexica_20013.apk com.serwylo.lexica 2021-07-02
+com.serwylo.lexica_20014.apk com.serwylo.lexica 2021-07-05
 com.serwylo.msjviewer_3.apk com.serwylo.msjviewer 2014-11-11
 com.serwylo.msjviewer_4.apk com.serwylo.msjviewer 2014-11-13
 com.serwylo.msjviewer_5.apk com.serwylo.msjviewer 2015-02-19
@@ -12054,6 +12182,8 @@ com.serwylo.retrowars_2.apk com.serwylo.retrowars 2021-06-11
 com.serwylo.retrowars_3.apk com.serwylo.retrowars 2021-06-14
 com.serwylo.retrowars_4.apk com.serwylo.retrowars 2021-06-16
 com.serwylo.retrowars_5.apk com.serwylo.retrowars 2021-06-24
+com.serwylo.retrowars_6.apk com.serwylo.retrowars 2021-07-05
+com.serwylo.retrowars_7.apk com.serwylo.retrowars 2021-07-12
 com.sevag.pitcha_2.apk com.sevag.pitcha 2015-03-22
 com.sevag.pitcha_3.apk com.sevag.pitcha 2015-03-29
 com.sevag.pitcha_4.apk com.sevag.pitcha 2015-06-02
@@ -12299,6 +12429,7 @@ com.simplemobiletools.calendar.pro_198.apk com.simplemobiletools.calendar.pro 20
 com.simplemobiletools.calendar.pro_199.apk com.simplemobiletools.calendar.pro 2021-05-03
 com.simplemobiletools.calendar.pro_200.apk com.simplemobiletools.calendar.pro 2021-05-05
 com.simplemobiletools.calendar.pro_201.apk com.simplemobiletools.calendar.pro 2021-05-17
+com.simplemobiletools.calendar.pro_202.apk com.simplemobiletools.calendar.pro 2021-07-10
 com.simplemobiletools.calendar_7.apk com.simplemobiletools.calendar 2016-07-09
 com.simplemobiletools.calendar_8.apk com.simplemobiletools.calendar 2016-07-09
 com.simplemobiletools.calendar_9.apk com.simplemobiletools.calendar 2016-07-15
@@ -12796,6 +12927,7 @@ com.simplemobiletools.gallery.pro_340.apk com.simplemobiletools.gallery.pro 2021
 com.simplemobiletools.gallery.pro_341.apk com.simplemobiletools.gallery.pro 2021-04-23
 com.simplemobiletools.gallery.pro_343.apk com.simplemobiletools.gallery.pro 2021-05-17
 com.simplemobiletools.gallery.pro_344.apk com.simplemobiletools.gallery.pro 2021-06-24
+com.simplemobiletools.gallery.pro_345.apk com.simplemobiletools.gallery.pro 2021-07-02
 com.simplemobiletools.gallery_10.apk com.simplemobiletools.gallery 2016-07-04
 com.simplemobiletools.gallery_11.apk com.simplemobiletools.gallery 2016-07-06
 com.simplemobiletools.gallery_12.apk com.simplemobiletools.gallery 2016-07-08
@@ -13173,6 +13305,7 @@ com.smartpack.packagemanager_44.apk com.smartpack.packagemanager 2021-04-07
 com.smartpack.packagemanager_45.apk com.smartpack.packagemanager 2021-05-05
 com.smartpack.packagemanager_46.apk com.smartpack.packagemanager 2021-06-07
 com.smartpack.packagemanager_47.apk com.smartpack.packagemanager 2021-06-18
+com.smartpack.packagemanager_48.apk com.smartpack.packagemanager 2021-07-15
 com.smartpack.scriptmanager_35.apk com.smartpack.scriptmanager 2021-01-23
 com.smartpack.scriptmanager_36.apk com.smartpack.scriptmanager 2021-02-03
 com.smartpack.scriptmanager_37.apk com.smartpack.scriptmanager 2021-02-19
@@ -13273,6 +13406,7 @@ com.spisoft.quicknote_221.apk com.spisoft.quicknote 2020-06-20
 com.spisoft.quicknote_222.apk com.spisoft.quicknote 2020-06-28
 com.spisoft.quicknote_230.apk com.spisoft.quicknote 2020-11-12
 com.spisoft.quicknote_231.apk com.spisoft.quicknote 2020-11-12
+com.spisoft.quicknote_241.apk com.spisoft.quicknote 2021-07-07
 com.sputnik.wispr_147.apk com.sputnik.wispr 2012-08-29
 com.spydiko.rotationmanager_foss_18.apk com.spydiko.rotationmanager_foss 2014-09-20
 com.ssaurel.clocklw_1.apk com.ssaurel.clocklw 2014-09-23
@@ -13290,6 +13424,11 @@ com.standardnotes_3000282.apk com.standardnotes 2021-06-13
 com.standardnotes_3000285.apk com.standardnotes 2021-06-24
 com.standardnotes_3000286.apk com.standardnotes 2021-06-30
 com.standardnotes_3000287.apk com.standardnotes 2021-06-30
+com.standardnotes_3000288.apk com.standardnotes 2021-07-02
+com.standardnotes_3000290.apk com.standardnotes 2021-07-02
+com.standardnotes_3000291.apk com.standardnotes 2021-07-10
+com.standardnotes_3000292.apk com.standardnotes 2021-07-10
+com.standardnotes_3000293.apk com.standardnotes 2021-07-15
 com.starapps.tools.tnefextractor_1.apk com.starapps.tools.tnefextractor 2020-06-15
 com.stealthcotper.networktools_20.apk com.stealthcotper.networktools 2020-04-01
 com.stericson.permissions_4.apk com.stericson.permissions 2012-01-27
@@ -13344,6 +13483,7 @@ com.stoutner.privacybrowser.standard_52.apk com.stoutner.privacybrowser.standard
 com.stoutner.privacybrowser.standard_53.apk com.stoutner.privacybrowser.standard 2020-11-28
 com.stoutner.privacybrowser.standard_54.apk com.stoutner.privacybrowser.standard 2021-04-05
 com.stoutner.privacybrowser.standard_55.apk com.stoutner.privacybrowser.standard 2021-05-29
+com.stoutner.privacybrowser.standard_56.apk com.stoutner.privacybrowser.standard 2021-07-05
 com.stripe1.xmouse_25.apk com.stripe1.xmouse 2018-08-30
 com.studio332.flickit.android_4.apk com.studio332.flickit.android 2015-03-12
 com.studio332.flickit_3.apk com.studio332.flickit 2014-01-09
@@ -13424,6 +13564,9 @@ com.tailscale.ipn_38.apk com.tailscale.ipn 2021-04-07
 com.tailscale.ipn_40.apk com.tailscale.ipn 2021-05-25
 com.tailscale.ipn_41.apk com.tailscale.ipn 2021-06-01
 com.tailscale.ipn_42.apk com.tailscale.ipn 2021-06-01
+com.tailscale.ipn_43.apk com.tailscale.ipn 2021-07-02
+com.tailscale.ipn_46.apk com.tailscale.ipn 2021-07-05
+com.tailscale.ipn_47.apk com.tailscale.ipn 2021-07-07
 com.taiste.lainari_en_18.apk com.taiste.lainari_en 2013-12-11
 com.tananaev.calculator_9.apk com.tananaev.calculator 2019-02-05
 com.tananaev.calculator_10.apk com.tananaev.calculator 2019-09-28
@@ -13550,6 +13693,7 @@ com.termux.boot_7.apk com.termux.boot 2019-09-28
 com.termux.nix_66022.apk com.termux.nix 2019-10-27
 com.termux.nix_66024.apk com.termux.nix 2020-05-13
 com.termux.nix_66025.apk com.termux.nix 2020-11-29
+com.termux.nix_66026.apk com.termux.nix 2021-07-05
 com.termux.styling_10.apk com.termux.styling 2016-02-22
 com.termux.styling_11.apk com.termux.styling 2016-04-13
 com.termux.styling_12.apk com.termux.styling 2016-08-04
@@ -13670,6 +13814,9 @@ com.termux_111.apk com.termux 2021-04-26
 com.termux_112.apk com.termux 2021-04-26
 com.termux_113.apk com.termux 2021-05-20
 com.termux_114.apk com.termux 2021-06-14
+com.termux_115.apk com.termux 2021-07-07
+com.termux_116.apk com.termux 2021-07-07
+com.termux_117.apk com.termux 2021-07-12
 com.textuality.lifesaver2_6.apk com.textuality.lifesaver2 2013-11-05
 com.th.XenonWallpapers_2.apk com.th.XenonWallpapers 2014-01-07
 com.thechiefmeat.freetusky_64.apk com.thechiefmeat.freetusky 2019-07-23
@@ -13968,6 +14115,9 @@ com.tutpro.baresip.plus_43.apk com.tutpro.baresip.plus 2021-05-15
 com.tutpro.baresip.plus_44.apk com.tutpro.baresip.plus 2021-05-25
 com.tutpro.baresip.plus_46.apk com.tutpro.baresip.plus 2021-06-16
 com.tutpro.baresip.plus_47.apk com.tutpro.baresip.plus 2021-06-24
+com.tutpro.baresip.plus_48.apk com.tutpro.baresip.plus 2021-07-05
+com.tutpro.baresip.plus_49.apk com.tutpro.baresip.plus 2021-07-12
+com.tutpro.baresip.plus_50.apk com.tutpro.baresip.plus 2021-07-15
 com.tutpro.baresip_28.apk com.tutpro.baresip 2018-10-28
 com.tutpro.baresip_29.apk com.tutpro.baresip 2018-10-28
 com.tutpro.baresip_31.apk com.tutpro.baresip 2018-11-07
@@ -14068,6 +14218,9 @@ com.tutpro.baresip_166.apk com.tutpro.baresip 2021-05-15
 com.tutpro.baresip_167.apk com.tutpro.baresip 2021-05-25
 com.tutpro.baresip_169.apk com.tutpro.baresip 2021-06-16
 com.tutpro.baresip_170.apk com.tutpro.baresip 2021-06-24
+com.tutpro.baresip_171.apk com.tutpro.baresip 2021-07-05
+com.tutpro.baresip_172.apk com.tutpro.baresip 2021-07-12
+com.tutpro.baresip_173.apk com.tutpro.baresip 2021-07-15
 com.tuyafeng.watt_4.apk com.tuyafeng.watt 2021-06-01
 com.twidere.twiderex_15.apk com.twidere.twiderex 2021-02-03
 com.twidere.twiderex_27.apk com.twidere.twiderex 2021-04-05
@@ -14106,6 +14259,7 @@ com.ubergeek42.WeechatAndroid_10500.apk com.ubergeek42.WeechatAndroid 2021-03-06
 com.ubergeek42.WeechatAndroid_10501.apk com.ubergeek42.WeechatAndroid 2021-03-11
 com.ubergeek42.WeechatAndroid_10600.apk com.ubergeek42.WeechatAndroid 2021-05-03
 com.ubergeek42.WeechatAndroid_10700.apk com.ubergeek42.WeechatAndroid 2021-06-30
+com.ubergeek42.WeechatAndroid_10701.apk com.ubergeek42.WeechatAndroid 2021-07-15
 com.uberspot.a2048_9.apk com.uberspot.a2048 2014-03-30
 com.uberspot.a2048_16.apk com.uberspot.a2048 2014-06-14
 com.uberspot.a2048_17.apk com.uberspot.a2048 2014-08-22
@@ -14347,6 +14501,13 @@ com.unciv.app_580.apk com.unciv.app 2021-06-20
 com.unciv.app_582.apk com.unciv.app 2021-06-24
 com.unciv.app_583.apk com.unciv.app 2021-06-24
 com.unciv.app_584.apk com.unciv.app 2021-06-30
+com.unciv.app_585.apk com.unciv.app 2021-07-02
+com.unciv.app_587.apk com.unciv.app 2021-07-02
+com.unciv.app_588.apk com.unciv.app 2021-07-05
+com.unciv.app_589.apk com.unciv.app 2021-07-07
+com.unciv.app_590.apk com.unciv.app 2021-07-12
+com.unciv.app_591.apk com.unciv.app 2021-07-15
+com.unciv.app_592.apk com.unciv.app 2021-07-15
 com.unicornsonlsd.finamp_7.apk com.unicornsonlsd.finamp 2021-05-15
 com.unicornsonlsd.finamp_10.apk com.unicornsonlsd.finamp 2021-05-17
 com.unitedcoders.android.gpodroid_12.apk com.unitedcoders.android.gpodroid 2012-01-08
@@ -14456,6 +14617,10 @@ com.vincent_falzon.discreetlauncher_24.apk com.vincent_falzon.discreetlauncher 2
 com.vincent_falzon.discreetlauncher_25.apk com.vincent_falzon.discreetlauncher 2021-06-11
 com.vincent_falzon.discreetlauncher_26.apk com.vincent_falzon.discreetlauncher 2021-06-11
 com.vincent_falzon.discreetlauncher_28.apk com.vincent_falzon.discreetlauncher 2021-06-24
+com.vincent_falzon.discreetlauncher_29.apk com.vincent_falzon.discreetlauncher 2021-07-02
+com.vincent_falzon.discreetlauncher_30.apk com.vincent_falzon.discreetlauncher 2021-07-07
+com.vincent_falzon.discreetlauncher_31.apk com.vincent_falzon.discreetlauncher 2021-07-12
+com.vincent_falzon.discreetlauncher_32.apk com.vincent_falzon.discreetlauncher 2021-07-15
 com.viper.simplert_1.apk com.viper.simplert 2016-09-19
 com.vlath.beheexplorer_2002.apk com.vlath.beheexplorer 2017-01-22
 com.vlath.beheexplorer_20001.apk com.vlath.beheexplorer 2017-01-14
@@ -15196,6 +15361,8 @@ com.zoffcc.applications.trifa_10104.apk com.zoffcc.applications.trifa 2021-06-13
 com.zoffcc.applications.trifa_10106.apk com.zoffcc.applications.trifa 2021-06-16
 com.zoffcc.applications.trifa_10108.apk com.zoffcc.applications.trifa 2021-06-24
 com.zoffcc.applications.trifa_10109.apk com.zoffcc.applications.trifa 2021-06-30
+com.zoffcc.applications.trifa_10110.apk com.zoffcc.applications.trifa 2021-07-02
+com.zoffcc.applications.trifa_10111.apk com.zoffcc.applications.trifa 2021-07-05
 com.zoffcc.applications.zanavi_240.apk com.zoffcc.applications.zanavi 2015-08-02
 com.zoffcc.applications.zanavi_245.apk com.zoffcc.applications.zanavi 2015-08-14
 com.zoffcc.applications.zanavi_246.apk com.zoffcc.applications.zanavi 2015-08-17
@@ -15341,6 +15508,7 @@ cz.hejl.chesswalk_9.apk cz.hejl.chesswalk 2013-11-23
 cz.hernik.kaku_2.apk cz.hernik.kaku 2021-04-29
 cz.hernik.kaku_3.apk cz.hernik.kaku 2021-05-11
 cz.hernik.kaku_4.apk cz.hernik.kaku 2021-06-24
+cz.hernik.kaku_5.apk cz.hernik.kaku 2021-07-05
 cz.jiriskorpil.amixerwebui_7.apk cz.jiriskorpil.amixerwebui 2018-02-16
 cz.jiriskorpil.amixerwebui_8.apk cz.jiriskorpil.amixerwebui 2018-05-07
 cz.jirkovsky.lukas.chmupocasi_30006.apk cz.jirkovsky.lukas.chmupocasi 2014-12-05
@@ -15478,6 +15646,7 @@ de.aditu.selfoss_13.apk de.aditu.selfoss 2012-09-26
 de.akaflieg_freiburg.enroute_202040.apk de.akaflieg_freiburg.enroute 2021-01-29
 de.akaflieg_freiburg.enroute_207000.apk de.akaflieg_freiburg.enroute 2021-06-05
 de.akaflieg_freiburg.enroute_208000.apk de.akaflieg_freiburg.enroute 2021-06-30
+de.akaflieg_freiburg.enroute_209000.apk de.akaflieg_freiburg.enroute 2021-07-15
 de.antonarnold.android.xoverrideheadphonejackdetection_2.apk de.antonarnold.android.xoverrideheadphonejackdetection 2018-10-08
 de.antonarnold.android.xoverrideheadphonejackdetection_3.apk de.antonarnold.android.xoverrideheadphonejackdetection 2019-01-08
 de.antonarnold.android.xoverrideheadphonejackdetection_5.apk de.antonarnold.android.xoverrideheadphonejackdetection 2019-12-04
@@ -15670,6 +15839,7 @@ de.baumann.browser_108.apk de.baumann.browser 2021-05-15
 de.baumann.browser_110.apk de.baumann.browser 2021-05-17
 de.baumann.browser_111.apk de.baumann.browser 2021-06-01
 de.baumann.browser_112.apk de.baumann.browser 2021-06-30
+de.baumann.browser_113.apk de.baumann.browser 2021-07-07
 de.baumann.diaspora_17.apk de.baumann.diaspora 2016-03-22
 de.baumann.diaspora_22.apk de.baumann.diaspora 2016-04-01
 de.baumann.diaspora_23.apk de.baumann.diaspora 2016-04-09
@@ -15949,6 +16119,7 @@ de.blau.android_1600.apk de.blau.android 2020-11-12
 de.blau.android_1610.apk de.blau.android 2021-03-03
 de.blau.android_1703.apk de.blau.android 2021-04-14
 de.blau.android_1705.apk de.blau.android 2021-06-30
+de.blau.android_1706.apk de.blau.android 2021-07-12
 de.blinkt.openvpn_48.apk de.blinkt.openvpn 2012-09-07
 de.blinkt.openvpn_49.apk de.blinkt.openvpn 2012-09-16
 de.blinkt.openvpn_51.apk de.blinkt.openvpn 2012-10-11
@@ -15986,6 +16157,7 @@ de.blinkt.openvpn_171.apk de.blinkt.openvpn 2020-08-21
 de.blinkt.openvpn_172.apk de.blinkt.openvpn 2020-09-18
 de.blinkt.openvpn_175.apk de.blinkt.openvpn 2020-10-02
 de.blinkt.openvpn_176.apk de.blinkt.openvpn 2021-04-23
+de.blinkt.openvpn_177.apk de.blinkt.openvpn 2021-07-15
 de.blocklink.pigrid_1.apk de.blocklink.pigrid 2018-11-28
 de.blocklink.pigrid_2.apk de.blocklink.pigrid 2018-11-29
 de.blocklink.pigrid_5.apk de.blocklink.pigrid 2019-01-13
@@ -16104,6 +16276,7 @@ de.corona.tracing_2000300.apk de.corona.tracing 2021-04-29
 de.corona.tracing_2000500.apk de.corona.tracing 2021-05-02
 de.corona.tracing_2020102.apk de.corona.tracing 2021-06-05
 de.corona.tracing_2030401.apk de.corona.tracing 2021-06-14
+de.corona.tracing_2040301.apk de.corona.tracing 2021-07-05
 de.cryptobitch.muelli.barcodegen_2.apk de.cryptobitch.muelli.barcodegen 2016-09-23
 de.cryptobitch.muelli.vouchercalc_2.apk de.cryptobitch.muelli.vouchercalc 2016-07-15
 de.cryptobitch.muelli.vouchercalc_3.apk de.cryptobitch.muelli.vouchercalc 2016-07-28
@@ -16189,6 +16362,7 @@ de.danoeh.antennapod_2010295.apk de.danoeh.antennapod 2021-01-14
 de.danoeh.antennapod_2010495.apk de.danoeh.antennapod 2021-03-01
 de.danoeh.antennapod_2020095.apk de.danoeh.antennapod 2021-05-15
 de.danoeh.antennapod_2020195.apk de.danoeh.antennapod 2021-05-25
+de.deftk.openww.android_3.apk de.deftk.openww.android 2021-07-10
 de.delusions.measure_9.apk de.delusions.measure 2012-03-23
 de.delusions.measure_17.apk de.delusions.measure 2013-01-29
 de.delusionsoftware.congress_fahrplan_15.apk de.delusionsoftware.congress_fahrplan 2020-03-23
@@ -16250,6 +16424,8 @@ de.dennisguse.opentracks_4092.apk de.dennisguse.opentracks 2021-05-23
 de.dennisguse.opentracks_4098.apk de.dennisguse.opentracks 2021-05-25
 de.dennisguse.opentracks_4143.apk de.dennisguse.opentracks 2021-06-07
 de.dennisguse.opentracks_4151.apk de.dennisguse.opentracks 2021-06-18
+de.dennisguse.opentracks_4176.apk de.dennisguse.opentracks 2021-07-02
+de.dennisguse.opentracks_4253.apk de.dennisguse.opentracks 2021-07-12
 de.determapp.android_4.apk de.determapp.android 2019-05-21
 de.determapp.android_5.apk de.determapp.android 2019-06-08
 de.determapp.android_6.apk de.determapp.android 2019-09-25
@@ -16580,6 +16756,8 @@ de.hauke_stieler.geonotes_1002001.apk de.hauke_stieler.geonotes 2021-02-26
 de.hauke_stieler.geonotes_1003000.apk de.hauke_stieler.geonotes 2021-03-06
 de.hauke_stieler.geonotes_1003001.apk de.hauke_stieler.geonotes 2021-04-07
 de.hauke_stieler.geonotes_1003002.apk de.hauke_stieler.geonotes 2021-05-20
+de.hauke_stieler.geonotes_1004000.apk de.hauke_stieler.geonotes 2021-07-02
+de.hauke_stieler.geonotes_1004001.apk de.hauke_stieler.geonotes 2021-07-07
 de.hechler.andfish_20.apk de.hechler.andfish 2013-12-09
 de.hechler.andfish_21.apk de.hechler.andfish 2015-08-17
 de.hfu.funfpunktnull_12.apk de.hfu.funfpunktnull 2015-01-20
@@ -16791,6 +16969,7 @@ de.k3b.android.locationMapViewer_5.apk de.k3b.android.locationMapViewer 2016-08-
 de.k3b.android.locationMapViewer_6.apk de.k3b.android.locationMapViewer 2017-09-24
 de.k3b.android.locationMapViewer_8.apk de.k3b.android.locationMapViewer 2021-05-05
 de.k3b.android.locationMapViewer_9.apk de.k3b.android.locationMapViewer 2021-06-30
+de.k3b.android.locationMapViewer_10.apk de.k3b.android.locationMapViewer 2021-07-05
 de.k3b.android.lossless_jpg_crop_2.apk de.k3b.android.lossless_jpg_crop 2019-05-11
 de.k3b.android.lossless_jpg_crop_3.apk de.k3b.android.lossless_jpg_crop 2019-05-15
 de.k3b.android.lossless_jpg_crop_4.apk de.k3b.android.lossless_jpg_crop 2019-05-18
@@ -16844,6 +17023,8 @@ de.kaffeemitkoffein.tinyweatherforecastgermany_21.apk de.kaffeemitkoffein.tinywe
 de.kaffeemitkoffein.tinyweatherforecastgermany_22.apk de.kaffeemitkoffein.tinyweatherforecastgermany 2021-03-29
 de.kaffeemitkoffein.tinyweatherforecastgermany_23.apk de.kaffeemitkoffein.tinyweatherforecastgermany 2021-04-14
 de.kaffeemitkoffein.tinyweatherforecastgermany_24.apk de.kaffeemitkoffein.tinyweatherforecastgermany 2021-06-01
+de.kaffeemitkoffein.tinyweatherforecastgermany_25.apk de.kaffeemitkoffein.tinyweatherforecastgermany 2021-07-02
+de.kaffeemitkoffein.tinyweatherforecastgermany_26.apk de.kaffeemitkoffein.tinyweatherforecastgermany 2021-07-12
 de.karbach.tac_4.apk de.karbach.tac 2014-12-13
 de.karbach.tac_5.apk de.karbach.tac 2015-02-11
 de.karbach.tac_6.apk de.karbach.tac 2016-02-12
@@ -16881,6 +17062,7 @@ de.kromke.andreas.musictagger_19.apk de.kromke.andreas.musictagger 2020-05-26
 de.kromke.andreas.musictagger_20.apk de.kromke.andreas.musictagger 2020-06-20
 de.kromke.andreas.musictagger_21.apk de.kromke.andreas.musictagger 2020-11-24
 de.kromke.andreas.musictagger_22.apk de.kromke.andreas.musictagger 2021-05-15
+de.kromke.andreas.musictagger_23.apk de.kromke.andreas.musictagger 2021-07-02
 de.kromke.andreas.opus1musicplayer_59.apk de.kromke.andreas.opus1musicplayer 2021-02-26
 de.kromke.andreas.opus1musicplayer_60.apk de.kromke.andreas.opus1musicplayer 2021-05-25
 de.kromke.andreas.safmediascanner_5.apk de.kromke.andreas.safmediascanner 2021-03-24
@@ -17150,6 +17332,7 @@ de.markusfisch.android.shadereditor_53.apk de.markusfisch.android.shadereditor 2
 de.markusfisch.android.shadereditor_54.apk de.markusfisch.android.shadereditor 2020-03-05
 de.markusfisch.android.shadereditor_56.apk de.markusfisch.android.shadereditor 2020-08-15
 de.markusfisch.android.shadereditor_57.apk de.markusfisch.android.shadereditor 2021-03-29
+de.markusfisch.android.shadereditor_58.apk de.markusfisch.android.shadereditor 2021-07-02
 de.markusfisch.android.wavelines_3.apk de.markusfisch.android.wavelines 2013-12-15
 de.markusfisch.android.wavelines_5.apk de.markusfisch.android.wavelines 2018-11-16
 de.markusfisch.android.wavelines_6.apk de.markusfisch.android.wavelines 2018-11-17
@@ -17223,6 +17406,7 @@ de.marmaro.krt.ffupdater_69.apk de.marmaro.krt.ffupdater 2021-05-23
 de.marmaro.krt.ffupdater_70.apk de.marmaro.krt.ffupdater 2021-06-01
 de.marmaro.krt.ffupdater_71.apk de.marmaro.krt.ffupdater 2021-06-07
 de.marmaro.krt.ffupdater_72.apk de.marmaro.krt.ffupdater 2021-06-30
+de.marmaro.krt.ffupdater_73.apk de.marmaro.krt.ffupdater 2021-07-10
 de.mbutscher.wikiandpad.alphabeta_200200.apk de.mbutscher.wikiandpad.alphabeta 2012-08-23
 de.mbutscher.wikiandpad.alphabeta_200300.apk de.mbutscher.wikiandpad.alphabeta 2013-02-28
 de.measite.contactmerger_7.apk de.measite.contactmerger 2014-07-18
@@ -17270,11 +17454,13 @@ de.moekadu.metronome_33.apk de.moekadu.metronome 2021-05-11
 de.moekadu.tuner_4.apk de.moekadu.tuner 2021-05-02
 de.moekadu.tuner_5.apk de.moekadu.tuner 2021-05-03
 de.moekadu.tuner_7.apk de.moekadu.tuner 2021-05-17
+de.moekadu.tuner_8.apk de.moekadu.tuner 2021-07-02
 de.monocles.browser_1.apk de.monocles.browser 2021-06-01
 de.monocles.browser_2.apk de.monocles.browser 2021-06-20
 de.monocles.browser_3.apk de.monocles.browser 2021-06-30
 de.monocles.chat_100.apk de.monocles.chat 2021-05-20
 de.monocles.chat_101.apk de.monocles.chat 2021-05-29
+de.monocles.chat_102.apk de.monocles.chat 2021-07-02
 de.moooon.acrylicons_1.apk de.moooon.acrylicons 2021-01-31
 de.moooon.acrylicons_2.apk de.moooon.acrylicons 2021-01-31
 de.moooon.acrylicons_3.apk de.moooon.acrylicons 2021-01-31
@@ -17374,6 +17560,7 @@ de.nproth.pin_9.apk de.nproth.pin 2019-08-29
 de.nproth.pin_10.apk de.nproth.pin 2019-10-31
 de.nproth.pin_11.apk de.nproth.pin 2021-04-20
 de.nproth.pin_12.apk de.nproth.pin 2021-05-20
+de.nproth.pin_13.apk de.nproth.pin 2021-07-15
 de.nulide.bikecomputer_1.apk de.nulide.bikecomputer 2020-08-29
 de.nulide.bikecomputer_2.apk de.nulide.bikecomputer 2020-09-24
 de.nulide.bikecomputer_3.apk de.nulide.bikecomputer 2020-11-12
@@ -17575,6 +17762,7 @@ de.pixart.messenger_321.apk de.pixart.messenger 2021-03-11
 de.pixart.messenger_323.apk de.pixart.messenger 2021-04-16
 de.pixart.messenger_324.apk de.pixart.messenger 2021-04-23
 de.pixart.messenger_325.apk de.pixart.messenger 2021-04-23
+de.pixart.messenger_326.apk de.pixart.messenger 2021-07-02
 de.qspool.clementineremote_21.apk de.qspool.clementineremote 2013-11-27
 de.qspool.clementineremote_25.apk de.qspool.clementineremote 2013-12-11
 de.qspool.clementineremote_28.apk de.qspool.clementineremote 2014-01-30
@@ -17639,6 +17827,7 @@ de.reimardoeffinger.quickdic_109.apk de.reimardoeffinger.quickdic 2020-05-06
 de.reimardoeffinger.quickdic_110.apk de.reimardoeffinger.quickdic 2020-05-23
 de.reimardoeffinger.quickdic_111.apk de.reimardoeffinger.quickdic 2020-06-08
 de.reimardoeffinger.quickdic_112.apk de.reimardoeffinger.quickdic 2020-12-24
+de.reimardoeffinger.quickdic_113.apk de.reimardoeffinger.quickdic 2021-07-02
 de.repat.mosf_5.apk de.repat.mosf 2015-04-12
 de.retujo.bierverkostung_1.apk de.retujo.bierverkostung 2017-04-17
 de.retujo.bierverkostung_2.apk de.retujo.bierverkostung 2017-05-14
@@ -17835,6 +18024,10 @@ de.schildbach.wallet_418_58dcd8a.apk de.schildbach.wallet 2019-09-05
 de.schildbach.wallet_422.apk de.schildbach.wallet 2019-10-31
 de.schildbach.wallet_422_58dcd8a.apk de.schildbach.wallet 2019-10-31
 de.schildbach.wallet_427.apk de.schildbach.wallet 2019-11-14
+de.schildbach.wallet_469.apk de.schildbach.wallet 2021-07-05
+de.schildbach.wallet_469_58dcd8a.apk de.schildbach.wallet 2021-07-05
+de.schildbach.wallet_815.apk de.schildbach.wallet 2021-07-10
+de.schildbach.wallet_815_58dcd8a.apk de.schildbach.wallet 2021-07-10
 de.schildbach.wallet_test_74.apk de.schildbach.wallet_test 2012-04-07
 de.schildbach.wallet_test_75.apk de.schildbach.wallet_test 2012-04-07
 de.schildbach.wallet_test_87.apk de.schildbach.wallet_test 2012-06-28
@@ -17972,6 +18165,10 @@ de.schildbach.wallet_test_418_58dcd8a.apk de.schildbach.wallet_test 2019-09-05
 de.schildbach.wallet_test_422.apk de.schildbach.wallet_test 2019-10-31
 de.schildbach.wallet_test_422_58dcd8a.apk de.schildbach.wallet_test 2019-10-31
 de.schildbach.wallet_test_427.apk de.schildbach.wallet_test 2019-11-14
+de.schildbach.wallet_test_469.apk de.schildbach.wallet_test 2021-07-05
+de.schildbach.wallet_test_469_58dcd8a.apk de.schildbach.wallet_test 2021-07-05
+de.schildbach.wallet_test_815.apk de.schildbach.wallet_test 2021-07-10
+de.schildbach.wallet_test_815_58dcd8a.apk de.schildbach.wallet_test 2021-07-10
 de.schlikk.calls_100000.apk de.schlikk.calls 2021-05-29
 de.selfnet.wifisetup_2.apk de.selfnet.wifisetup 2019-06-14
 de.selfnet.wifisetup_4.apk de.selfnet.wifisetup 2019-07-02
@@ -18079,6 +18276,7 @@ de.spiritcroc.riotx_40100470.apk de.spiritcroc.riotx 2021-05-20
 de.spiritcroc.riotx_40100480.apk de.spiritcroc.riotx 2021-05-29
 de.spiritcroc.riotx_40100500.apk de.spiritcroc.riotx 2021-06-07
 de.spiritcroc.riotx_40100510.apk de.spiritcroc.riotx 2021-06-14
+de.spiritcroc.riotx_40100530.apk de.spiritcroc.riotx 2021-07-07
 de.srlabs.gsmmap_2.apk de.srlabs.gsmmap 2013-12-31
 de.srlabs.gsmmap_10.apk de.srlabs.gsmmap 2014-01-15
 de.srlabs.gsmmap_13.apk de.srlabs.gsmmap 2014-03-18
@@ -18172,6 +18370,8 @@ de.sudoq_22.apk de.sudoq 2020-02-26
 de.sudoq_26.apk de.sudoq 2020-02-26
 de.sudoq_27.apk de.sudoq 2021-03-06
 de.sudoq_28.apk de.sudoq 2021-04-23
+de.sudoq_29.apk de.sudoq 2021-07-02
+de.sudoq_31.apk de.sudoq 2021-07-07
 de.syss.MifareClassicTool_18.apk de.syss.MifareClassicTool 2013-12-09
 de.syss.MifareClassicTool_19.apk de.syss.MifareClassicTool 2013-12-27
 de.syss.MifareClassicTool_20.apk de.syss.MifareClassicTool 2014-01-15
@@ -18261,6 +18461,7 @@ de.tadris.fitness_1200.apk de.tadris.fitness 2021-06-01
 de.tadris.fitness_1210.apk de.tadris.fitness 2021-06-11
 de.tadris.flang_2.apk de.tadris.flang 2021-06-11
 de.tadris.flang_3.apk de.tadris.flang 2021-06-16
+de.tadris.flang_4.apk de.tadris.flang 2021-07-02
 de.tap.easy_xkcd_10.apk de.tap.easy_xkcd 2015-07-28
 de.tap.easy_xkcd_12.apk de.tap.easy_xkcd 2015-07-30
 de.tap.easy_xkcd_13.apk de.tap.easy_xkcd 2015-07-31
@@ -18362,6 +18563,7 @@ de.tap.easy_xkcd_164.apk de.tap.easy_xkcd 2020-04-15
 de.tap.easy_xkcd_166.apk de.tap.easy_xkcd 2020-05-06
 de.taz.android.app.free_10102900.apk de.taz.android.app.free 2020-12-22
 de.taz.android.app.free_10202900.apk de.taz.android.app.free 2021-03-06
+de.taz.android.app.free_10303900.apk de.taz.android.app.free 2021-07-10
 de.tcrass.minos_4099.apk de.tcrass.minos 2020-08-21
 de.tcrass.minos_10004.apk de.tcrass.minos 2020-08-22
 de.thecode.android.tazreader_3090102.apk de.thecode.android.tazreader 2019-04-17
@@ -18677,6 +18879,8 @@ de.westnordost.streetcomplete_3104.apk de.westnordost.streetcomplete 2021-04-23
 de.westnordost.streetcomplete_3203.apk de.westnordost.streetcomplete 2021-05-29
 de.westnordost.streetcomplete_3204.apk de.westnordost.streetcomplete 2021-06-07
 de.westnordost.streetcomplete_3205.apk de.westnordost.streetcomplete 2021-06-30
+de.westnordost.streetcomplete_3301.apk de.westnordost.streetcomplete 2021-07-07
+de.westnordost.streetcomplete_3302.apk de.westnordost.streetcomplete 2021-07-12
 de.wikilab.android.friendica01_8.apk de.wikilab.android.friendica01 2013-01-18
 de.wikilab.android.friendica01_9.apk de.wikilab.android.friendica01 2013-06-02
 de.wikilab.android.ldapsync_17.apk de.wikilab.android.ldapsync 2019-02-20
@@ -18759,6 +18963,7 @@ design.codeux.authpass.fdroid_147.apk design.codeux.authpass.fdroid 2020-09-24
 design.codeux.authpass.fdroid_148.apk design.codeux.authpass.fdroid 2020-10-20
 design.codeux.authpass.fdroid_149.apk design.codeux.authpass.fdroid 2020-10-22
 design.codeux.authpass.fdroid_150.apk design.codeux.authpass.fdroid 2021-02-24
+design.codeux.authpass.fdroid_151.apk design.codeux.authpass.fdroid 2021-07-12
 dev.corruptedark.openchaoschess_22.apk dev.corruptedark.openchaoschess 2020-09-13
 dev.corruptedark.openchaoschess_25.apk dev.corruptedark.openchaoschess 2020-10-02
 dev.corruptedark.openchaoschess_26.apk dev.corruptedark.openchaoschess 2020-10-10
@@ -18782,6 +18987,7 @@ dev.corruptedark.openchaoschess_45.apk dev.corruptedark.openchaoschess 2021-05-1
 dev.corruptedark.openchaoschess_46.apk dev.corruptedark.openchaoschess 2021-06-01
 dev.corruptedark.openchaoschess_47.apk dev.corruptedark.openchaoschess 2021-06-11
 dev.corruptedark.openchaoschess_48.apk dev.corruptedark.openchaoschess 2021-06-18
+dev.corruptedark.openchaoschess_49.apk dev.corruptedark.openchaoschess 2021-07-12
 dev.drsoran.moloko_90115.apk dev.drsoran.moloko 2012-09-28
 dev.drsoran.moloko_94208.apk dev.drsoran.moloko 2013-01-21
 dev.drsoran.moloko_94209.apk dev.drsoran.moloko 2013-02-04
@@ -18796,6 +19002,9 @@ dev.leonlatsch.photok_7.apk dev.leonlatsch.photok 2020-12-29
 dev.leonlatsch.photok_8.apk dev.leonlatsch.photok 2021-01-01
 dev.leonlatsch.photok_12.apk dev.leonlatsch.photok 2021-01-31
 dev.leonlatsch.photok_13.apk dev.leonlatsch.photok 2021-02-26
+dev.leonlatsch.photok_14.apk dev.leonlatsch.photok 2021-07-05
+dev.leonlatsch.photok_15.apk dev.leonlatsch.photok 2021-07-12
+dev.leonlatsch.photok_16.apk dev.leonlatsch.photok 2021-07-12
 dev.lonami.klooni_840.apk dev.lonami.klooni 2020-05-09
 dev.lonami.klooni_850.apk dev.lonami.klooni 2020-07-06
 dev.lonami.klooni_860.apk dev.lonami.klooni 2020-09-01
@@ -18847,6 +19056,7 @@ dev.lucanlm.antimine_1003001.apk dev.lucanlm.antimine 2021-05-29
 dev.lucanlm.antimine_1101001.apk dev.lucanlm.antimine 2021-06-01
 dev.lucanlm.antimine_1200001.apk dev.lucanlm.antimine 2021-06-13
 dev.lucanlm.antimine_1201011.apk dev.lucanlm.antimine 2021-06-24
+dev.lucanlm.antimine_1204021.apk dev.lucanlm.antimine 2021-07-07
 dev.marchello.sharik_10.apk dev.marchello.sharik 2021-01-14
 dev.msfjarvis.aps_10801.apk dev.msfjarvis.aps 2020-06-20
 dev.msfjarvis.aps_10900.apk dev.msfjarvis.aps 2020-06-28
@@ -18997,6 +19207,9 @@ dk.kjeldsen.carwingsflutter_164.apk dk.kjeldsen.carwingsflutter 2021-04-11
 dk.kjeldsen.carwingsflutter_166.apk dk.kjeldsen.carwingsflutter 2021-05-23
 dk.kjeldsen.carwingsflutter_167.apk dk.kjeldsen.carwingsflutter 2021-05-29
 dk.kjeldsen.carwingsflutter_168.apk dk.kjeldsen.carwingsflutter 2021-06-07
+dk.kjeldsen.carwingsflutter_169.apk dk.kjeldsen.carwingsflutter 2021-07-02
+dk.kjeldsen.carwingsflutter_171.apk dk.kjeldsen.carwingsflutter 2021-07-02
+dk.kjeldsen.carwingsflutter_172.apk dk.kjeldsen.carwingsflutter 2021-07-05
 dk.meznik.jan.encrypttext_1.apk dk.meznik.jan.encrypttext 2018-06-02
 dk.meznik.jan.encrypttext_5.apk dk.meznik.jan.encrypttext 2020-08-23
 dk.mide.fas.cmnightlies_2.apk dk.mide.fas.cmnightlies 2013-04-23
@@ -19147,6 +19360,7 @@ email.schaal.ocreader_53.apk email.schaal.ocreader 2020-09-18
 email.schaal.ocreader_54.apk email.schaal.ocreader 2020-12-13
 email.schaal.ocreader_55.apk email.schaal.ocreader 2020-12-27
 email.schaal.ocreader_56.apk email.schaal.ocreader 2021-02-26
+email.schaal.ocreader_57.apk email.schaal.ocreader 2021-07-10
 es.cesar.quitesleep_5.apk es.cesar.quitesleep 2012-03-02
 es.cesar.quitesleep_9.apk es.cesar.quitesleep 2012-03-02
 es.cesar.quitesleep_13.apk es.cesar.quitesleep 2012-08-29
@@ -19178,6 +19392,8 @@ es.ideotec.workouttime_5.apk es.ideotec.workouttime 2021-04-26
 es.ideotec.workouttime_6.apk es.ideotec.workouttime 2021-05-02
 es.ideotec.workouttime_7.apk es.ideotec.workouttime 2021-05-11
 es.ideotec.workouttime_8.apk es.ideotec.workouttime 2021-05-17
+es.ideotec.workouttime_9.apk es.ideotec.workouttime 2021-07-12
+es.ideotec.workouttime_10.apk es.ideotec.workouttime 2021-07-12
 es.usc.citius.servando.calendula_4.apk es.usc.citius.servando.calendula 2015-02-11
 es.usc.citius.servando.calendula_6.apk es.usc.citius.servando.calendula 2015-02-15
 es.usc.citius.servando.calendula_7.apk es.usc.citius.servando.calendula 2015-02-22
@@ -19731,6 +19947,17 @@ eu.faircode.email_1614.apk eu.faircode.email 2021-06-20
 eu.faircode.email_1618.apk eu.faircode.email 2021-06-24
 eu.faircode.email_1621.apk eu.faircode.email 2021-06-24
 eu.faircode.email_1623.apk eu.faircode.email 2021-06-30
+eu.faircode.email_1626.apk eu.faircode.email 2021-07-02
+eu.faircode.email_1634.apk eu.faircode.email 2021-07-05
+eu.faircode.email_1635.apk eu.faircode.email 2021-07-07
+eu.faircode.email_1636.apk eu.faircode.email 2021-07-07
+eu.faircode.email_1638.apk eu.faircode.email 2021-07-07
+eu.faircode.email_1639.apk eu.faircode.email 2021-07-10
+eu.faircode.email_1640.apk eu.faircode.email 2021-07-12
+eu.faircode.email_1642.apk eu.faircode.email 2021-07-12
+eu.faircode.email_1643.apk eu.faircode.email 2021-07-12
+eu.faircode.email_1644.apk eu.faircode.email 2021-07-15
+eu.faircode.email_1645.apk eu.faircode.email 2021-07-15
 eu.faircode.finegeotag_21.apk eu.faircode.finegeotag 2016-04-15
 eu.faircode.finegeotag_2016042701.apk eu.faircode.finegeotag 2016-04-29
 eu.faircode.netguard_7.apk eu.faircode.netguard 2015-10-30
@@ -20468,6 +20695,7 @@ felixwiemuth.simplereminder_9.apk felixwiemuth.simplereminder 2021-02-03
 felixwiemuth.simplereminder_11.apk felixwiemuth.simplereminder 2021-03-26
 felixwiemuth.simplereminder_12.apk felixwiemuth.simplereminder 2021-04-14
 felixwiemuth.simplereminder_908700.apk felixwiemuth.simplereminder 2021-06-07
+felixwiemuth.simplereminder_909700.apk felixwiemuth.simplereminder 2021-07-05
 fennec-5.0.multi.eabi-arm.apk org.mozilla.firefox
 fennec-6.0.multi.eabi-arm.apk org.mozilla.firefox
 fennec-9.0.multi.android-arm.apk org.mozilla.firefox 2012-01-19
@@ -20738,6 +20966,7 @@ fr.free.nrw.commons_775.apk fr.free.nrw.commons 2020-08-29
 fr.free.nrw.commons_791.apk fr.free.nrw.commons 2020-10-03
 fr.free.nrw.commons_876.apk fr.free.nrw.commons 2021-01-12
 fr.free.nrw.commons_1016.apk fr.free.nrw.commons 2021-06-14
+fr.free.nrw.commons_1021.apk fr.free.nrw.commons 2021-07-05
 fr.gaulupeau.apps.InThePoche_8.apk fr.gaulupeau.apps.InThePoche 2014-03-06
 fr.gaulupeau.apps.InThePoche_9.apk fr.gaulupeau.apps.InThePoche 2014-08-20
 fr.gaulupeau.apps.InThePoche_10.apk fr.gaulupeau.apps.InThePoche 2014-11-22
@@ -20794,6 +21023,8 @@ fr.gouv.android.stopcovid_232.apk fr.gouv.android.stopcovid 2021-05-15
 fr.gouv.android.stopcovid_234.apk fr.gouv.android.stopcovid 2021-05-23
 fr.gouv.android.stopcovid_244.apk fr.gouv.android.stopcovid 2021-06-11
 fr.gouv.android.stopcovid_276.apk fr.gouv.android.stopcovid 2021-06-30
+fr.gouv.android.stopcovid_292.apk fr.gouv.android.stopcovid 2021-07-05
+fr.gouv.android.stopcovid_298.apk fr.gouv.android.stopcovid 2021-07-10
 fr.gouv.etalab.mastodon_34.apk fr.gouv.etalab.mastodon 2017-07-27
 fr.gouv.etalab.mastodon_37.apk fr.gouv.etalab.mastodon 2017-07-28
 fr.gouv.etalab.mastodon_39.apk fr.gouv.etalab.mastodon 2017-08-02
@@ -21204,6 +21435,8 @@ fr.ralala.hexviewer_12.apk fr.ralala.hexviewer 2021-05-23
 fr.ralala.hexviewer_13.apk fr.ralala.hexviewer 2021-06-01
 fr.ralala.hexviewer_14.apk fr.ralala.hexviewer 2021-06-11
 fr.ralala.hexviewer_15.apk fr.ralala.hexviewer 2021-06-24
+fr.ralala.hexviewer_16.apk fr.ralala.hexviewer 2021-07-02
+fr.ralala.hexviewer_17.apk fr.ralala.hexviewer 2021-07-07
 fr.renzo.wikipoff_2.apk fr.renzo.wikipoff 2014-06-29
 fr.renzo.wikipoff_3.apk fr.renzo.wikipoff 2014-07-01
 fr.renzo.wikipoff_4.apk fr.renzo.wikipoff 2014-07-30
@@ -21618,6 +21851,7 @@ hu.vmiklos.plees_tracker_17.apk hu.vmiklos.plees_tracker 2021-03-17
 hu.vmiklos.plees_tracker_18.apk hu.vmiklos.plees_tracker 2021-04-14
 hu.vmiklos.plees_tracker_19.apk hu.vmiklos.plees_tracker 2021-05-11
 hu.vmiklos.plees_tracker_20.apk hu.vmiklos.plees_tracker 2021-06-07
+hu.vmiklos.plees_tracker_21.apk hu.vmiklos.plees_tracker 2021-07-07
 hu.vsza.adsdroid_1.apk hu.vsza.adsdroid 2012-09-07
 hu.vsza.adsdroid_2.apk hu.vsza.adsdroid 2012-10-11
 hu.vsza.adsdroid_3.apk hu.vsza.adsdroid 2013-02-02
@@ -21793,6 +22027,7 @@ im.vector.app_40101060.apk im.vector.app 2021-04-18
 im.vector.app_40101070.apk im.vector.app 2021-05-20
 im.vector.app_40101080.apk im.vector.app 2021-06-07
 im.vector.app_40101090.apk im.vector.app 2021-06-13
+im.vector.app_40101120.apk im.vector.app 2021-07-12
 im.vector.riotx_1200.apk im.vector.riotx 2020-01-14
 im.vector.riotx_40013000.apk im.vector.riotx 2020-01-23
 im.vector.riotx_40014030.apk im.vector.riotx 2020-02-29
@@ -21815,6 +22050,7 @@ in.ac.iitb.cse.cartsbusboarding_15.apk in.ac.iitb.cse.cartsbusboarding 2015-06-1
 in.amfoss.raag_1.apk in.amfoss.raag 2021-03-24
 in.amfoss.raag_3.apk in.amfoss.raag 2021-06-01
 in.amfoss.raag_4.apk in.amfoss.raag 2021-06-13
+in.amfoss.raag_5.apk in.amfoss.raag 2021-07-02
 in.andres.kandroid_11.apk in.andres.kandroid 2017-03-30
 in.andres.kandroid_12.apk in.andres.kandroid 2017-04-08
 in.andres.kandroid_13.apk in.andres.kandroid 2017-04-08
@@ -21921,6 +22157,7 @@ info.dvkr.screenstream_30602.apk info.dvkr.screenstream 2021-05-03
 info.dvkr.screenstream_30603.apk info.dvkr.screenstream 2021-05-20
 info.dvkr.screenstream_30604.apk info.dvkr.screenstream 2021-06-07
 info.dvkr.screenstream_30700.apk info.dvkr.screenstream 2021-06-30
+info.dvkr.screenstream_30703.apk info.dvkr.screenstream 2021-07-10
 info.frangor.laicare_1.apk info.frangor.laicare 2016-06-11
 info.frangor.laicare_2.apk info.frangor.laicare 2016-06-11
 info.guardianproject.browser_3.apk info.guardianproject.browser 2011-12-07
@@ -22057,6 +22294,7 @@ info.plateaukao.einkbro_890.apk info.plateaukao.einkbro 2021-06-11
 info.plateaukao.einkbro_891.apk info.plateaukao.einkbro 2021-06-13
 info.plateaukao.einkbro_81000.apk info.plateaukao.einkbro 2021-06-18
 info.plateaukao.einkbro_81001.apk info.plateaukao.einkbro 2021-06-30
+info.plateaukao.einkbro_81100.apk info.plateaukao.einkbro 2021-07-15
 info.puzz.a10000sentences_60.apk info.puzz.a10000sentences 2019-09-19
 info.schnatterer.nusic_18.apk info.schnatterer.nusic 2016-06-25
 info.schnatterer.nusic_19.apk info.schnatterer.nusic 2016-07-09
@@ -22153,6 +22391,7 @@ info.zamojski.soft.towercollector_2080182.apk info.zamojski.soft.towercollector 
 info.zamojski.soft.towercollector_2080284.apk info.zamojski.soft.towercollector 2021-05-15
 info.zamojski.soft.towercollector_2080385.apk info.zamojski.soft.towercollector 2021-05-29
 info.zamojski.soft.towercollector_2090086.apk info.zamojski.soft.towercollector 2021-06-30
+info.zamojski.soft.towercollector_2090187.apk info.zamojski.soft.towercollector 2021-07-07
 info.zwanenburg.caffeinetile_1.apk info.zwanenburg.caffeinetile 2016-12-14
 info.zwanenburg.caffeinetile_2.apk info.zwanenburg.caffeinetile 2016-12-14
 info.zwanenburg.caffeinetile_3.apk info.zwanenburg.caffeinetile 2016-12-14
@@ -22167,6 +22406,7 @@ io.anuke.mindustry_102.apk io.anuke.mindustry 2020-01-29
 io.anuke.mindustry_103.apk io.anuke.mindustry 2020-01-29
 io.anuke.mindustry_104.apk io.anuke.mindustry 2020-02-22
 io.anuke.mindustry_107.apk io.anuke.mindustry 2020-10-15
+io.bluewallet.bluewallet_60106.apk io.bluewallet.bluewallet 2021-07-05
 io.davidar.fabularium_26.apk io.davidar.fabularium 2019-10-03
 io.davidar.tensor_2.apk io.davidar.tensor 2016-04-19
 io.davidar.tensor_3.apk io.davidar.tensor 2016-04-24
@@ -22429,6 +22669,7 @@ io.github.muntashirakon.AppManager_348.apk io.github.muntashirakon.AppManager 20
 io.github.muntashirakon.AppManager_368.apk io.github.muntashirakon.AppManager 2020-10-31
 io.github.muntashirakon.AppManager_385.apk io.github.muntashirakon.AppManager 2021-05-02
 io.github.muntashirakon.AppManager_387.apk io.github.muntashirakon.AppManager 2021-06-05
+io.github.muntashirakon.AppManager_389.apk io.github.muntashirakon.AppManager 2021-07-07
 io.github.muntashirakon.Music_10503.apk io.github.muntashirakon.Music 2020-10-19
 io.github.muntashirakon.setedit_4.apk io.github.muntashirakon.setedit 2021-01-12
 io.github.muntashirakon.setedit_5.apk io.github.muntashirakon.setedit 2021-06-07
@@ -22503,6 +22744,7 @@ io.github.subhamtyagi.lastlauncher_14.apk io.github.subhamtyagi.lastlauncher 202
 io.github.subhamtyagi.lastlauncher_15.apk io.github.subhamtyagi.lastlauncher 2020-12-05
 io.github.subhamtyagi.lastlauncher_16.apk io.github.subhamtyagi.lastlauncher 2021-02-24
 io.github.subhamtyagi.lastlauncher_17.apk io.github.subhamtyagi.lastlauncher 2021-06-05
+io.github.subhamtyagi.lastlauncher_18.apk io.github.subhamtyagi.lastlauncher 2021-07-02
 io.github.subhamtyagi.nightmode_1.apk io.github.subhamtyagi.nightmode 2019-09-19
 io.github.subhamtyagi.ocr_5.apk io.github.subhamtyagi.ocr 2021-01-25
 io.github.subhamtyagi.ocr_6.apk io.github.subhamtyagi.ocr 2021-02-21
@@ -22610,6 +22852,7 @@ io.homeassistant.companion.android.minimal_603.apk io.homeassistant.companion.an
 io.homeassistant.companion.android.minimal_658.apk io.homeassistant.companion.android.minimal 2021-04-14
 io.homeassistant.companion.android.minimal_677.apk io.homeassistant.companion.android.minimal 2021-06-01
 io.homeassistant.companion.android.minimal_694.apk io.homeassistant.companion.android.minimal 2021-06-20
+io.horizontalsystems.bankwallet_48.apk io.horizontalsystems.bankwallet 2021-07-05
 io.infinyte7.ankiimageocclusion_14200.apk io.infinyte7.ankiimageocclusion 2021-02-21
 io.infinyte7.ankiimageocclusion_14300.apk io.infinyte7.ankiimageocclusion 2021-03-06
 io.kubenav.kubenav_33.apk io.kubenav.kubenav 2021-04-07
@@ -22640,6 +22883,7 @@ io.lbry.browser_16131.apk io.lbry.browser 2021-01-31
 io.lbry.browser_16141.apk io.lbry.browser 2021-02-03
 io.lbry.browser_16151.apk io.lbry.browser 2021-02-17
 io.lbry.browser_17001.apk io.lbry.browser 2021-04-05
+io.lbry.browser_17011.apk io.lbry.browser 2021-07-02
 io.librehealth.toolkit.cost_of_care_1.apk io.librehealth.toolkit.cost_of_care 2020-12-22
 io.librehealth.toolkit.cost_of_care_2.apk io.librehealth.toolkit.cost_of_care 2021-01-03
 io.librehealth.toolkit.cost_of_care_3.apk io.librehealth.toolkit.cost_of_care 2021-06-07
@@ -22650,6 +22894,7 @@ io.mainframe.hacs_44.apk io.mainframe.hacs 2020-02-26
 io.mainframe.hacs_45.apk io.mainframe.hacs 2020-03-05
 io.mainframe.hacs_46.apk io.mainframe.hacs 2020-07-06
 io.mainframe.hacs_47.apk io.mainframe.hacs 2020-08-21
+io.mainframe.hacs_48.apk io.mainframe.hacs 2021-07-15
 io.mkg20001.arubanetworkslogin_3000.apk io.mkg20001.arubanetworkslogin 2018-11-16
 io.mkg20001.arubanetworkslogin_5000.apk io.mkg20001.arubanetworkslogin 2018-11-16
 io.mrarm.irc_5.apk io.mrarm.irc 2017-12-24
@@ -22693,6 +22938,10 @@ io.nekohasekai.sagernet_277.apk io.nekohasekai.sagernet 2021-06-30
 io.nekohasekai.sagernet_278.apk io.nekohasekai.sagernet 2021-06-30
 io.nekohasekai.sagernet_279.apk io.nekohasekai.sagernet 2021-06-30
 io.nekohasekai.sagernet_280.apk io.nekohasekai.sagernet 2021-06-30
+io.nekohasekai.sagernet_282.apk io.nekohasekai.sagernet 2021-07-07
+io.nekohasekai.sagernet_283.apk io.nekohasekai.sagernet 2021-07-07
+io.nekohasekai.sagernet_284.apk io.nekohasekai.sagernet 2021-07-07
+io.nekohasekai.sagernet_285.apk io.nekohasekai.sagernet 2021-07-07
 io.neurolab_1.apk io.neurolab 2020-05-11
 io.oversec.one_1005005.apk io.oversec.one 2019-01-08
 io.oversec.one_1005006.apk io.oversec.one 2019-01-13
@@ -22728,6 +22977,7 @@ io.simplelogin.android.fdroid_6.apk io.simplelogin.android.fdroid 2021-01-01
 io.simplelogin.android.fdroid_13.apk io.simplelogin.android.fdroid 2021-02-21
 io.simplelogin.android.fdroid_14.apk io.simplelogin.android.fdroid 2021-03-24
 io.simplelogin.android.fdroid_15.apk io.simplelogin.android.fdroid 2021-05-23
+io.simplelogin.android.fdroid_16.apk io.simplelogin.android.fdroid 2021-07-02
 io.timelimit.android.aosp.direct_87.apk io.timelimit.android.aosp.direct 2020-08-21
 io.timelimit.android.aosp.direct_97.apk io.timelimit.android.aosp.direct 2020-09-24
 io.timelimit.android.aosp.direct_98.apk io.timelimit.android.aosp.direct 2020-10-07
@@ -23123,6 +23373,7 @@ it.niedermann.nextcloud.deck_1017004.apk it.niedermann.nextcloud.deck 2021-04-16
 it.niedermann.nextcloud.deck_1017007.apk it.niedermann.nextcloud.deck 2021-04-18
 it.niedermann.nextcloud.deck_1018002.apk it.niedermann.nextcloud.deck 2021-04-23
 it.niedermann.nextcloud.deck_1018003.apk it.niedermann.nextcloud.deck 2021-05-25
+it.niedermann.nextcloud.deck_1019000.apk it.niedermann.nextcloud.deck 2021-07-10
 it.niedermann.owncloud.notes_4.apk it.niedermann.owncloud.notes 2016-01-29
 it.niedermann.owncloud.notes_5.apk it.niedermann.owncloud.notes 2016-01-30
 it.niedermann.owncloud.notes_7.apk it.niedermann.owncloud.notes 2016-01-31
@@ -23226,6 +23477,7 @@ it.niedermann.owncloud.notes_3004007.apk it.niedermann.owncloud.notes 2021-06-11
 it.niedermann.owncloud.notes_3004008.apk it.niedermann.owncloud.notes 2021-06-11
 it.niedermann.owncloud.notes_3004009.apk it.niedermann.owncloud.notes 2021-06-14
 it.niedermann.owncloud.notes_3004010.apk it.niedermann.owncloud.notes 2021-06-18
+it.niedermann.owncloud.notes_3004011.apk it.niedermann.owncloud.notes 2021-07-07
 it.reyboz.bustorino_2.apk it.reyboz.bustorino 2014-11-11
 it.reyboz.bustorino_3.apk it.reyboz.bustorino 2014-11-15
 it.reyboz.bustorino_4.apk it.reyboz.bustorino 2014-11-23
@@ -23257,6 +23509,8 @@ it.reyboz.bustorino_29.apk it.reyboz.bustorino 2020-08-11
 it.reyboz.bustorino_30.apk it.reyboz.bustorino 2020-09-24
 it.reyboz.bustorino_31.apk it.reyboz.bustorino 2020-12-24
 it.reyboz.bustorino_32.apk it.reyboz.bustorino 2021-04-23
+it.reyboz.bustorino_33.apk it.reyboz.bustorino 2021-07-02
+it.reyboz.bustorino_34.apk it.reyboz.bustorino 2021-07-15
 it.reyboz.chordshift_2.apk it.reyboz.chordshift 2015-04-09
 it.reyboz.chordshift_3.apk it.reyboz.chordshift 2015-04-23
 it.reyboz.chordshift_4.apk it.reyboz.chordshift 2015-04-25
@@ -23308,6 +23562,7 @@ itkach.aard2_41.apk itkach.aard2 2019-05-25
 itkach.aard2_43.apk itkach.aard2 2019-07-30
 itkach.aard2_44.apk itkach.aard2 2020-04-21
 itkach.aard2_45.apk itkach.aard2 2021-01-05
+itkach.aard2_46.apk itkach.aard2 2021-07-15
 ivl.android.moneybalance_1.apk ivl.android.moneybalance 2013-08-28
 ivl.android.moneybalance_3.apk ivl.android.moneybalance 2013-09-27
 ivl.android.moneybalance_4.apk ivl.android.moneybalance 2016-05-05
@@ -23733,6 +23988,8 @@ me.blog.korn123.easydiary_231.apk me.blog.korn123.easydiary 2021-05-02
 me.blog.korn123.easydiary_232.apk me.blog.korn123.easydiary 2021-05-15
 me.blog.korn123.easydiary_233.apk me.blog.korn123.easydiary 2021-05-23
 me.blog.korn123.easydiary_234.apk me.blog.korn123.easydiary 2021-06-13
+me.blog.korn123.easydiary_235.apk me.blog.korn123.easydiary 2021-07-02
+me.blog.korn123.easydiary_237.apk me.blog.korn123.easydiary 2021-07-10
 me.bpear.archonpackager_17.apk me.bpear.archonpackager 2014-11-12
 me.bpear.chromeapkpackager_13.apk me.bpear.chromeapkpackager 2014-10-01
 me.ccrama.redditslide_179.apk me.ccrama.redditslide 2016-04-24
@@ -23904,12 +24161,14 @@ me.hackerchick.raisetoanswer_25.apk me.hackerchick.raisetoanswer 2021-03-11
 me.hackerchick.raisetoanswer_26.apk me.hackerchick.raisetoanswer 2021-03-26
 me.hackerchick.raisetoanswer_27.apk me.hackerchick.raisetoanswer 2021-06-11
 me.hackerchick.raisetoanswer_28.apk me.hackerchick.raisetoanswer 2021-06-13
+me.hackerchick.raisetoanswer_29.apk me.hackerchick.raisetoanswer 2021-07-05
 me.hackerchick.sharetoinputstick_13.apk me.hackerchick.sharetoinputstick 2020-05-17
 me.hackerchick.sharetoinputstick_14.apk me.hackerchick.sharetoinputstick 2020-05-20
 me.hackerchick.sharetoinputstick_15.apk me.hackerchick.sharetoinputstick 2020-07-06
 me.hackerchick.sharetoinputstick_16.apk me.hackerchick.sharetoinputstick 2020-12-07
 me.hackerchick.sharetoinputstick_17.apk me.hackerchick.sharetoinputstick 2020-12-09
 me.hackerchick.sharetoinputstick_18.apk me.hackerchick.sharetoinputstick 2020-12-13
+me.hackerchick.sharetoinputstick_19.apk me.hackerchick.sharetoinputstick 2021-07-10
 me.hda.urlhda_1.apk me.hda.urlhda 2014-08-14
 me.hda.urlhda_3.apk me.hda.urlhda 2016-06-28
 me.hda.urlhda_4.apk me.hda.urlhda 2016-06-28
@@ -24041,6 +24300,7 @@ me.ranko.autodark_13.apk me.ranko.autodark 2021-05-03
 me.rosuh.easywatermark_3.apk me.rosuh.easywatermark 2020-10-10
 me.rosuh.easywatermark_10102.apk me.rosuh.easywatermark 2021-05-29
 me.rosuh.easywatermark_20000.apk me.rosuh.easywatermark 2021-03-06
+me.rosuh.easywatermark_20100.apk me.rosuh.easywatermark 2021-07-02
 me.sheimi.sgit_107.apk me.sheimi.sgit 2014-03-03
 me.sheimi.sgit_108.apk me.sheimi.sgit 2016-05-25
 me.sheimi.sgit_109.apk me.sheimi.sgit 2016-06-01
@@ -24120,6 +24380,7 @@ me.zhanghai.android.files_20.apk me.zhanghai.android.files 2020-07-12
 me.zhanghai.android.files_21.apk me.zhanghai.android.files 2020-11-27
 me.zhanghai.android.files_22.apk me.zhanghai.android.files 2021-03-19
 me.zhanghai.android.files_23.apk me.zhanghai.android.files 2021-03-29
+me.zhanghai.android.textselectionwebsearch_4.apk me.zhanghai.android.textselectionwebsearch 2021-07-12
 mega.privacy.android.app_82.apk mega.privacy.android.app 2016-11-11
 menion.android.whereyougo_40.apk menion.android.whereyougo 2016-11-30
 menion.android.whereyougo_42.apk menion.android.whereyougo 2017-03-24
@@ -24167,6 +24428,7 @@ ml.docilealligator.infinityforreddit_67.apk ml.docilealligator.infinityforreddit
 ml.docilealligator.infinityforreddit_68.apk ml.docilealligator.infinityforreddit 2021-05-29
 ml.docilealligator.infinityforreddit_69.apk ml.docilealligator.infinityforreddit 2021-06-01
 ml.docilealligator.infinityforreddit_70.apk ml.docilealligator.infinityforreddit 2021-06-13
+ml.vivekthazhathattil.chalachithram_2.apk ml.vivekthazhathattil.chalachithram 2021-07-15
 mn.tck.semitone_1.apk mn.tck.semitone 2019-05-02
 mn.tck.semitone_2.apk mn.tck.semitone 2019-05-15
 mn.tck.semitone_3.apk mn.tck.semitone 2019-05-23
@@ -24494,6 +24756,7 @@ net.daverix.urlforward_6.apk net.daverix.urlforward 2016-08-21
 net.daverix.urlforward_7.apk net.daverix.urlforward 2016-08-29
 net.daverix.urlforward_8.apk net.daverix.urlforward 2021-06-14
 net.daverix.urlforward_10.apk net.daverix.urlforward 2021-06-14
+net.daverix.urlforward_11.apk net.daverix.urlforward 2021-07-02
 net.dcnnt_12.apk net.dcnnt 2020-06-20
 net.dcnnt_13.apk net.dcnnt 2020-07-23
 net.dcnnt_14.apk net.dcnnt 2020-09-13
@@ -24503,6 +24766,7 @@ net.dcnnt_17.apk net.dcnnt 2021-03-17
 net.dcnnt_18.apk net.dcnnt 2021-05-17
 net.dcnnt_19.apk net.dcnnt 2021-05-29
 net.dcnnt_20.apk net.dcnnt 2021-06-30
+net.dcnnt_21.apk net.dcnnt 2021-07-02
 net.ddns.mlsoftlaberge.trycorder_5.apk net.ddns.mlsoftlaberge.trycorder 2017-01-14
 net.ddns.mlsoftlaberge.trycorder_505.apk net.ddns.mlsoftlaberge.trycorder 2017-01-20
 net.ddns.mlsoftlaberge.trycorder_506.apk net.ddns.mlsoftlaberge.trycorder 2017-01-22
@@ -24816,6 +25080,7 @@ net.gsantner.markor_119.apk net.gsantner.markor 2020-11-01
 net.gsantner.markor_120.apk net.gsantner.markor 2020-12-13
 net.gsantner.markor_121.apk net.gsantner.markor 2020-12-24
 net.gsantner.markor_122.apk net.gsantner.markor 2021-03-03
+net.gsantner.markor_123.apk net.gsantner.markor 2021-07-02
 net.guildem.publicip_1.apk net.guildem.publicip 2019-11-05
 net.guildem.publicip_2.apk net.guildem.publicip 2019-12-03
 net.guildem.publicip_3.apk net.guildem.publicip 2020-05-02
@@ -24952,6 +25217,8 @@ net.kollnig.missioncontrol.fdroid_2021050501.apk net.kollnig.missioncontrol.fdro
 net.kollnig.missioncontrol.fdroid_2021051202.apk net.kollnig.missioncontrol.fdroid 2021-05-17
 net.kollnig.missioncontrol.fdroid_2021051401.apk net.kollnig.missioncontrol.fdroid 2021-05-17
 net.kollnig.missioncontrol.fdroid_2021052001.apk net.kollnig.missioncontrol.fdroid 2021-05-25
+net.kollnig.missioncontrol.fdroid_2021062901.apk net.kollnig.missioncontrol.fdroid 2021-07-02
+net.kollnig.missioncontrol.fdroid_2021070301.apk net.kollnig.missioncontrol.fdroid 2021-07-07
 net.kourlas.voipms_sms_110.apk net.kourlas.voipms_sms 2016-09-21
 net.kourlas.voipms_sms_111.apk net.kourlas.voipms_sms 2016-10-06
 net.kourlas.voipms_sms_113.apk net.kourlas.voipms_sms 2016-10-06
@@ -25710,6 +25977,8 @@ net.vonforst.evmap_43.apk net.vonforst.evmap 2021-04-14
 net.vonforst.evmap_44.apk net.vonforst.evmap 2021-04-23
 net.vonforst.evmap_45.apk net.vonforst.evmap 2021-04-26
 net.vonforst.evmap_46.apk net.vonforst.evmap 2021-05-15
+net.vonforst.evmap_47.apk net.vonforst.evmap 2021-07-07
+net.vonforst.evmap_48.apk net.vonforst.evmap 2021-07-15
 net.vreeken.quickmsg_1.apk net.vreeken.quickmsg 2014-03-24
 net.vreeken.quickmsg_3.apk net.vreeken.quickmsg 2014-03-28
 net.vreeken.quickmsg_4.apk net.vreeken.quickmsg 2014-04-15
@@ -26034,6 +26303,7 @@ nl.ttys0.simplec25k_7.apk nl.ttys0.simplec25k 2012-10-01
 nl.ttys0.simplec25k_8.apk nl.ttys0.simplec25k 2012-10-05
 nl.viter.glider_22.apk nl.viter.glider 2021-05-03
 nl.viter.glider_23.apk nl.viter.glider 2021-05-25
+nl.viter.glider_24.apk nl.viter.glider 2021-07-10
 nl.yoerinijs.notebuddy_1.apk nl.yoerinijs.notebuddy 2017-03-17
 nl.yoerinijs.notebuddy_2.apk nl.yoerinijs.notebuddy 2017-03-24
 nl.yoerinijs.notebuddy_4.apk nl.yoerinijs.notebuddy 2017-04-04
@@ -26234,6 +26504,7 @@ nodomain.freeyourgadget.gadgetbridge_193.apk nodomain.freeyourgadget.gadgetbridg
 nodomain.freeyourgadget.gadgetbridge_194.apk nodomain.freeyourgadget.gadgetbridge 2021-05-23
 nodomain.freeyourgadget.gadgetbridge_195.apk nodomain.freeyourgadget.gadgetbridge 2021-06-07
 nodomain.freeyourgadget.gadgetbridge_196.apk nodomain.freeyourgadget.gadgetbridge 2021-06-16
+nodomain.freeyourgadget.gadgetbridge_197.apk nodomain.freeyourgadget.gadgetbridge 2021-07-10
 nodomain.freeyourgadget.tpmsmonitor_1.apk nodomain.freeyourgadget.tpmsmonitor 2019-01-18
 nodomain.vanous.blitztypekeyboard_5.apk nodomain.vanous.blitztypekeyboard 2019-10-18
 nu.firetech.android.pactrack_1310.apk nu.firetech.android.pactrack 2011-01-27
@@ -26289,6 +26560,8 @@ ogz.tripeaks_7.apk ogz.tripeaks 2021-04-20
 ogz.tripeaks_8.apk ogz.tripeaks 2021-04-20
 ogz.tripeaks_9.apk ogz.tripeaks 2021-04-26
 ogz.tripeaks_10.apk ogz.tripeaks 2021-05-06
+ogz.tripeaks_12.apk ogz.tripeaks 2021-07-02
+ogz.tripeaks_13.apk ogz.tripeaks 2021-07-12
 ohi.andre.consolelauncher_66.apk ohi.andre.consolelauncher 2016-05-17
 ohi.andre.consolelauncher_67.apk ohi.andre.consolelauncher 2016-06-01
 ohi.andre.consolelauncher_68.apk ohi.andre.consolelauncher 2016-06-01
@@ -26470,6 +26743,7 @@ org.adaway_50400.apk org.adaway 2021-03-03
 org.adaway_50500.apk org.adaway 2021-03-24
 org.adaway_50501.apk org.adaway 2021-04-16
 org.adaway_50600.apk org.adaway 2021-05-03
+org.adaway_50700.apk org.adaway 2021-07-02
 org.adblockplus.android_168.apk org.adblockplus.android 2013-03-20
 org.adblockplus.android_238.apk org.adblockplus.android 2013-03-20
 org.adblockplus.android_248.apk org.adblockplus.android 2013-04-29
@@ -26700,6 +26974,7 @@ org.andstatus.app_340.apk org.andstatus.app 2021-04-09
 org.andstatus.app_341.apk org.andstatus.app 2021-04-14
 org.andstatus.app_342.apk org.andstatus.app 2021-04-29
 org.andstatus.app_343.apk org.andstatus.app 2021-05-02
+org.andstatus.app_345.apk org.andstatus.app 2021-07-02
 org.andstatus.game2048_27.apk org.andstatus.game2048 2021-03-06
 org.andstatus.game2048_28.apk org.andstatus.game2048 2021-03-14
 org.andstatus.game2048_31.apk org.andstatus.game2048 2021-05-29
@@ -26797,6 +27072,7 @@ org.atalk.android_1141.apk org.atalk.android 2020-09-01
 org.atalk.android_1142.apk org.atalk.android 2020-10-07
 org.atalk.android_1143.apk org.atalk.android 2020-11-09
 org.atalk.android_206010.apk org.atalk.android 2021-06-30
+org.atalk.android_206020.apk org.atalk.android 2021-07-15
 org.aykit.MyOwnNotes_3.apk org.aykit.MyOwnNotes 2014-06-18
 org.aykit.MyOwnNotes_5.apk org.aykit.MyOwnNotes 2014-07-05
 org.aykit.MyOwnNotes_7.apk org.aykit.MyOwnNotes 2014-07-18
@@ -26994,6 +27270,7 @@ org.billthefarmer.diary_175.apk org.billthefarmer.diary 2021-01-31
 org.billthefarmer.diary_176.apk org.billthefarmer.diary 2021-02-21
 org.billthefarmer.diary_177.apk org.billthefarmer.diary 2021-04-29
 org.billthefarmer.diary_178.apk org.billthefarmer.diary 2021-05-11
+org.billthefarmer.diary_179.apk org.billthefarmer.diary 2021-07-05
 org.billthefarmer.editor_1.apk org.billthefarmer.editor 2017-07-23
 org.billthefarmer.editor_101.apk org.billthefarmer.editor 2017-07-27
 org.billthefarmer.editor_102.apk org.billthefarmer.editor 2017-08-02
@@ -27053,6 +27330,7 @@ org.billthefarmer.editor_155.apk org.billthefarmer.editor 2021-05-15
 org.billthefarmer.editor_156.apk org.billthefarmer.editor 2021-06-07
 org.billthefarmer.editor_157.apk org.billthefarmer.editor 2021-06-11
 org.billthefarmer.editor_158.apk org.billthefarmer.editor 2021-06-30
+org.billthefarmer.editor_159.apk org.billthefarmer.editor 2021-07-07
 org.billthefarmer.melodeon_1.apk org.billthefarmer.melodeon 2013-07-28
 org.billthefarmer.melodeon_101.apk org.billthefarmer.melodeon 2014-06-23
 org.billthefarmer.melodeon_102.apk org.billthefarmer.melodeon 2015-04-09
@@ -27153,6 +27431,7 @@ org.billthefarmer.siggen_120.apk org.billthefarmer.siggen 2019-05-06
 org.billthefarmer.siggen_121.apk org.billthefarmer.siggen 2020-04-01
 org.billthefarmer.siggen_122.apk org.billthefarmer.siggen 2021-01-25
 org.billthefarmer.siggen_123.apk org.billthefarmer.siggen 2021-06-07
+org.billthefarmer.siggen_124.apk org.billthefarmer.siggen 2021-07-07
 org.billthefarmer.tuner_1.apk org.billthefarmer.tuner 2013-02-27
 org.billthefarmer.tuner_101.apk org.billthefarmer.tuner 2013-03-12
 org.billthefarmer.tuner_102.apk org.billthefarmer.tuner 2013-03-19
@@ -27192,6 +27471,8 @@ org.billthefarmer.tuner_135.apk org.billthefarmer.tuner 2020-01-19
 org.billthefarmer.tuner_136.apk org.billthefarmer.tuner 2020-05-09
 org.billthefarmer.tuner_137.apk org.billthefarmer.tuner 2020-07-10
 org.billthefarmer.tuner_138.apk org.billthefarmer.tuner 2021-01-01
+org.billthefarmer.tuner_139.apk org.billthefarmer.tuner 2021-07-05
+org.billthefarmer.tuner_140.apk org.billthefarmer.tuner 2021-07-07
 org.birthdayadapter_1.apk org.birthdayadapter 2012-04-05
 org.birthdayadapter_2.apk org.birthdayadapter 2012-04-08
 org.birthdayadapter_3.apk org.birthdayadapter 2012-05-13
@@ -27308,6 +27589,7 @@ org.bobstuff.bobball_24.apk org.bobstuff.bobball 2016-02-14
 org.bombusmod_1304.apk org.bombusmod 2013-05-31
 org.bombusmod_1416.apk org.bombusmod 2021-06-18
 org.bombusmod_1419.apk org.bombusmod 2021-06-30
+org.bombusmod_1420.apk org.bombusmod 2021-07-05
 org.bostonandroid.umbrellatoday_4.apk org.bostonandroid.umbrellatoday 2012-08-23
 org.bottiger.podcast_84.apk org.bottiger.podcast 2015-03-09
 org.bottiger.podcast_86.apk org.bottiger.podcast 2015-03-12
@@ -27389,6 +27671,7 @@ org.briarproject.briar.android_10216.apk org.briarproject.briar.android 2021-03-
 org.briarproject.briar.android_10218.apk org.briarproject.briar.android 2021-04-05
 org.briarproject.briar.android_10220.apk org.briarproject.briar.android 2021-04-07
 org.briarproject.briar.android_10304.apk org.briarproject.briar.android 2021-06-11
+org.briarproject.briar.android_10305.apk org.briarproject.briar.android 2021-07-05
 org.broeuschmeul.android.gps.bluetooth.provider_125.apk org.broeuschmeul.android.gps.bluetooth.provider 2012-08-23
 org.broeuschmeul.android.gps.bluetooth.provider_126.apk org.broeuschmeul.android.gps.bluetooth.provider 2013-09-27
 org.broeuschmeul.android.gps.usb.provider_198.apk org.broeuschmeul.android.gps.usb.provider 2020-04-30
@@ -27579,6 +27862,8 @@ org.dash.electrum.electrum_dash_401020000.apk org.dash.electrum.electrum_dash 20
 org.dash.electrum.electrum_dash_401020001.apk org.dash.electrum.electrum_dash 2021-05-17
 org.dash.electrum.electrum_dash_401020100.apk org.dash.electrum.electrum_dash 2021-06-05
 org.dash.electrum.electrum_dash_401020101.apk org.dash.electrum.electrum_dash 2021-06-05
+org.dash.electrum.electrum_dash_401020200.apk org.dash.electrum.electrum_dash 2021-07-02
+org.dash.electrum.electrum_dash_401020201.apk org.dash.electrum.electrum_dash 2021-07-02
 org.daylightingsociety.wherearetheeyes_4.apk org.daylightingsociety.wherearetheeyes 2016-11-17
 org.daylightingsociety.wherearetheeyes_5.apk org.daylightingsociety.wherearetheeyes 2017-03-19
 org.daylightingsociety.wherearetheeyes_6.apk org.daylightingsociety.wherearetheeyes 2017-09-27
@@ -27586,6 +27871,7 @@ org.ddosolitary.okcagent_3.apk org.ddosolitary.okcagent 2020-07-13
 org.ddosolitary.okcagent_6.apk org.ddosolitary.okcagent 2020-11-24
 org.debian.eugen.headingcalculator_1.apk org.debian.eugen.headingcalculator 2014-12-13
 org.debian.eugen.headingcalculator_2.apk org.debian.eugen.headingcalculator 2021-06-18
+org.debian.eugen.headingcalculator_4.apk org.debian.eugen.headingcalculator 2021-07-15
 org.decsync.cc_1.apk org.decsync.cc 2018-12-03
 org.decsync.cc_2.apk org.decsync.cc 2018-12-05
 org.decsync.cc_3.apk org.decsync.cc 2018-12-18
@@ -27835,6 +28121,9 @@ org.ebur.debitum_3.apk org.ebur.debitum 2021-06-07
 org.ebur.debitum_4.apk org.ebur.debitum 2021-06-14
 org.ebur.debitum_5.apk org.ebur.debitum 2021-06-18
 org.ebur.debitum_7.apk org.ebur.debitum 2021-06-24
+org.ebur.debitum_8.apk org.ebur.debitum 2021-07-02
+org.ebur.debitum_9.apk org.ebur.debitum 2021-07-07
+org.ebur.debitum_10.apk org.ebur.debitum 2021-07-12
 org.edunivers.whereami_1.apk org.edunivers.whereami 2014-06-15
 org.eehouse.android.xw4_26.apk org.eehouse.android.xw4 2012-01-13
 org.eehouse.android.xw4_30.apk org.eehouse.android.xw4 2012-01-13
@@ -28272,6 +28561,7 @@ org.fdroid.fdroid_1012003.apk org.fdroid.fdroid 2021-03-14
 org.fdroid.fdroid_1012051.apk org.fdroid.fdroid 2021-04-16
 org.fdroid.fdroid_1013000.apk org.fdroid.fdroid 2021-04-26
 org.fdroid.fdroid_1013001.apk org.fdroid.fdroid 2021-06-07
+org.fdroid.fdroid_1013050.apk org.fdroid.fdroid 2021-07-10
 org.fdroid.k9_16025.apk org.fdroid.k9 2013-06-30
 org.fdroid.k9_17040.apk org.fdroid.k9 2013-07-02
 org.fdroid.k9_17041.apk org.fdroid.k9 2013-07-09
@@ -28279,6 +28569,7 @@ org.fdroid.k9_17044.apk org.fdroid.k9 2013-07-22
 org.fdroid.k9_17046.apk org.fdroid.k9 2013-08-03
 org.fdroid.k9_18002.apk org.fdroid.k9 2013-07-02
 org.fdroid.k9_18005.apk org.fdroid.k9 2013-07-11
+org.fdroid.nearby_1.apk org.fdroid.nearby 2021-07-12
 org.fdroid.superuser_1013.apk org.fdroid.superuser 2013-03-07
 org.fdroid.superuser_1016.apk org.fdroid.superuser 2013-03-30
 org.fdroid.superuser_1017.apk org.fdroid.superuser 2013-04-12
@@ -28524,12 +28815,15 @@ org.freenetproject.mobile_300.apk org.freenetproject.mobile 2021-02-15
 org.freenetproject.mobile_301.apk org.freenetproject.mobile 2021-03-11
 org.freenetproject.mobile_302.apk org.freenetproject.mobile 2021-03-17
 org.freenetproject.mobile_303.apk org.freenetproject.mobile 2021-04-07
+org.freenetproject.mobile_305.apk org.freenetproject.mobile 2021-07-07
 org.freshrss.easyrss_606.apk org.freshrss.easyrss 2015-05-26
 org.freshrss.easyrss_608.apk org.freshrss.easyrss 2017-07-23
 org.freshrss.easyrss_704.apk org.freshrss.easyrss 2020-04-21
 org.freshrss.easyrss_706.apk org.freshrss.easyrss 2020-05-11
 org.froscon.schedule_2.apk org.froscon.schedule 2014-08-19
 org.fsociety.vernet_5.apk org.fsociety.vernet 2021-06-16
+org.fsociety.vernet_7.apk org.fsociety.vernet 2021-07-02
+org.fsociety.vernet_8.apk org.fsociety.vernet 2021-07-10
 org.galexander.sshd_21.apk org.galexander.sshd 2019-08-24
 org.galexander.sshd_22.apk org.galexander.sshd 2019-09-25
 org.galexander.sshd_23.apk org.galexander.sshd 2019-11-12
@@ -29291,6 +29585,8 @@ org.kknickkk.spider_12.apk org.kknickkk.spider 2020-01-14
 org.kknickkk.spider_13.apk org.kknickkk.spider 2020-05-02
 org.kobuge.ninjatraining_2.apk org.kobuge.ninjatraining 2015-09-12
 org.koitharu.kotatsu_364.apk org.koitharu.kotatsu 2021-05-02
+org.koitharu.kotatsu_366.apk org.koitharu.kotatsu 2021-07-02
+org.koitharu.kotatsu_367.apk org.koitharu.kotatsu 2021-07-15
 org.kontalk_21.apk org.kontalk 2013-03-20
 org.kontalk_23.apk org.kontalk 2013-04-04
 org.kontalk_24.apk org.kontalk 2013-06-03
@@ -29760,6 +30056,7 @@ org.linphone_4230.apk org.linphone 2020-03-11
 org.linphone_4300.apk org.linphone 2020-09-07
 org.linphone_4310.apk org.linphone 2020-10-02
 org.linphone_4403.apk org.linphone 2021-05-17
+org.linphone_4404.apk org.linphone 2021-07-12
 org.logicallycreative.movingpolygons_4.apk org.logicallycreative.movingpolygons 2014-01-09
 org.lufebe16.pysolfc_8.apk org.lufebe16.pysolfc 2017-10-03
 org.lufebe16.pysolfc_20200.apk org.lufebe16.pysolfc 2018-04-28
@@ -30133,6 +30430,7 @@ org.moire.ultrasonic_90.apk org.moire.ultrasonic 2021-03-11
 org.moire.ultrasonic_91.apk org.moire.ultrasonic 2021-03-24
 org.moire.ultrasonic_92.apk org.moire.ultrasonic 2021-05-02
 org.moire.ultrasonic_93.apk org.moire.ultrasonic 2021-06-07
+org.moire.ultrasonic_94.apk org.moire.ultrasonic 2021-07-02
 org.montrealtransit.android.schedule.stmbus_3.apk org.montrealtransit.android.schedule.stmbus 2013-12-09
 org.montrealtransit.android_886.apk org.montrealtransit.android 2013-12-09
 org.moparisthebest.appbak_2.apk org.moparisthebest.appbak 2014-02-19
@@ -30146,6 +30444,7 @@ org.mosad.teapod_2100.apk org.mosad.teapod 2021-01-03
 org.mosad.teapod_3000.apk org.mosad.teapod 2021-01-05
 org.mosad.teapod_4000.apk org.mosad.teapod 2021-03-08
 org.mosad.teapod_4100.apk org.mosad.teapod 2021-03-17
+org.mosad.teapod_4200.apk org.mosad.teapod 2021-07-12
 org.mosspaper_5.apk org.mosspaper 2013-06-24
 org.mosspaper_6.apk org.mosspaper 2015-04-09
 org.mozc.android.inputmethod.japanese_6028152.apk org.mozc.android.inputmethod.japanese 2019-02-27
@@ -30568,6 +30867,7 @@ org.nonononoki.hendroid_167.apk org.nonononoki.hendroid 2021-04-14
 org.nonononoki.hendroid_168.apk org.nonononoki.hendroid 2021-06-11
 org.nonononoki.hendroid_169.apk org.nonononoki.hendroid 2021-06-14
 org.nonononoki.hendroid_170.apk org.nonononoki.hendroid 2021-06-24
+org.nonononoki.hendroid_171.apk org.nonononoki.hendroid 2021-07-12
 org.notabug.lifeuser.moviedb_1.apk org.notabug.lifeuser.moviedb 2017-03-29
 org.notabug.lifeuser.moviedb_110.apk org.notabug.lifeuser.moviedb 2017-05-15
 org.notabug.lifeuser.moviedb_120.apk org.notabug.lifeuser.moviedb 2017-06-23
@@ -30918,6 +31218,7 @@ org.openhab.habdroid.beta_394.apk org.openhab.habdroid.beta 2021-06-11
 org.openhab.habdroid.beta_395.apk org.openhab.habdroid.beta 2021-06-13
 org.openhab.habdroid.beta_396.apk org.openhab.habdroid.beta 2021-06-13
 org.openhab.habdroid.beta_397.apk org.openhab.habdroid.beta 2021-06-18
+org.openhab.habdroid.beta_399.apk org.openhab.habdroid.beta 2021-07-15
 org.openhab.habdroid_30.apk org.openhab.habdroid 2018-03-15
 org.openhab.habdroid_34.apk org.openhab.habdroid 2018-03-23
 org.openhab.habdroid_50.apk org.openhab.habdroid 2018-04-21
@@ -30993,6 +31294,7 @@ org.openobservatory.ooniprobe_73.apk org.openobservatory.ooniprobe 2021-03-11
 org.openobservatory.ooniprobe_74.apk org.openobservatory.ooniprobe 2021-03-26
 org.openobservatory.ooniprobe_75.apk org.openobservatory.ooniprobe 2021-04-16
 org.openobservatory.ooniprobe_77.apk org.openobservatory.ooniprobe 2021-06-01
+org.openobservatory.ooniprobe_78.apk org.openobservatory.ooniprobe 2021-07-02
 org.openorienteering.mapper_607.apk org.openorienteering.mapper 2017-01-04
 org.openorienteering.mapper_608.apk org.openorienteering.mapper 2017-03-08
 org.openpetfoodfacts.scanner_37.apk org.openpetfoodfacts.scanner 2017-04-04
@@ -31041,6 +31343,7 @@ org.ostrya.presencepublisher_36.apk org.ostrya.presencepublisher 2020-11-12
 org.ostrya.presencepublisher_37.apk org.ostrya.presencepublisher 2020-12-24
 org.ostrya.presencepublisher_38.apk org.ostrya.presencepublisher 2021-03-06
 org.ostrya.presencepublisher_40.apk org.ostrya.presencepublisher 2021-03-26
+org.oxycblt.auxio_6.apk org.oxycblt.auxio 2021-07-05
 org.pacien.tincapp_1.apk org.pacien.tincapp 2017-05-28
 org.pacien.tincapp_2.apk org.pacien.tincapp 2017-07-07
 org.pacien.tincapp_3.apk org.pacien.tincapp 2017-08-07
@@ -31070,6 +31373,7 @@ org.pacien.tincapp_28.apk org.pacien.tincapp 2019-09-19
 org.pacien.tincapp_30.apk org.pacien.tincapp 2020-01-23
 org.pacien.tincapp_31.apk org.pacien.tincapp 2020-10-02
 org.pacien.tincapp_32.apk org.pacien.tincapp 2020-12-24
+org.pacien.tincapp_33.apk org.pacien.tincapp 2021-07-15
 org.paladyn.mediclog_2.apk org.paladyn.mediclog 2018-03-19
 org.paladyn.mediclog_3.apk org.paladyn.mediclog 2018-03-19
 org.paladyn.mediclog_4.apk org.paladyn.mediclog 2018-03-23
@@ -31122,6 +31426,7 @@ org.petero.droidfish_91.apk org.petero.droidfish 2020-04-15
 org.petero.droidfish_92.apk org.petero.droidfish 2020-05-23
 org.petero.droidfish_94.apk org.petero.droidfish 2020-10-10
 org.petero.droidfish_95.apk org.petero.droidfish 2021-02-24
+org.petero.droidfish_96.apk org.petero.droidfish 2021-07-07
 org.pipoypipagames.cowsrevenge_6.apk org.pipoypipagames.cowsrevenge 2018-08-29
 org.pipoypipagames.cowsrevenge_9.apk org.pipoypipagames.cowsrevenge 2018-09-05
 org.pipoypipagames.towerjumper_10.apk org.pipoypipagames.towerjumper 2018-12-15
@@ -31953,6 +32258,7 @@ org.proninyaroslav.libretorrent_16.apk org.proninyaroslav.libretorrent 2020-04-1
 org.proninyaroslav.libretorrent_17.apk org.proninyaroslav.libretorrent 2020-04-29
 org.proninyaroslav.libretorrent_18.apk org.proninyaroslav.libretorrent 2021-02-17
 org.proninyaroslav.libretorrent_19.apk org.proninyaroslav.libretorrent 2021-02-21
+org.proninyaroslav.libretorrent_20.apk org.proninyaroslav.libretorrent 2021-07-07
 org.pulpdust.lesserpad_6.apk org.pulpdust.lesserpad 2013-03-22
 org.pulpdust.lesserpad_7.apk org.pulpdust.lesserpad 2013-05-04
 org.pulpdust.lesserpad_8.apk org.pulpdust.lesserpad 2013-06-19
@@ -32001,6 +32307,9 @@ org.pyneo.maps_10010.apk org.pyneo.maps 2015-06-21
 org.qii.weiciyuan_23.apk org.qii.weiciyuan 2012-12-14
 org.qii.weiciyuan_25.apk org.qii.weiciyuan 2013-02-04
 org.qosp.notes_1.apk org.qosp.notes 2021-06-30
+org.qosp.notes_2.apk org.qosp.notes 2021-07-02
+org.qosp.notes_3.apk org.qosp.notes 2021-07-02
+org.qosp.notes_4.apk org.qosp.notes 2021-07-10
 org.quantumbadger.redreader_15.apk org.quantumbadger.redreader 2013-04-07
 org.quantumbadger.redreader_17.apk org.quantumbadger.redreader 2013-04-08
 org.quantumbadger.redreader_21.apk org.quantumbadger.redreader 2013-04-09
@@ -32061,6 +32370,10 @@ org.quantumbadger.redreader_93.apk org.quantumbadger.redreader 2020-09-13
 org.quantumbadger.redreader_94.apk org.quantumbadger.redreader 2020-09-30
 org.quantumbadger.redreader_95.apk org.quantumbadger.redreader 2020-12-05
 org.quantumbadger.redreader_96.apk org.quantumbadger.redreader 2021-01-12
+org.quantumbadger.redreader_97.apk org.quantumbadger.redreader 2021-07-02
+org.quantumbadger.redreader_98.apk org.quantumbadger.redreader 2021-07-05
+org.quantumbadger.redreader_99.apk org.quantumbadger.redreader 2021-07-05
+org.quantumbadger.redreader_100.apk org.quantumbadger.redreader 2021-07-12
 org.quovadit.apps.andof_9.apk org.quovadit.apps.andof 2014-01-09
 org.quovadit.apps.andof_10.apk org.quovadit.apps.andof 2014-01-15
 org.quovadit.apps.andof_14.apk org.quovadit.apps.andof 2014-02-02
@@ -32301,6 +32614,9 @@ org.secuso.privacyfriendlyactivitytracker_3.apk org.secuso.privacyfriendlyactivi
 org.secuso.privacyfriendlyactivitytracker_4.apk org.secuso.privacyfriendlyactivitytracker 2016-12-15
 org.secuso.privacyfriendlyactivitytracker_5.apk org.secuso.privacyfriendlyactivitytracker 2016-12-25
 org.secuso.privacyfriendlyactivitytracker_6.apk org.secuso.privacyfriendlyactivitytracker 2017-03-17
+org.secuso.privacyfriendlyactivitytracker_9.apk org.secuso.privacyfriendlyactivitytracker 2021-07-10
+org.secuso.privacyfriendlyactivitytracker_11.apk org.secuso.privacyfriendlyactivitytracker 2021-07-12
+org.secuso.privacyfriendlyactivitytracker_12.apk org.secuso.privacyfriendlyactivitytracker 2021-07-15
 org.secuso.privacyfriendlyboardgameclock_1.apk org.secuso.privacyfriendlyboardgameclock 2019-02-05
 org.secuso.privacyfriendlycardgameone_1.apk org.secuso.privacyfriendlycardgameone 2018-05-18
 org.secuso.privacyfriendlycardgameone_2.apk org.secuso.privacyfriendlycardgameone 2019-03-31
@@ -32600,6 +32916,7 @@ org.strawberryforum.pollywog_2.apk org.strawberryforum.pollywog 2021-06-18
 org.studip.unofficial_app_7.apk org.studip.unofficial_app 2021-05-17
 org.studip.unofficial_app_8.apk org.studip.unofficial_app 2021-05-23
 org.studip.unofficial_app_14.apk org.studip.unofficial_app 2021-06-30
+org.studip.unofficial_app_15.apk org.studip.unofficial_app 2021-07-12
 org.subsurface_8.apk org.subsurface 2013-06-17
 org.sudowars_2.apk org.sudowars 2014-01-09
 org.sufficientlysecure.ical_50.apk org.sufficientlysecure.ical 2015-09-15
@@ -33083,6 +33400,8 @@ org.telegram.messenger_22641.apk org.telegram.messenger 2021-04-05
 org.telegram.messenger_22645.apk org.telegram.messenger 2021-04-05
 org.telegram.messenger_22931.apk org.telegram.messenger 2021-04-29
 org.telegram.messenger_22935.apk org.telegram.messenger 2021-04-29
+org.telegram.messenger_23601.apk org.telegram.messenger 2021-07-05
+org.telegram.messenger_23605.apk org.telegram.messenger 2021-07-05
 org.tengel.planisphere_1.apk org.tengel.planisphere 2020-05-13
 org.tengel.planisphere_2.apk org.tengel.planisphere 2020-05-20
 org.tengel.planisphere_3.apk org.tengel.planisphere 2020-06-07
@@ -33102,6 +33421,8 @@ org.tether.tether_104.apk org.tether.tether 2020-10-07
 org.tether.tether_140.apk org.tether.tether 2020-10-31
 org.tether.tether_151.apk org.tether.tether 2020-12-18
 org.tether.tether_163.apk org.tether.tether 2021-02-21
+org.tether.tether_190.apk org.tether.tether 2021-07-05
+org.tether.tether_200.apk org.tether.tether 2021-07-10
 org.thecongers.mtpms_2.apk org.thecongers.mtpms 2015-03-03
 org.thecongers.mtpms_4.apk org.thecongers.mtpms 2016-10-28
 org.thialfihar.android.apg_10900.apk org.thialfihar.android.apg 2013-06-30
@@ -33457,6 +33778,7 @@ org.totschnig.myexpenses_481.apk org.totschnig.myexpenses 2021-04-23
 org.totschnig.myexpenses_485.apk org.totschnig.myexpenses 2021-05-03
 org.totschnig.myexpenses_489.apk org.totschnig.myexpenses 2021-06-07
 org.totschnig.myexpenses_491.apk org.totschnig.myexpenses 2021-06-24
+org.totschnig.myexpenses_494.apk org.totschnig.myexpenses 2021-07-12
 org.totschnig.ocr.tesseract_2.apk org.totschnig.ocr.tesseract 2020-12-24
 org.totschnig.ocr.tesseract_3.apk org.totschnig.ocr.tesseract 2020-12-27
 org.totschnig.ocr.tesseract_4.apk org.totschnig.ocr.tesseract 2021-01-14
@@ -33652,6 +33974,7 @@ org.tuxpaint_923.apk org.tuxpaint 2018-09-11
 org.tuxpaint_924.apk org.tuxpaint 2020-06-04
 org.tuxpaint_925.apk org.tuxpaint 2021-01-03
 org.tuxpaint_9250.apk org.tuxpaint 2021-01-12
+org.tuxpaint_9260.apk org.tuxpaint 2021-07-05
 org.tvheadend.tvhguide_21.apk org.tvheadend.tvhguide 2015-11-26
 org.tw.onze.cmtheme_4.apk org.tw.onze.cmtheme 2015-03-29
 org.tw.onze.cmtheme_6.apk org.tw.onze.cmtheme 2015-04-10
@@ -34106,6 +34429,8 @@ org.wikipedia_50359.apk org.wikipedia 2021-05-17
 org.wikipedia_50360.apk org.wikipedia 2021-06-07
 org.wikipedia_50361.apk org.wikipedia 2021-06-07
 org.wikipedia_50362.apk org.wikipedia 2021-06-11
+org.wikipedia_50363.apk org.wikipedia 2021-07-05
+org.wikipedia_50364.apk org.wikipedia 2021-07-15
 org.wiktionary_1.apk org.wiktionary 2012-07-14
 org.windvolt_103.apk org.windvolt 2021-03-24
 org.windvolt_104.apk org.windvolt 2021-03-29
@@ -34113,6 +34438,7 @@ org.windvolt_110.apk org.windvolt 2021-04-16
 org.windvolt_111.apk org.windvolt 2021-04-29
 org.windvolt_20210.apk org.windvolt 2021-05-20
 org.windvolt_20216.apk org.windvolt 2021-06-07
+org.windvolt_202110.apk org.windvolt 2021-07-05
 org.wingy.chan_37.apk org.wingy.chan 2014-10-19
 org.wingy.chan_38.apk org.wingy.chan 2014-10-20
 org.wingy.chan_39.apk org.wingy.chan 2014-11-07
@@ -34141,6 +34467,7 @@ org.woheller69.weather_34.apk org.woheller69.weather 2021-05-17
 org.woheller69.weather_35.apk org.woheller69.weather 2021-05-29
 org.woheller69.weather_40.apk org.woheller69.weather 2021-06-07
 org.woheller69.weather_41.apk org.woheller69.weather 2021-06-18
+org.woheller69.weather_42.apk org.woheller69.weather 2021-07-02
 org.woltage.irssiconnectbot_393.apk org.woltage.irssiconnectbot 2012-07-02
 org.wordpress.android_31.apk org.wordpress.android 2011-01-26
 org.wordpress.android_33.apk org.wordpress.android 2011-07-01
@@ -34224,6 +34551,7 @@ org.xcsoar_112.apk org.xcsoar 2018-08-19
 org.xcsoar_113.apk org.xcsoar 2019-05-14
 org.xcsoar_118.apk org.xcsoar 2020-08-21
 org.xcsoar_119.apk org.xcsoar 2020-09-30
+org.xcsoar_129.apk org.xcsoar 2021-07-10
 org.xphnx.ameixa_37.apk org.xphnx.ameixa 2016-06-04
 org.xphnx.ameixa_45.apk org.xphnx.ameixa 2017-07-28
 org.xphnx.ameixa_46.apk org.xphnx.ameixa 2017-09-13
@@ -34589,6 +34917,7 @@ pc.javier.seguime_43.apk pc.javier.seguime 2020-01-10
 pc.javier.seguime_44.apk pc.javier.seguime 2020-03-23
 pc.javier.seguime_45.apk pc.javier.seguime 2020-03-23
 pc.javier.seguime_48.apk pc.javier.seguime 2021-02-26
+pc.javier.seguime_52.apk pc.javier.seguime 2021-07-02
 pe.moe.nori_6.apk pe.moe.nori 2014-01-07
 pe.moe.nori_10.apk pe.moe.nori 2013-12-15
 pe.moe.nori_11.apk pe.moe.nori 2014-01-24
@@ -34761,6 +35090,8 @@ player.efis.pfd_43.apk player.efis.pfd 2021-03-24
 player.efis.pfd_44.apk player.efis.pfd 2021-04-18
 player.efis.pfd_46.apk player.efis.pfd 2021-05-17
 player.efis.pfd_47.apk player.efis.pfd 2021-06-11
+player.efis.pfd_48.apk player.efis.pfd 2021-07-02
+player.efis.pfd_50.apk player.efis.pfd 2021-07-15
 posidon.launcher_60.apk posidon.launcher 2020-05-11
 posidon.launcher_61.apk posidon.launcher 2020-05-23
 posidon.launcher_62.apk posidon.launcher 2020-06-11
@@ -35014,6 +35345,7 @@ rkr.simplekeyboard.inputmethod_84.apk rkr.simplekeyboard.inputmethod 2021-04-20
 rkr.simplekeyboard.inputmethod_85.apk rkr.simplekeyboard.inputmethod 2021-05-15
 rkr.simplekeyboard.inputmethod_86.apk rkr.simplekeyboard.inputmethod 2021-05-17
 rkr.simplekeyboard.inputmethod_87.apk rkr.simplekeyboard.inputmethod 2021-05-20
+rkr.simplekeyboard.inputmethod_88.apk rkr.simplekeyboard.inputmethod 2021-07-02
 ro.ciubex.dscautorename_90.apk ro.ciubex.dscautorename 2017-03-29
 ro.ciubex.dscautorename_103.apk ro.ciubex.dscautorename 2021-06-18
 ro.hume.cosmin.retrostack_2.apk ro.hume.cosmin.retrostack 2020-08-21
@@ -35316,6 +35648,7 @@ ru.yanus171.feedexfork_217.apk ru.yanus171.feedexfork 2020-08-29
 ru.yanus171.feedexfork_224.apk ru.yanus171.feedexfork 2020-11-12
 ru.yanus171.feedexfork_225.apk ru.yanus171.feedexfork 2020-11-24
 ru.yanus171.feedexfork_231.apk ru.yanus171.feedexfork 2021-06-11
+ru.yanus171.feedexfork_233.apk ru.yanus171.feedexfork 2021-07-05
 ru.zxalexis.ugaday_1.apk ru.zxalexis.ugaday 2014-07-17
 ru.zxalexis.ugaday_12.apk ru.zxalexis.ugaday 2014-08-20
 ru.zxalexis.ugaday_14.apk ru.zxalexis.ugaday 2016-10-06
@@ -35353,6 +35686,7 @@ ryey.easer.beta_124001.apk ryey.easer.beta 2020-11-24
 ryey.easer.beta_124002.apk ryey.easer.beta 2021-01-12
 ryey.easer.beta_124999.apk ryey.easer.beta 2021-02-24
 ryey.easer.beta_125001.apk ryey.easer.beta 2021-05-06
+ryey.easer.beta_125002.apk ryey.easer.beta 2021-07-02
 ryey.easer_6.apk ryey.easer 2017-04-08
 ryey.easer_8.apk ryey.easer 2017-04-08
 ryey.easer_9.apk ryey.easer 2017-04-13
@@ -35676,6 +36010,7 @@ site.leos.apps.lespas_18.apk site.leos.apps.lespas 2021-06-07
 site.leos.apps.lespas_19.apk site.leos.apps.lespas 2021-06-11
 site.leos.apps.lespas_20.apk site.leos.apps.lespas 2021-06-14
 site.leos.apps.lespas_21.apk site.leos.apps.lespas 2021-06-30
+site.leos.apps.lespas_22.apk site.leos.apps.lespas 2021-07-15
 site.leos.setter_5.apk site.leos.setter 2020-12-22
 site.leos.setter_6.apk site.leos.setter 2021-01-01
 site.leos.setter_7.apk site.leos.setter 2021-04-26
@@ -35719,6 +36054,7 @@ space.neothefox.laytray_8.apk space.neothefox.laytray 2018-07-28
 space.neothefox.laytray_9.apk space.neothefox.laytray 2018-07-30
 space.neothefox.laytray_10.apk space.neothefox.laytray 2018-09-21
 space.rocketnine.xenia_14.apk space.rocketnine.xenia 2021-04-16
+space.rocketnine.xenia_15.apk space.rocketnine.xenia 2021-07-15
 st.wow.git.hrm_3.apk st.wow.git.hrm 2021-03-26
 starcom.snd_1.apk starcom.snd 2016-01-26
 starcom.snd_2.apk starcom.snd 2018-02-11
@@ -35796,6 +36132,7 @@ superustats.tool.android_12.apk superustats.tool.android 2019-02-25
 sushi.hardcore.droidfs_12.apk sushi.hardcore.droidfs 2021-03-24
 sushi.hardcore.droidfs_13.apk sushi.hardcore.droidfs 2021-04-09
 sushi.hardcore.droidfs_14.apk sushi.hardcore.droidfs 2021-06-18
+sushi.hardcore.droidfs_15.apk sushi.hardcore.droidfs 2021-07-02
 swati4star.createpdf_1.apk swati4star.createpdf 2016-09-08
 swati4star.createpdf_8.apk swati4star.createpdf 2018-10-01
 swati4star.createpdf_60.apk swati4star.createpdf 2018-10-11
@@ -35817,12 +36154,14 @@ taco.apkmirror_9.apk taco.apkmirror 2020-09-13
 taco.apkmirror_10.apk taco.apkmirror 2020-11-22
 taco.apkmirror_11.apk taco.apkmirror 2021-03-24
 taco.scoop_28.apk taco.scoop 2021-04-23
+taco.scoop_29.apk taco.scoop 2021-07-10
 talkmyphone-2.06-beta.apk com.googlecode.talkmyphone 2010-11-19
 team.swing.pendulums_3.apk team.swing.pendulums 2019-04-17
 team.swing.pendulums_4.apk team.swing.pendulums 2019-10-02
 teamunguided.brighttime_1.apk teamunguided.brighttime 2016-01-27
 teaonly.droideye_8.apk teaonly.droideye 2013-06-15
 teaonly.droideye_12.apk teaonly.droideye 2015-02-02
+tech.bogomolov.incomingsmsgateway_7.apk tech.bogomolov.incomingsmsgateway 2021-07-15
 tech.platypush.platypush_1000032.apk tech.platypush.platypush 2021-03-24
 tech.platypush.platypush_1000100.apk tech.platypush.platypush 2021-05-11
 tech.projectmatris.antimalwareapp_10002.apk tech.projectmatris.antimalwareapp 2020-09-24
@@ -35960,6 +36299,7 @@ tool.fff.profilepicturegenerator_15.apk tool.fff.profilepicturegenerator 2020-01
 tool.fff.profilepicturegenerator_17.apk tool.fff.profilepicturegenerator 2020-08-29
 top.donmor.tiddloid_36.apk top.donmor.tiddloid 2021-06-24
 top.donmor.tiddloid_37.apk top.donmor.tiddloid 2021-06-30
+top.donmor.tiddloid_38.apk top.donmor.tiddloid 2021-07-07
 tranquvis.simplesmsremote_100.apk tranquvis.simplesmsremote 2017-01-02
 tranquvis.simplesmsremote_110.apk tranquvis.simplesmsremote 2017-06-03
 tranquvis.simplesmsremote_111.apk tranquvis.simplesmsremote 2017-06-13
@@ -36092,6 +36432,7 @@ uk.org.boddie.android.weatherforecast_154.apk uk.org.boddie.android.weatherforec
 uk.org.boddie.android.weatherforecast_155.apk uk.org.boddie.android.weatherforecast 2021-03-17
 uk.org.boddie.android.weatherforecast_156.apk uk.org.boddie.android.weatherforecast 2021-03-19
 uk.org.boddie.android.weatherforecast_164.apk uk.org.boddie.android.weatherforecast 2021-04-14
+uk.org.boddie.android.weatherforecast_166.apk uk.org.boddie.android.weatherforecast 2021-07-02
 uk.org.cardboardbox.wonderdroid_36.apk uk.org.cardboardbox.wonderdroid 2012-10-21
 uk.org.cardboardbox.wonderdroid_37.apk uk.org.cardboardbox.wonderdroid 2013-03-24
 uk.org.cardboardbox.wonderdroid_39.apk uk.org.cardboardbox.wonderdroid 2013-10-31
@@ -36147,9 +36488,12 @@ us.lindanrandy.cidrcalculator_119.apk us.lindanrandy.cidrcalculator 2013-11-04
 us.lindanrandy.cidrcalculator_125.apk us.lindanrandy.cidrcalculator 2016-06-27
 us.shandian.giga_7.apk us.shandian.giga 2015-05-04
 us.shandian.giga_8.apk us.shandian.giga 2015-06-21
+us.spotco.extirpater_21.apk us.spotco.extirpater 2021-07-02
+us.spotco.extirpater_22.apk us.spotco.extirpater 2021-07-12
 us.spotco.fennec_dos_2891100.apk us.spotco.fennec_dos 2021-06-11
 us.spotco.fennec_dos_2891120.apk us.spotco.fennec_dos 2021-06-07
 us.spotco.ir_remote_1544.apk us.spotco.ir_remote 2021-06-30
+us.spotco.ir_remote_1545.apk us.spotco.ir_remote 2021-07-15
 us.spotco.malwarescanner_72.apk us.spotco.malwarescanner 2021-06-07
 us.spotco.malwarescanner_73.apk us.spotco.malwarescanner 2021-06-07
 us.spotco.maps_15.apk us.spotco.maps 2021-06-11
@@ -38401,6 +38745,7 @@ xyz.deepdaikon.zoysii_7.apk xyz.deepdaikon.zoysii 2020-01-29
 xyz.deepdaikon.zoysii_8.apk xyz.deepdaikon.zoysii 2020-03-30
 xyz.deepdaikon.zoysii_9.apk xyz.deepdaikon.zoysii 2020-07-07
 xyz.deepdaikon.zoysii_10.apk xyz.deepdaikon.zoysii 2021-02-03
+xyz.deepdaikon.zoysii_11.apk xyz.deepdaikon.zoysii 2021-07-02
 xyz.hisname.fireflyiii_13.apk xyz.hisname.fireflyiii 2018-11-27
 xyz.hisname.fireflyiii_14.apk xyz.hisname.fireflyiii 2018-12-12
 xyz.hisname.fireflyiii_16.apk xyz.hisname.fireflyiii 2018-12-15
@@ -38467,6 +38812,7 @@ xyz.hisname.fireflyiii_92.apk xyz.hisname.fireflyiii 2021-03-24
 xyz.hisname.fireflyiii_94.apk xyz.hisname.fireflyiii 2021-04-20
 xyz.hisname.fireflyiii_95.apk xyz.hisname.fireflyiii 2021-05-15
 xyz.hisname.fireflyiii_96.apk xyz.hisname.fireflyiii 2021-05-25
+xyz.hisname.fireflyiii_97.apk xyz.hisname.fireflyiii 2021-07-02
 xyz.iridiumion.plucklockex_4.apk xyz.iridiumion.plucklockex 2018-07-19
 xyz.myachin.downloader_4.apk xyz.myachin.downloader 2021-03-11
 xyz.myachin.downloader_5.apk xyz.myachin.downloader 2021-03-17
@@ -38482,6 +38828,7 @@ xyz.myachin.saveto_10.apk xyz.myachin.saveto 2021-03-24
 xyz.myachin.saveto_11.apk xyz.myachin.saveto 2021-03-24
 xyz.myachin.saveto_12.apk xyz.myachin.saveto 2021-05-11
 xyz.myachin.saveto_13.apk xyz.myachin.saveto 2021-06-05
+xyz.myachin.saveto_14.apk xyz.myachin.saveto 2021-07-07
 xyz.spinster.client.fdroid_68.apk xyz.spinster.client.fdroid 2019-11-14
 xyz.spinster.client.fdroid_70.apk xyz.spinster.client.fdroid 2019-11-17
 xyz.zedler.patrick.grocy_21.apk xyz.zedler.patrick.grocy 2020-10-07

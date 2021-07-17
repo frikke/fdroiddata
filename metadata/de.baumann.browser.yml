@@ -593,7 +593,29 @@ Builds:
         } }" >> build.gradle
       - sed -i -e '/jitpack.de/d' ../build.gradle
 
+  - versionName: '8.0'
+    versionCode: 113
+    commit: cfee0d835e191d411b2a4b3594ff9516407457ce
+    subdir: app
+    gradle:
+      - yes
+    prebuild:
+      - echo -e "android { lintOptions { disable 'MissingTranslation'\n\ndisable 'ExtraTranslation'
+        } }" >> build.gradle
+      - sed -i -e '/jitpack.de/d' ../build.gradle
+
+  - versionName: 8.1.1
+    versionCode: 115
+    commit: 96aba074b5b6200e3ad151e501512f0ccfd45e9b
+    subdir: app
+    gradle:
+      - yes
+    prebuild:
+      - echo -e "android { lintOptions { disable 'MissingTranslation'\n\ndisable 'ExtraTranslation'
+        } }" >> build.gradle
+      - sed -i -e '/jitpack.de/d' ../build.gradle
+
 AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
-CurrentVersion: '7.5'
-CurrentVersionCode: 112
+CurrentVersion: 8.1.1
+CurrentVersionCode: 115

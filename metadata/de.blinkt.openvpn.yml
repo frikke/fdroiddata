@@ -457,11 +457,26 @@ Builds:
         =\ false/' build.gradle.kts
     ndk: r19c
 
+  - versionName: 0.7.23
+    versionCode: 177
+    commit: 9048473a350170d120287a76dadd3c8ee04d8483
+    subdir: main
+    submodules: true
+    gradle:
+      - ui
+    rm:
+      - main/src/main/cpp/mbedtls/programs/fuzz
+      - main/src/main/cpp/mbedtls/tests
+      - main/src/main/cpp/openvpn3/test/unittests
+    prebuild: sed -i -e '/signingConfigs.getByName/d' -e 's/isEnable\ =\ true/isEnable\
+        =\ false/' build.gradle.kts
+    ndk: r19c
+
 MaintainerNotes: |-
     Build instructions:
     https://github.com/schwabe/ics-openvpn/blob/master/.travis.yml
 
 AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
-CurrentVersion: 0.7.22
-CurrentVersionCode: 176
+CurrentVersion: 0.7.23
+CurrentVersionCode: 177

@@ -1348,7 +1348,21 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 0.58.1
+    versionCode: 197
+    commit: edf4d7035af65fbfbe360ad66a560f639911ebd9
+    subdir: app
+    gradle:
+      - yes
+
+  - versionName: 0.58.2
+    versionCode: 198
+    commit: c0fe15d38ffcd7566e9980a7415aa2a149e670e2
+    subdir: app
+    gradle:
+      - yes
+
 AutoUpdateMode: Version %v
 UpdateCheckMode: Tags
-CurrentVersion: 0.58.0
-CurrentVersionCode: 196
+CurrentVersion: 0.58.2
+CurrentVersionCode: 198

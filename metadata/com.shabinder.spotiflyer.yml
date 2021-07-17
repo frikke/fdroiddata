@@ -36,10 +36,28 @@ Builds:
       - art
       - spotiflyer-ios
 
+  - versionName: 3.2.1
+    versionCode: 22
+    commit: 116530cc3c6b5b89a58991aefeedd7d126bad776
+    subdir: android
+    sudo:
+      - apt-get update || apt-get update
+      - apt-get install -y openjdk-11-jdk
+      - update-alternatives --auto java
+    gradle:
+      - yes
+    rm:
+      - desktop
+      - web-app
+      - maintenance-tasks
+      - infra
+      - art
+      - spotiflyer-ios
+
 MaintainerNotes: Contained Matomo & ACRA are configured opt-in
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
 UpdateCheckData: buildSrc/buildSrc/src/main/kotlin/Versions.kt|versionCode\s=\s(\d+)|.|versionName\s=\s"([\d.]+)"
-CurrentVersion: 3.1.0
-CurrentVersionCode: 20
+CurrentVersion: 3.2.1
+CurrentVersionCode: 22
