@@ -1,0 +1,31 @@
+Categories:
+  - Connectivity
+  - File Transfer
+License: Apache-2.0
+AuthorName: mouse233
+AuthorWebSite: https://github.com/mouse233
+SourceCode: https://github.com/mouse233/localsend-kotlin
+IssueTracker: https://github.com/mouse233/localsend-kotlin/issues
+Changelog: https://github.com/mouse233/localsend-kotlin/blob/main/CHANGELOG.md
+
+AutoName: LocalSend Kotlin
+
+RepoType: git
+Repo: https://github.com/mouse233/localsend-kotlin
+Binaries: 
+  https://github.com/mouse233/localsend-kotlin/releases/download/v%v/app-release.apk
+
+Builds:
+  - versionName: 0.7.9-alpha
+    versionCode: 22
+    commit: d0f8d51ed586cba48e45e3ef8069fdb2b62af5ac
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 2f0993fb0bf4b4b89864cb8ec0e0cca4c65fa6f6f014aa20d00f91a9400f8de5
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 0.7.9-alpha
+CurrentVersionCode: 22
