@@ -29,9 +29,16 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 1.8.0
+    versionCode: 14
+    commit: fd9e503aa7e158e06dbc662e0c90aba2cac7d91c
+    subdir: app
+    gradle:
+      - yes
+
 AllowedAPKSigningKeys: 88af7348f70b9160b3444ed8fa270948bf701ce1680ecebda8d9a31420f371b4
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 1.7.0
-CurrentVersionCode: 12
+CurrentVersion: 1.8.0
+CurrentVersionCode: 14
