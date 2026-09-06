@@ -416,9 +416,20 @@ Builds:
       - sed -i -e '/JavaVersion/s/17/21/g' -e '/jvmToolchain/s/17/21/' ../build-logic/src/main/kotlin/skymap.android-app.gradle.kts
         ../build-logic/src/main/kotlin/skymap.android-library.gradle.kts ../build-logic/src/main/kotlin/skymap.pure-kotlin.gradle.kts
 
+  - versionName: 2.0.2:Apollo
+    versionCode: 1729
+    commit: ff4a16e75dacf03364947dc69f9763b3865d8dd8
+    subdir: stardroid-v2/app
+    gradle:
+      - fdroid
+    prebuild:
+      - sed -i -e '/foojay/d' ../settings.gradle.kts ../../stardroid-v1/settings.gradle
+      - sed -i -e '/JavaVersion/s/17/21/g' -e '/jvmToolchain/s/17/21/' ../build-logic/src/main/kotlin/skymap.android-app.gradle.kts
+        ../build-logic/src/main/kotlin/skymap.android-library.gradle.kts ../build-logic/src/main/kotlin/skymap.pure-kotlin.gradle.kts
+
 MaintainerNotes: FirebaseAnalytics is a stub
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags ^v[\d.]+$
-CurrentVersion: 2.0.1:Apollo
-CurrentVersionCode: 1727
+CurrentVersion: 2.0.2:Apollo
+CurrentVersionCode: 1729
