@@ -475,6 +475,13 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 2.1.0
+    versionCode: 56
+    commit: 5b0128bd8e665a21a579304eab353216ffef3bf4
+    submodules: true
+    gradle:
+      - yes
+
 AllowedAPKSigningKeys:
   - 9f2ed3b0ff79e892780e986e602d63cb74bd3099a454daca56024cb7d606b99c
   - 0fd96daf7a70981edc7af42d14a20ff19e90514c9966de93abb7af251453efc4
@@ -487,5 +494,5 @@ MaintainerNotes: |-
 
 AutoUpdateMode: None
 UpdateCheckMode: Tags
-CurrentVersion: 2.0.4
-CurrentVersionCode: 55
+CurrentVersion: 2.1.0
+CurrentVersionCode: 56
