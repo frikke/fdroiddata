@@ -1,0 +1,31 @@
+AntiFeatures:
+  NonFreeNet:
+    en-US: Depends on Facebook's servers for content, and optionally downloads remote
+      filters/JavaScript from GitHub at runtime.
+Categories:
+  - Internet
+License: MIT
+AuthorName: Mark Retallack
+SourceCode: https://github.com/mretallack/SlimBook
+IssueTracker: https://github.com/mretallack/SlimBook/issues
+
+AutoName: SlimBook
+
+RepoType: git
+Repo: https://github.com/mretallack/SlimBook.git
+Binaries: https://github.com/mretallack/SlimBook/releases/download/v%v/app-release.apk
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: 31fa0f2cfde931c5694248178c3d6dd5ee3c5cb8
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 8cba8d1bda586d65144934537693f45397aca0453445ef5edec88388bd4d0855
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1
