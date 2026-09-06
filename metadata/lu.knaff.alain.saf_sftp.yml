@@ -163,9 +163,16 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 0.2.26
+    versionCode: 226
+    commit: be0bb022c65527c6390ab2cf80a16027e45c7e96
+    subdir: app
+    gradle:
+      - yes
+
 AllowedAPKSigningKeys: 9e29c6f8a7ad20388b1810e8381b38fbeb9ea598f7911fc73aeadb7c3cdae6e6
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 0.2.25
-CurrentVersionCode: 225
+CurrentVersion: 0.2.26
+CurrentVersionCode: 226
