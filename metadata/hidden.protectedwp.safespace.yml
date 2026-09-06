@@ -153,9 +153,16 @@ Builds:
     gradle:
       - yes
 
+  - versionName: '85.0'
+    versionCode: 85
+    commit: 19b30774970a919800895e26639e84bf1d7caa25
+    subdir: app
+    gradle:
+      - yes
+
 AllowedAPKSigningKeys: bcfcc921a8167afe3c3b528f02e157d76609d417adcb80e2a29a595fc6ce7483
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '84.0'
-CurrentVersionCode: 84
+CurrentVersion: '85.0'
+CurrentVersionCode: 85
