@@ -94,9 +94,17 @@ Builds:
       - yes
     ndk: r28c
 
+  - versionName: 4.9.5
+    versionCode: 57
+    commit: fbf611c2f0c242b9b8a3cf9a087eb3908d06dfb6
+    subdir: android/app
+    gradle:
+      - yes
+    ndk: r28c
+
 AllowedAPKSigningKeys: a7518bd7a3ae60bb1cb8329160337f51f271eab3ab9409818a7a4bba074aa906
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 4.9.4
-CurrentVersionCode: 56
+CurrentVersion: 4.9.5
+CurrentVersionCode: 57
