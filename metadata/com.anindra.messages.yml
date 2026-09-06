@@ -1,0 +1,27 @@
+Categories:
+  - Phone & SMS
+License: GPL-3.0-only
+AuthorName: Anindra
+SourceCode: https://github.com/an1ndra/Messages
+IssueTracker: https://github.com/an1ndra/Messages/issues
+
+AutoName: Messages
+
+RepoType: git
+Repo: https://github.com/an1ndra/Messages.git
+Binaries: https://github.com/an1ndra/Messages/releases/download/v%v/Messages-v%v.apk
+
+Builds:
+  - versionName: 1.0.21
+    versionCode: 24
+    commit: fd0c6e750789c5d32536ace260b0e69fe8002c35
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: cf860ec345a6810230629e24a66adaa58c311ef2dae2d77da02b85d4022bf608
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags ^v([0-9.]+)$
+CurrentVersion: 1.0.21
+CurrentVersionCode: 24
