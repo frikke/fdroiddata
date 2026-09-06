@@ -1,0 +1,28 @@
+Categories:
+  - Clock
+License: GPL-3.0-or-later
+AuthorName: thodiet
+SourceCode: https://github.com/thodiet/mathclock
+IssueTracker: https://github.com/thodiet/mathclock/issues
+
+AutoName: Math Clock
+
+RepoType: git
+Repo: https://github.com/thodiet/mathclock.git
+Binaries: 
+  https://github.com/thodiet/mathclock/releases/download/v%v_%c/mathclock_%v_%c.apk
+
+Builds:
+  - versionName: 1.6.1
+    versionCode: 9
+    commit: 300c65c61f2b3d1a7e789e0b2ffd6894c91987b4
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 090109f8e59497c61310b9aa82469a138c75fcca9f2aea88307c19c357c14ce4
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.6.1
+CurrentVersionCode: 9
