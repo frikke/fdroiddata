@@ -1,0 +1,30 @@
+Categories:
+  - System
+License: GPL-3.0-only
+AuthorName: Kepa
+AuthorEmail: kepatotorica@gmail.com
+AuthorWebSite: https://kepatotorica.vip
+SourceCode: https://github.com/kepatotorica/UnscopeMyData
+IssueTracker: https://github.com/kepatotorica/UnscopeMyData/issues
+
+AutoName: UnscopeMyData
+
+RepoType: git
+Repo: https://github.com/kepatotorica/UnscopeMyData
+Binaries: 
+  https://github.com/kepatotorica/UnscopeMyData/releases/download/v%v/UnscopeMyData-v%v.apk
+
+Builds:
+  - versionName: 0.14.0
+    versionCode: 14
+    commit: e9fbf5f4149028e1c7c8315af01d0597fec90575
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 60801d9f92618b300b8ae0b4ef947beba7c87885bfc27d5e0198cad2199b9ae6
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 0.14.0
+CurrentVersionCode: 14
