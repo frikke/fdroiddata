@@ -741,9 +741,20 @@ Builds:
     scandelete:
       - docs
 
+  - versionName: 1.14.10
+    versionCode: 149001
+    commit: 193868073308d287dd9b92dd041eb959232740d9
+    subdir: app
+    gradle:
+      - yes
+    binary: 
+      https://github.com/tristinbaker/IdleFantasy/releases/download/v%v/IdleFantasy-v%v.apk
+    scandelete:
+      - docs
+
 AllowedAPKSigningKeys: 99a980a934cb0149bfbdd5f4358471ffe69302e0467bae4d8574d4feeda34010
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 1.14.9
-CurrentVersionCode: 149000
+CurrentVersion: 1.14.10
+CurrentVersionCode: 149001
