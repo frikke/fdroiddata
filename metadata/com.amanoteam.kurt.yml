@@ -185,7 +185,16 @@ Builds:
       - yes
     ndk: r28c
 
+  - versionName: '2.0'
+    versionCode: 20
+    commit: e616994d4a08cd71127649a73d6b08f8918c0292
+    subdir: app
+    submodules: true
+    gradle:
+      - yes
+    ndk: r28c
+
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '1.9'
-CurrentVersionCode: 19
+CurrentVersion: '2.0'
+CurrentVersionCode: 20
