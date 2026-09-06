@@ -121,7 +121,15 @@ Builds:
       - yes
     ndk: r27b
 
+  - versionName: 0.20.3
+    versionCode: 24
+    commit: 614e364d2a0dc09e15ce538054ce4274bcadefb3
+    subdir: app
+    gradle:
+      - yes
+    ndk: r27b
+
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 0.20.2
-CurrentVersionCode: 23
+CurrentVersion: 0.20.3
+CurrentVersionCode: 24
