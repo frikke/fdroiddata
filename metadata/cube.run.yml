@@ -35,9 +35,16 @@ Builds:
     gradle:
       - yes
 
+  - versionName: 2.0-beta
+    versionCode: 6
+    commit: 3d195a3906fca2e633349a16bb3ecb0f0209470b
+    subdir: app
+    gradle:
+      - yes
+
 AllowedAPKSigningKeys: 2fe09f50180d92e3b3204992ffc9a8c598087b9a7bac0b12d3f23a1e3687fd7f
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '1.4'
-CurrentVersionCode: 5
+CurrentVersion: 2.0-beta
+CurrentVersionCode: 6
