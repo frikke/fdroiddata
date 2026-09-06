@@ -42,9 +42,16 @@ Builds:
     gradle:
       - fdroid
 
+  - versionName: '2.12'
+    versionCode: 20
+    commit: c71ce7d013ec65dbf4a215f58f6c0c868b27d248
+    subdir: app
+    gradle:
+      - fdroid
+
 AllowedAPKSigningKeys: 3bf1a6f74a9228aa0f590e84543a5a8fc9c8c9c30c498ca1f33be35ada9ebba6
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: '2.10'
-CurrentVersionCode: 18
+CurrentVersion: '2.12'
+CurrentVersionCode: 20
