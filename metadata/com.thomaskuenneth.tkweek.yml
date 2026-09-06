@@ -71,9 +71,23 @@ Builds:
       - $$reproducible-apk-tools$$/zipalign.py --page-size 16 --pad-like-apksigner
         --replace unaligned.apk $$OUT$$
 
+  - versionName: 2.4.0
+    versionCode: 24001
+    commit: 3ff4f626aa6004c17948935e8d2edb14de4d84c3
+    subdir: app
+    gradle:
+      - yes
+    srclibs:
+      - reproducible-apk-tools@v0.3.0
+    prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
+    postbuild:
+      - mv $$OUT$$ unaligned.apk
+      - $$reproducible-apk-tools$$/zipalign.py --page-size 16 --pad-like-apksigner
+        --replace unaligned.apk $$OUT$$
+
 AllowedAPKSigningKeys: 7d6bd0ed4e9e4a1e6e3da0cc2d783a25f721a3961c7da315536c4519d85545b2
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 2.3.5
-CurrentVersionCode: 23501
+CurrentVersion: 2.4.0
+CurrentVersionCode: 24001
