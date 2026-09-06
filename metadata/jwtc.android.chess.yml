@@ -694,7 +694,20 @@ Builds:
       - app/src/main/assets/hashmap.bin
     ndk: 29.0.14033849
 
+  - versionName: 10.5.0
+    versionCode: 297
+    commit: 4be3f52d0b6f6de154d4c659e43990506d413d49
+    subdir: app
+    gradle:
+      - foss
+    rm:
+      - native/project/jni/db.bin
+    prebuild: echo -e "\norg.gradle.jvmargs=-XX:MaxMetaspaceSize=1g" >> ../gradle.properties
+    scanignore:
+      - app/src/main/assets/hashmap.bin
+    ndk: 29.0.14033849
+
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 10.4.0
-CurrentVersionCode: 296
+CurrentVersion: 10.5.0
+CurrentVersionCode: 297
