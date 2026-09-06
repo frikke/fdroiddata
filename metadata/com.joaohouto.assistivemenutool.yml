@@ -1,0 +1,27 @@
+Categories:
+  - System
+License: MIT
+AuthorName: João Couto
+SourceCode: https://github.com/joaohouto/assistive
+IssueTracker: https://github.com/joaohouto/assistive/issues
+
+AutoName: Assistive Menu Tool
+
+RepoType: git
+Repo: https://github.com/joaohouto/assistive
+Binaries: https://github.com/joaohouto/assistive/releases/download/v%v/app-release.apk
+
+Builds:
+  - versionName: '1.4'
+    versionCode: 5
+    commit: 4c1f30151f1002fb41596371fdb1dc4b2ecaf7bf
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 3c349ffe2c4eafcf08a2983f426c1d2ba31ebdcc86094717d431b35c8287f33b
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.4'
+CurrentVersionCode: 5
