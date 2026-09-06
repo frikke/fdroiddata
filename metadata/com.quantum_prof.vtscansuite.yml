@@ -1,0 +1,38 @@
+AntiFeatures:
+  NonFreeNet:
+    en-US: Veto is a client for the proprietary VirusTotal online service and requires
+      the user to provide their own VirusTotal API key. All scanning is performed
+      by VirusTotal, not by the app itself.
+Categories:
+  - Security
+License: GPL-3.0-only
+AuthorName: Lorenzo Bay-Müller
+AuthorEmail: lorenzobaymueller+fdroid@gmail.com
+AuthorWebSite: https://lorenzobaymueller.me
+WebSite: https://quantumuniverse.github.io/Veto
+SourceCode: https://github.com/ProfessorQuantumUniverse/Veto
+IssueTracker: https://github.com/ProfessorQuantumUniverse/Veto/issues
+Changelog: https://github.com/ProfessorQuantumUniverse/Veto/releases
+Donate: https://buymeacoffee.com/universe_lab
+
+AutoName: Veto
+
+RepoType: git
+Repo: https://github.com/ProfessorQuantumUniverse/Veto
+Binaries: 
+  https://github.com/ProfessorQuantumUniverse/Veto/releases/download/%v/veto_all-platforms.apk
+
+Builds:
+  - versionName: '2.3'
+    versionCode: 5
+    commit: b132e12dd08ccd9f789bad8c7182cff33af3277b
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: a15a5319480a98da0e3ab71d3d8d684aa3a28e168d2d15637a803cba61392df8
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '2.3'
+CurrentVersionCode: 5
