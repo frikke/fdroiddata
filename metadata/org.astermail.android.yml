@@ -1,0 +1,37 @@
+AntiFeatures:
+  NonFreeNet:
+    en-US: The app is a client for the astermail.org email service and cannot be used
+      without an account there. That service is proprietary and hosted by its operator.
+      Account registration and alias creation are additionally protected by Cloudflare
+      Turnstile, a proprietary anti-abuse service.
+Categories:
+  - Email
+License: AGPL-3.0-or-later
+AuthorName: Aster Communications Inc.
+WebSite: https://astermail.org
+SourceCode: https://github.com/Aster-Privacy/Aster-Android
+IssueTracker: https://github.com/Aster-Privacy/Aster-Android/issues
+
+AutoName: Aster Mail
+
+RepoType: git
+Repo: https://github.com/Aster-Privacy/Aster-Android.git
+Binaries: 
+  https://github.com/Aster-Privacy/Aster-Android/releases/download/v%v/Aster-Mail-fdroid-%v.apk
+
+Builds:
+  - versionName: 0.6.156
+    versionCode: 166
+    commit: bc5ffbb716216fbd46cd96015fdf658c587c2218
+    subdir: app
+    gradle:
+      - fdroid
+    scandelete:
+      - app/src/full/assets/bergamot
+
+AllowedAPKSigningKeys: 88b0a8a6fb94ee73a454a0f92732bd408e92e51ec1e9556744e5f00556100977
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 0.6.156
+CurrentVersionCode: 166
