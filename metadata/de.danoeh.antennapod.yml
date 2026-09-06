@@ -983,9 +983,18 @@ Builds:
       - free
     prebuild: sed -i -e '/play/d' ../app-wearos/build.gradle ../net/sync/wear-interface/build.gradle
 
+  - versionName: 3.12.1
+    versionCode: 3120195
+    commit: f8c641887e4677237b01b6e942ff8fe20fc8beec
+    subdir: app
+    submodules: true
+    gradle:
+      - free
+    prebuild: sed -i -e '/play/d' ../app-wearos/build.gradle ../net/sync/wear-interface/build.gradle
+
 MaintainerNotes: Upstream devs don't need more donation so donation links are removed.
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags .*[0-9]$
-CurrentVersion: 3.12.0
-CurrentVersionCode: 3120095
+CurrentVersion: 3.12.1
+CurrentVersionCode: 3120195
