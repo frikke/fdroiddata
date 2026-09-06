@@ -114,9 +114,17 @@ Builds:
       - fdroid
     prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
 
+  - versionName: 1.5.1
+    versionCode: 10501
+    commit: 4b1870c754d0cfd2d1b98bac614e948bfb25a4d6
+    subdir: androidApp
+    gradle:
+      - fdroid
+    prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
+
 AutoUpdateMode: Version %v
 UpdateCheckMode: HTTP
 UpdateCheckData: 
   https://github.com/HarlonWang/TrendingAI/releases/latest/download/version_code.txt|versionCode=(\d+)|.|versionName=([\d.]+)
-CurrentVersion: 1.5.0
-CurrentVersionCode: 10500
+CurrentVersion: 1.5.1
+CurrentVersionCode: 10501
