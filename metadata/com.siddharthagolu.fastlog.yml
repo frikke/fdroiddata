@@ -55,9 +55,17 @@ Builds:
       - yes
     prebuild: sed -i '/foojay-resolver/d' ../settings.gradle.kts
 
+  - versionName: 1.6.0
+    versionCode: 7
+    commit: edf9dfad7284597b227fc9c4e8c0b2971740e460
+    subdir: app
+    gradle:
+      - yes
+    prebuild: sed -i '/foojay-resolver/d' ../settings.gradle.kts
+
 AllowedAPKSigningKeys: 87438f24d442b18bcbf612f0126a3cbd7abe28f7ef5acfa853fc18960c68f1e2
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: 1.5.0
-CurrentVersionCode: 6
+CurrentVersion: 1.6.0
+CurrentVersionCode: 7
