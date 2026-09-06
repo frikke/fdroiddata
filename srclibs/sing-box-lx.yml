@@ -1,0 +1,4 @@
+RepoType: git
+Repo: https://github.com/Leadaxe/sing-box-lx.git
+
+Prepare: git submodule update --init submodules/sing-tun submodules/wireguard-go submodules/gvisor
