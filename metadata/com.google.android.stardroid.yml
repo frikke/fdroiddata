@@ -1,6 +1,9 @@
+AntiFeatures:
+  NonFreeAssets:
+    en-US: Some assets are non-free
 Categories:
   - Navigation
-License: Apache-2.0
+License: GPL-3.0-or-later
 AuthorName: Sky Map Devs
 AuthorEmail: skymapdevs+feedback@gmail.com
 WebSite: https://sky-map-team.github.io/stardroid/
@@ -427,7 +430,12 @@ Builds:
       - sed -i -e '/JavaVersion/s/17/21/g' -e '/jvmToolchain/s/17/21/' ../build-logic/src/main/kotlin/skymap.android-app.gradle.kts
         ../build-logic/src/main/kotlin/skymap.android-library.gradle.kts ../build-logic/src/main/kotlin/skymap.pure-kotlin.gradle.kts
 
-MaintainerNotes: FirebaseAnalytics is a stub
+MaintainerNotes: Versions prior to 2.0.0 were licensed under Apache-2.0. From 2.0.0
+  onward, code and functional resources are GPL-3.0-or-later; a small number of brand
+  assets are not freely licensed but are included with the copyright holder's permission
+  for distribution as part of this app — see ASSET-LICENSES.txt for the exact file
+  list 
+  https://github.com/sky-map-team/stardroid/blob/master/stardroid-v2/ASSET-LICENSES.txt
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags ^v[\d.]+$
