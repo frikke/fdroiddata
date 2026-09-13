@@ -4,6 +4,11 @@ set -e
 
 cd "$(dirname "$(dirname "${BASH_SOURCE[0]}")")"
 
+if [ "$(glab auth status 2>&1 | grep Unauthorized | wc -l)" -gt 0 ]; then
+  echo "Please authenticate with `glab auth login` or set GITLAB_TOKEN env variable with a valid token"
+  exit 1
+fi
+
 mr=$1
 glab="glab --repo fdroid/fdroiddata"
 function retry {
