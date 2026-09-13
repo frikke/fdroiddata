@@ -14,7 +14,7 @@ AutoName: Navic
 
 RepoType: git
 Repo: https://github.com/ssalggnikool/Navic
-Binaries: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.apk
+Binaries: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.fdroid.apk
 
 Builds:
   - versionName: v1.0.0-alpha49
@@ -23,6 +23,7 @@ Builds:
     subdir: androidApp
     gradle:
       - yes
+    binary: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.apk
     prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
 
   - versionName: v1.0.0-alpha50
@@ -31,6 +32,7 @@ Builds:
     subdir: androidApp
     gradle:
       - yes
+    binary: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.apk
     prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
 
   - versionName: v1.0.0-alpha51
@@ -39,6 +41,7 @@ Builds:
     subdir: androidApp
     gradle:
       - yes
+    binary: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.apk
     prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
 
   - versionName: v1.0.0-alpha53
@@ -47,11 +50,30 @@ Builds:
     subdir: androidApp
     gradle:
       - yes
+    binary: https://github.com/ssalggnikool/Navic/releases/download/%v/Navic.apk
     prebuild: sed -i -e '/foojay/d' ../settings.gradle.kts
+
+  - versionName: v1.0.0-alpha54
+    versionCode: 54
+    commit: 05c9e43169362039988c7766081e304cf351638a
+    subdir: androidApp
+    gradle:
+      - yes
+    gradleprops:
+      - fdroid=true
+
+  - versionName: v1.0.0-alpha55
+    versionCode: 55
+    commit: 49ad7ba5fdc66110edc3a8612f019c8b894809ea
+    subdir: androidApp
+    gradle:
+      - yes
+    gradleprops:
+      - fdroid=true
 
 AllowedAPKSigningKeys: db7363e8fd71e4cdd13d14c073d6208588b02bb2791dd197c55f9cba9d7a52e4
 
 AutoUpdateMode: Version
 UpdateCheckMode: Tags
-CurrentVersion: v1.0.0-alpha53
-CurrentVersionCode: 53
+CurrentVersion: v1.0.0-alpha55
+CurrentVersionCode: 55
