@@ -1,6 +1,3 @@
-AntiFeatures:
-  TetheredNet:
-    en-US: Depends on the OpenStreetMap map tiles
 Categories:
   - Multimedia
   - Navigation
@@ -61,6 +58,9 @@ Builds:
       - flutter build apk --release --split-per-abi --target-platform=android-arm64
       - popd
       - mv $repo/Pinpoint org.pinpoint
+    antifeatures:
+      TetheredNet:
+        en-US: Depends on the OpenStreetMap map tiles
 
 AllowedAPKSigningKeys: e9b4343e4902564189972e532f17a16d9511a089035e26fe37698b9ae1d6ae52
 
