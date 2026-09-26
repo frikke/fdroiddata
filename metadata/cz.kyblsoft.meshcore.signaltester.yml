@@ -1,0 +1,36 @@
+AntiFeatures:
+  NonFreeNet:
+    en-US: Uses Mapy.com, CARTO and Esri map-tile providers, and fetches radio-preset
+      data from api.meshcore.nz when no built-in preset matches.
+Categories:
+  - Connectivity
+License: MIT
+AuthorName: Aleš Janda
+WebSite: https://meshcore.kyblsoft.cz/signal-tester/
+SourceCode: https://github.com/kybl/meshcore-signal-tester
+IssueTracker: https://github.com/kybl/meshcore-signal-tester/issues
+Changelog: https://github.com/kybl/meshcore-signal-tester/blob/main/CHANGELOG.md
+
+AutoName: MeshCore Signal Tester
+
+RepoType: git
+Repo: https://github.com/kybl/meshcore-signal-tester.git
+
+Builds:
+  - versionName: 1.3.2
+    versionCode: 9
+    commit: 49c7652c7c68329e8db844c968534136620b7037
+    subdir: android/app
+    gradle:
+      - direct
+    prebuild: sed -i -e '/signingConfig signingConfigs.release/d' build.gradle
+    scandelete:
+      - package.json
+      - tools/browser-check/package.json
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+UpdateCheckData: 'android/app/build.gradle|versionCode appVersionCode.*: (\d+)|.|versionName
+  appVersionName \?: "([^"]+)"'
+CurrentVersion: 1.3.2
+CurrentVersionCode: 9
