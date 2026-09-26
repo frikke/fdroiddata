@@ -1,0 +1,31 @@
+Categories:
+  - Development
+  - System
+License: AGPL-3.0-or-later
+AuthorName: m00sfett
+AuthorWebSite: https://github.com/m00sfett
+WebSite: https://hohnepeople.de/keepadb
+SourceCode: https://github.com/m00sfett/KeepADB
+IssueTracker: https://github.com/m00sfett/KeepADB/issues
+Changelog: https://github.com/m00sfett/KeepADB/blob/HEAD/CHANGELOG.md
+
+AutoName: KeepADB
+
+RepoType: git
+Repo: https://github.com/m00sfett/KeepADB.git
+Binaries: https://github.com/m00sfett/KeepADB/releases/download/v%v/KeepADB-v%v.apk
+
+Builds:
+  - versionName: 1.8.38
+    versionCode: 135
+    commit: ea21f249b94a1f917be3e9a8948e029d9eea97c6
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: c52bcd171b5ccee887f3c16cc3a474b38bd9ccd771ca8cd992f82e4d17753c04
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.8.38
+CurrentVersionCode: 135
