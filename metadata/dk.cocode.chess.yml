@@ -1,0 +1,33 @@
+Categories:
+  - Board Game
+  - Puzzle Game
+License: Apache-2.0
+AuthorName: Babak Bandpey
+AuthorEmail: bb@cocode.dk
+AuthorWebSite: https://cocode.dk
+WebSite: https://chess.cocode.dk/
+SourceCode: https://github.com/cocodedk/chess-puzzles
+IssueTracker: https://github.com/cocodedk/chess-puzzles/issues
+Changelog: https://github.com/cocodedk/chess-puzzles/releases
+
+AutoName: Chess Puzzles
+
+RepoType: git
+Repo: https://github.com/cocodedk/chess-puzzles.git
+Binaries: https://github.com/cocodedk/chess-puzzles/releases/download/v%v/ChessPuzzles.apk
+
+Builds:
+  - versionName: 0.5.10
+    versionCode: 5010
+    commit: 1fe46fb0e3af6cd196bb5e9d8273d927278f9d53
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: d905d23c91db64e2507be7a3354ae0605d8f97525ce6b95fdb07109ce6c11967
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+UpdateCheckData: gradle.properties|VERSION_CODE=(\d+)|.|VERSION_NAME=(.+)
+CurrentVersion: 0.5.10
+CurrentVersionCode: 5010
