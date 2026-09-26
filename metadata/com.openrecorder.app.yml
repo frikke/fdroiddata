@@ -1,0 +1,28 @@
+Categories:
+  - Recorder
+License: GPL-3.0-only
+AuthorName: NoneBaiano
+SourceCode: https://github.com/NoneBaiano/OpenRecorder
+IssueTracker: https://github.com/NoneBaiano/OpenRecorder/issues
+
+AutoName: Open Recorder
+
+RepoType: git
+Repo: https://github.com/NoneBaiano/OpenRecorder.git
+Binaries: 
+  https://github.com/NoneBaiano/OpenRecorder/releases/download/v%v/OpenRecorder-%v.apk
+
+Builds:
+  - versionName: 1.0.1
+    versionCode: 10001
+    commit: 27c6399863905dbf5d47e8c0c1c23943e68e5b83
+    subdir: app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: f03d10ba67605894e8ee3ae6da3a4eb7b500e3a48fae50929059fe646efc2ef6
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: 1.0.1
+CurrentVersionCode: 10001
