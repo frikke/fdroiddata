@@ -1,0 +1,30 @@
+Categories:
+  - Note
+  - Task
+License: MIT
+AuthorName: Richard Leopold
+SourceCode: https://github.com/Richy1989/keepIT
+IssueTracker: https://github.com/Richy1989/keepIT/issues
+Changelog: https://github.com/Richy1989/keepIT/releases
+
+AutoName: keepIT
+
+RepoType: git
+Repo: https://github.com/Richy1989/keepIT.git
+Binaries: 
+  https://github.com/Richy1989/keepIT/releases/download/v%v/keepit-v%v-universal.apk
+
+Builds:
+  - versionName: 0.7.6
+    versionCode: 706
+    commit: 821bd162327a0738cdbcb6176f8de83121b23c84
+    subdir: app/app
+    gradle:
+      - yes
+
+AllowedAPKSigningKeys: 2a519c472795b06bcc8ecad140ccdd16cd36b51b1a9cbaa8f6fed3635e693c3a
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags ^v[\d.]+$
+CurrentVersion: 0.7.6
+CurrentVersionCode: 706
